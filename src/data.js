@@ -122,33 +122,60 @@ export const sidebarPosts = [
   },
   {
     id: 'still-whisper',
-    title: 'Mình muốn làm mọi thứ, nên mình không làm gì cả.',
-    excerpt: 'Mình muốn hoàn thành nốt task, nhưng rồi mình lại mở Youtube.',
+    title: 'Tắc đường.',
+    excerpt: 'Tại ai? Tôi không biết. Nhưng chắc chắn không phải tại tôi.',
     content: `
-      Năm tab đang mở trên Cốc Cốc, 2 tab trên Edge, 1 tab VSCode, 3 tab Excel - đó là tất cả những gì trong máy mình hằng ngày. 
-      Vào những ngày lười hơn, số lượng tab trên Cốc Cốc có thể lên đến hơn chục cái. Không phải vì đó là tab quan trọng, mà mình quá lười để xóa nó đi, hoặc cảm thấy "biết đâu lúc khác lại động tới thì sao". 
+      Sống ở HN chỉ một ngày thôi thì thằng trên núi xuống cũng biết không nên ra đường lúc 7h sáng với 6h chiều, vì đấy là lúc tắc nhất. Nhưng vì miếng cơm manh áo, đa phần người dân vẫn phải ra đường giờ này. Thế tại sao đường lại tắc?
+
+À chắc bạn đang nghĩ ngay là tại đông xe quá. Nhà có bao nhiêu người thì từng ấy cái xe máy mà; đứa trẻ con cũng phải có xe đạp hoặc xe điện. Chưa kể oto. Vậy mỗi gia đình cỡ 3-6 xe 2 bánh và 1-2 xe bốn bánh. Đông xe gây tắc đường: thoạt nghe chuyện này rất hợp lý. Nhưng trong một bài phỏng vấn khoảng năm 2010s, luật sư Nguyễn Trần Bạt từng nhắc chúng ta nhớ rằng thời kỳ cả HN toàn xe đạp và rất thưa dân, chúng ta vẫn có tắc đường bằng xe đạp vào giờ đi làm và tan sở. Vậy số xe không phải vấn đề.
+
+À vậy chắc tại thiếu đường đi; phải xây thêm cầu thêm hầm, mở thêm nhiều đường nữa. Nhưng bài học các nước cho thấy xây lắm đường không giảm ùn tắc mà chỉ làm tắc thêm, vì thêm đường = đi lại tiện = nhu cầu di chuyển tăng cao.
+
+À vậy hẳn là tại ý thức người dân. Mỗi khi nghe ai nói tắc đường do ý thức người dân, tôi đều nghĩ chắc nó trừ mình ra. Và trừ cả nó nữa. Đúng vậy. Trừ hai chúng tôi ra, thiên hạ toàn đi xe lối mất dạy cả. Rặt những ông có bằng lái nhưng đi láo; một dạng có học nhưng ngộ đầu học. Mả cha những thằng vượt đèn đỏ, những ông shipper lạng lách, những bà ninja xi nhan trái nhưng rẽ phải vào hàng quần áo. Vân vân.
+
+Nhưng tại sao họ đi sai luật? Họ biết đi sai luật gây tắc đường gây tai nạn nhưng họ vẫn đi, bởi vì đường xá ở ta thực sự có những chỗ bất hợp lý quá. Hẳn bạn đã từng đi qua những con đường đi mãi không thấy chỗ rẽ, đến nơi rẽ lại không rẽ được vì hướng ngược lại nó lao thẳng vào mình, hoặc chỗ rẽ là một ngã tư ùn tắc, hoặc đáng rẽ được nhưng người ta cắm biển cấm rẽ, không biết lý do tại sao. Hẳn bạn cũng từng đi qua những con đường chia hai làn một bên oto một bên xe máy nhưng làn oto chẳng ai đi còn bên xe máy đông quá, lấn sang một tí thì bị tóm cổ.
+
+Chính hệ thống giao thông nhiều khi vô lý nên họ đành tặc lưỡi đi sai, chứ tiện lợi thì ai muốn sai chứ? Vậy thay vì đổ tại ý thức người dân, người ta nên bố trí đường sá hợp lý hơn để làm cho việc đi sai luật thành ra mất thời gian cho kẻ nào cố tình.
     `,
     image: '/images/anhbia4.jpg',
     date: '21 Tháng Mười',
   },
   {
     id: 'girls-void',
-    title: 'Sau này thì Gen Alpha cũng thế thôi.',
-    excerpt: 'Một vòng lặp ấy mà.',
+    title: 'Sống một đời vô nghĩa?',
+    excerpt: 'Chắc chắn là không.',
     content: `
-      Những cô gái trong khoảng trống — không thuộc về nơi nào, không bị ràng buộc bởi định nghĩa.
-      Họ tồn tại như ánh sáng trong bóng tối...
+      Phần lớn chúng ta sống một cuộc đời tầm thường. Sinh ra, lớn lên, đi học đi làm, sinh con cái. Sau khi chế.t, ta sống thêm vài mươi năm trong ký ức con cháu và bạn bè. Rồi những người này qua đời nốt, và tên tuổi chúng ta chỉ còn là hư vô, những năm tháng chúng ta sống chẳng còn ai nhớ tới. Nỗi sợ một cuộc đời vô nghĩa là theme cho cuốn sách kinh điển có tên The Tartar Stepp (Hoang Mạc Tartar) của Dino Buzzati.
+
+Cuốn sách mở đầu với không khí giống như Lâu Đài của Kafka. Nhân vật chính, Giovanni Drogo, là một sĩ quan trẻ nhiệt huyết. Do nhầm lẫn hành chính, Drogo được gọi đi lính tại pháo đài Bastini, một nơi đồng không mông quạnh. Người ta nói rằng pháo đài này bảo vệ đất nước khỏi bọn Tartar, nhưng lần cuối có bọn Tartar xâm lược là khi nào thì không ai nhớ. Dù nhiệm vụ ở Bastini là một sự nhầm lẫn, Drogo cũng rất háo hức với cuộc đời chiến chinh trước mắt: biết bao mạo hiểm xông pha, vả anh sẽ giải thích cho cấp trên để sớm được chuyển về đóng trong thành phố náo nhiệt. Nhiệm vụ tại Bastini chỉ là tạm thời. Drogo tin rằng mình sẽ không ở đây lâu.
+
+Nhưng hết lần xem xét này tới lần gia hạn khác mà vẫn chưa được đi, Drogo dần cảm thấy quen với nhịp sống tẻ nhạt ở doanh trại. Thay vì muốn rời đi, Drogo tự thuyết phục bản thân rằng ở đây cũng tốt. Dù sao anh cũng đang góp phần chống giặc Tartar, một việc có ý nghĩa. Nhưng cả thế giới không hề biết đến pháo đài Bastini và những người lính ở đó. Buzzati viết “But it seemed as if Drogo’s existence had come to a halt. The same day, the same things, had repeated themselves hundreds of times without taking a step forward.”
+
+Hàng chục năm trôi qua, Drogo già nua cuối cùng cũng được gọi về thành phố đóng quân. Bệnh tật và mệt mỏi, Drogo gắng gượng trở về thành phố nơi khi ra đi ông vẫn là một chàng trai nhiệt huyết. Trên đường, khi nhìn thấy những lính trẻ được cử lên pháo đài, Drogo cay đắng nghĩ về cả cuộc đời mà ông đã bỏ phí. Drogo vô danh chế.t trong cô độc.
+
+The Tartar Stepp là câu chuyện về cạm bẫy thời gian, về khát vọng sống bị bóp nghẹt và những cơ hội bị bỏ lỡ trong đời. Nó còn gợi ta nghĩ về chính nhà tù ta tạo ra trong tâm trí mình: những thói quen và định kiến giam giữ ta mà ta không bao giờ thoát khỏi.
     `,
     image: '/images/anh6.jpg',
     date: '5 Tháng Mười',
   },
   {
     id: 'learned-uni',
-    title: 'Bạn là ai khi bạn không làm hài lòng bất kỳ ai?',
-    excerpt: 'Những ghi chú ngoài lề về trưởng thành.',
+    title: 'A Taste Acquired',
+    excerpt: 'Nhiều màu.',
     content: `
-      Đại học không chỉ dạy tôi kiến thức chuyên môn. Nó dạy tôi cách thất bại, cách đứng dậy,
-      cách yêu thương và cách buông bỏ...
+      Tôi rất thích một chai rượu Ý tên là Campari. Nó uống đắng và gắt. Chẳng ai mới thử mà khen Campari ngon cả. Hồi làm bartender, vì thấy anh chủ quán hay uống Campari soda nên tôi mới tò mò uống thử, uống nhiều tự nhiên lại thích. Sau này dịch thơ Pablo Neruda tôi mới biết đây cũng là món khoái khẩu của nhà thơ và cô nhân tình. Trong thế giới rượu, những chai đắng hoặc gắt được xếp vào hạng “a taste acquired”, nghĩa là chẳng ai tự nhiên thích vị của chúng cả; người ta phải tiếp xúc nhiều và học cách thích những chai rượu khó ưa ấy. Khi đã thông cảm và hiểu được cái hay, ta đâm nghiện nó hơn mọi món ngon khác.
+
+Có nhiều môn thưởng thức thuộc dạng này. Nhạc cổ điển là a taste acquired. Trong bài “Dẫn Vào Thế Giới Nhạc Jazz” trên chiep.co, tôi nói rằng nhạc cổ điển khó nghe với tai người hiện đại vì nó cần ta tập trung và nghe lại nhiều lần mới thích; classical không catchy như pop.
+
+Cà phê arabica pha máy Italia là a taste acquired. Đầu 2010 khi môn chơi này mới được phổ biến ở HN, ai cũng chê nó nhạt nhẽo không bằng cốc cà phê 10k ở Quất hay Duy Trí. Nhưng 10 năm sau nó được thấu hiểu và được chấp nhận, ta biết rằng đấy cũng là một kiểu ngon, và giờ đây hầu như quán nào cũng có máy pha của Ý.
+
+Rượu vang là a taste acquired. Ai mới uống chẳng chê rượu vang không ngon bằng rượu nút lá chuối ở quê? Nhưng càng uống nhiều và càng tìm hiểu về các tầng hương vị, vùng đất trồng hay cách làm ra chai rượu, ta càng yêu và lúc uống cảm nhận được những điều người khác không hiểu.
+
+Đồng hồ đeo tay là a taste acquired. Mới đầu không ai hiểu đồng hồ cơ khác gì đồng hồ pin, hay dô-lếch, cà-ti-ê khác gì đồng hồ tàu mà đắt bằng mấy cái xe máy. Nhưng tìm hiểu sâu thì ta không những thích cà-ti-ê mà còn thích nó phải là máy automatic, sản xuất năm này năm kia ta mới chịu.
+
+Bạn gái nói chuyện hay là a taste acquired. Con trai mới lớn chỉ thích những bạn gái mặt xinh hoặc chân dài như người mẫu. Nhưng trải qua hết những thứ đó, ta thấy những cô gái hiểu biết và nói chuyện hay gây nghiện hơn; ngồi với họ cả ngày không chán được.
+
+Những cái Taste Acquired giúp cuộc sống đỡ bị một màu và là dấu ấn cá nhân khiến người thưởng thức tâm đắc. Vậy bạn đã có cái taste acquired nào chưa?
     `,
     image: '/images/anh5.jpg',
     date: '1 Tháng Mười',

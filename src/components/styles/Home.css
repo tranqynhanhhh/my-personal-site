@@ -1,9 +1,46 @@
-/* src/styles/Home.css */
+/* Base Styles */
 .home {
   background-color: #eee0de;
   color: #3a0a0a;
   font-family: 'Lora', serif;
   padding: 2rem;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #f5f1ec;
+  padding: 2rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-bottom: 2px solid #fff;
+  margin-bottom: 2rem;
+}
+
+.nav-brand {
+  font-size: 3rem;
+  font-weight: 600;
+  color: #3a0a0a;
+  margin-bottom: 1rem;
+}
+
+.nav-links {
+  display: flex;
+  gap: 2rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.nav-links li a {
+  text-decoration: none;
+  color: #3a0a0a;
+  font-weight: 500;
+  font-size: 1.5rem;
+}
+
+.nav-links li a:hover {
+  color: #6fa58f;
 }
 
 /* Header */
@@ -55,12 +92,8 @@
 
 .featured-excerpt {
   margin-bottom: 0.5rem;
-  line-height: 1.0;
-  font-size: 1.1rem; 
-}
-
-.side-meta {
-  margin-top: -1rem;
+  line-height: 1.4;
+  font-size: 1.1rem;
 }
 
 .featured-date {
@@ -99,6 +132,10 @@
   height: 80px;
   object-fit: cover;
   border-radius: 8px;
+}
+
+.side-meta {
+  margin-top: -1rem;
 }
 
 .side-title {
@@ -158,39 +195,101 @@
   font-weight: 600;
 }
 
-/* Navbar */
-.navbar {
-  background-color: #f5f1ec;
-  padding: 2rem 0;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  border-bottom: 2px solid #fff;
-  margin-bottom: 2rem;
-}
+/* Responsive Mobile Layout */
+@media (max-width: 768px) {
+  .home {
+    padding: 1rem;
+  }
 
-.nav-brand {
-  font-size: 3rem;
-  font-weight: 600;
-  color: #3a0a0a;
-  margin-bottom: 1rem;
-}
+  .navbar {
+    padding: 1rem 0;
+    margin-bottom: 1rem;
+  }
 
-.nav-links {
-  display: flex;
-  gap: 2rem;
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
+  .nav-brand {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+  }
 
-.nav-links li a {
-  text-decoration: none;
-  color: #3a0a0a;
-  font-weight: 500;
-  font-size: 1.5rem;
-}
+  .nav-links {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
 
-.nav-links li a:hover {
-  color: #6fa58f;
+  .nav-links li a {
+    font-size: 1.1rem;
+  }
+
+  .home-header {
+    justify-content: center;
+    margin-bottom: 1.5rem;
+  }
+
+  .new-post-btn {
+    font-size: 0.9rem;
+    padding: 0.4rem 0.8rem;
+  }
+
+  .layout {
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .featured-img {
+    height: 200px;
+  }
+
+  .featured-title {
+    font-size: 1.4rem;
+  }
+
+  .featured-excerpt {
+    font-size: 1rem;
+  }
+
+  .read-more {
+    font-size: 1rem;
+  }
+
+  .sidebar {
+    gap: 1rem;
+  }
+
+  .side-item {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 1rem;
+  }
+
+  .side-thumb {
+    width: 100%;
+    height: 160px;
+  }
+
+  .side-title {
+    font-size: 1rem;
+  }
+
+  .side-excerpt {
+    font-size: 0.85rem;
+  }
+
+  .side-date {
+    font-size: 0.75rem;
+  }
+
+  .popular-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .pop-thumb {
+    height: 140px;
+  }
+
+  .pop-title {
+    font-size: 0.95rem;
+    text-align: center;
+  }
 }

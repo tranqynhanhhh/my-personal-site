@@ -22,17 +22,25 @@ export default function PostDetail() {
   return (
     <div className="post-detail">
       <Link to="/" className="back-link">← Quay lại trang chủ</Link>
-      <article className="article">
-        <h1 className="title">{post.title}</h1>
-        {post.image && <img src={post.image} alt={post.title} className="cover" />}
-        <p className="date">{post.date}</p>
-        <div
-          className="content"
-          dangerouslySetInnerHTML={{
-            __html: (post.content || '').replace(/\n/g, '<br>')
-          }}
-        />
-      </article>
+      <article
+  className="article"
+  style={{
+    backgroundImage: `url(${post.image})`,
+    backgroundSize: 'cover',
+    backgroundPosition: 'center',
+    backgroundRepeat: 'no-repeat'
+  }}
+>
+  <h1 className="title">{post.title}</h1>
+  <p className="date">{post.date}</p>
+  <div
+    className="content"
+    dangerouslySetInnerHTML={{
+      __html: (post.content || '').replace(/\n/g, '<br>')
+    }}
+  />
+</article>
+
     </div>
   );
 }
