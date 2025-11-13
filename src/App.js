@@ -1,22 +1,32 @@
+// src/App.js
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Navbar from './components/Navbar';
 import Home from './components/Home';
-import Art from './components/Art';
+import PostDetail from './components/PostDetail';
+import Login from './components/Login';
+import Posts from './components/Posts';
 import Stories from './components/Stories';
+import Asks from './components/Asks';
 import About from './components/About';
 
-function App() {
+export default function App() {
   return (
     <Router>
-      <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/art" element={<Art />} />
-        <Route path="/stories" element={<Stories />} />
+
+        {/* Bài viết chi tiết */}
+        <Route path="/post/:id" element={<PostDetail />} />
+
+        {/* Trang mới thêm */}
+        <Route path="/login" element={<Login />} />
+        <Route path="/notes" element={<Posts />} />
+        <Route path="/articles" element={<Stories />} />
+        <Route path="/ranking" element={<Asks />} />
         <Route path="/about" element={<About />} />
+
+        {/* Tùy chọn: Nếu bạn có trang /post/new sau này */}
+        {/* <Route path="/post/new" element={<NewPost />} /> */}
       </Routes>
     </Router>
   );
 }
-
-export default App;

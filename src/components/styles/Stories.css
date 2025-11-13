@@ -1,0 +1,43 @@
+/* src/styles/Stories.css */
+.stories-page {
+  background: #f5f1ec;
+  color: #3a0a0a;
+  min-height: 80vh;
+  padding: 2rem;
+  font-family: 'Lora', serif;
+}
+
+.stories-lock {
+  background: #fff;
+  border: 2px solid #fff;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 0 0 2px #fff;
+  max-width: 420px;
+}
+
+.stories-input {
+  padding: 0.6rem 0.8rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  width: 100%;
+  margin: 0.8rem 0;
+}
+
+.stories-btn {
+  background-color: #3a0a0a;
+  color: #fff;
+  border: none;
+  padding: 0.6rem 0.8rem;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.stories-content {
+  background: #ffffff;
+  border: 2px solid #fff;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 0 0 2px #fff;
+  max-width: 720px;
+}

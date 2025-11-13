@@ -1,0 +1,14 @@
+/* Common.css — dùng cho các trang trừ Home */
+.back-home {
+  display: inline-block;
+  margin-bottom: 1.5rem;
+  color: #3a0a0a;
+  text-decoration: none;
+  font-size: 1.5rem;
+  font-weight: 600;
+  transition: color 0.2s ease;
+}
+
+.back-home:hover {
+  color: #6fa58f;
+}

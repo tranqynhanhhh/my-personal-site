@@ -1,0 +1,72 @@
+/* src/styles/Asks.css */
+.asks-page {
+  background: #f5f1ec;
+  color: #3a0a0a;
+  min-height: 80vh;
+  padding: 2rem;
+  font-family: 'Lora', serif;
+}
+
+.asks-input-row {
+  display: flex;
+  gap: 0.8rem;
+  margin-bottom: 1rem;
+}
+
+.asks-input {
+  flex: 1;
+  padding: 0.6rem 0.8rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.asks-add-btn {
+  background-color: #3a0a0a;
+  color: #fff;
+  border: none;
+  padding: 0.6rem 0.8rem;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.asks-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: 1rem;
+}
+
+.asks-item {
+  background: #fff;
+  border: 2px solid #fff;
+  border-radius: 12px;
+  padding: 1rem;
+  box-shadow: 0 0 0 2px #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.asks-text {
+  max-width: 70%;
+  line-height: 1.5;
+}
+
+.asks-actions {
+  display: flex;
+  gap: 0.6rem;
+}
+
+.asks-edit-btn, .asks-delete-btn {
+  background-color: #6fa58f;
+  color: #fff;
+  border: none;
+  padding: 0.4rem 0.6rem;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.asks-delete-btn {
+  background-color: #c74a4a;
+}
