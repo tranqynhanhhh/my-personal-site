@@ -1,5 +1,37 @@
 export const featuredPost = {
-  id: 'cold-elegance',
+  id: 'mua-thu-ha-noi',
+  title: 'Mình thấy thu Hà Nội chưa trọn vẹn.',
+  excerpt: 'Một expression mới cho mùa thu.',
+  content: `
+    Ở Hà Nội, mùa thu dường như là mùa được mong chờ nhất năm. Không khí dễ chịu, những cái nắng cũng trở nên dịu dàng hơn, lòng người cũng nhẹ nhàng đi. Người Hà Nội lúc này không còn nóng nảy vội vã tìm một bóng râm như mùa hè, cũng chưa đến kiểu tâm trạng trầm lặng u ám co ro như mùa đông. Tất cả đều ở mức bình bình, vừa đủ. Bạn đã có thể mặc áo dài tay, nhưng bên dưới vẫn thoải mái bận chân váy ngắn hay quần short. Mọi thứ vào mùa thu đều trở nên dễ thở hơn, và bởi vậy người ta yêu mùa thu. 
+Khác với cái nắng cháy da cháy thịt của trời hè, biến Hà Nội thành cái nồi hấp bánh bao; khác với cái rét co ro run rẩy đến mức răng va lập cập vào nhau, đi xe máy mà không đeo găng tay thì vừa cóng vừa rát vì nứt nẻ, như thể trong không khí có sẵn những lưỡi dao lam. Thành thử ra, mùa thu là mùa dịu dàng duy nhất. Đó là mùa mà mọi người sẵn sàng chạy xe thong dong lượn khắp phố xá, ngồi những chiếc ghế được kê ở phía ngoài mấy quán cà phê mà không lo ngại về việc quá nóng hoặc quá lạnh. Họ gọi bạc sỉu, với mua ít cốm từ những người bán cốm rong, chỉ nhiêu đó đủ khiến họ thong dong cả nửa ngày trời.
+Người Hà Nội thật lòng yêu mùa thu. Nhưng ngày nay khi nói về nó, họ gần như chỉ nói được những điều lặp đi lặp lại. Quanh quẩn trên mạng xã hội hay những nền tảng văn hóa đại chúng, ta bắt gặp những cụm từ như “cốm”, “trà đá Nhà Thờ”, “ngồi cà phê”, “đường Phan Đình Phùng”,... Nó không sai, nhưng nó hời hợt. Hời hợt thì tức là nhạt, là vô vị. Muốn có cái gì sâu sắc hơn, họ phải viện dẫn đến thơ và nhạc của những người đã sống trong mùa thu Hà Nội từ thế kỷ trước.
+
+<em>“Rặng liễu đìu hiu đứng chịu rang
+Tóc buồn buông xuống lệ ngàn hàng
+Đây mùa thu tới – mùa thu tới
+Với áo mơ phai dệt lá vàng.”</em>
+Xuân Diệu
+
+Hoặc, mùa thu có nhạc của Trịnh Công Sơn:
+
+<em>“Hà Nội mùa thu, cây cơm nguội vàng
+Cây bàng lá đỏ, nằm kề bên nhau
+Phố xưa nhà cổ, mái ngói thẫm nâu
+Hà Nội mùa thu, mùa thu Hà Nội...”</em>
+                                              
+Mùa thu trong mắt những thế hệ tiền nhân có vẻ buồn, yêu đương thì thơ mộng, có phần sễn súa, ấy là tông màu chính trong gần một thế kỷ qua. So với họ, mùa thu của chúng ta ngày nay chẳng có không khí gì đặc biệt. Nó không thê lương như mùa thu của Xuân Diệu, không cổ điển như mùa thu của Văn Cao, không lãng mạn như mùa thu của Đoàn Chuẩn. Mùa thu của người Hà Nội ngày nay nhạt nhẽo và hời hợt như một bát cơm nguội. Chúng ta không có một nhà thơ, một nhà văn, một nhạc sĩ đương đại nào đủ sức cổ động tinh thần của thời đại vào một hai dòng thơ hay câu hát như các bậc tiền nhân đã làm. Hoặc vấn đề ngược lại: các nghệ sĩ đã sẵn sàng, nhưng cái đời sống tinh thần nói chung nhạt nhẽo quá, những cái chúng ta nghĩ chúng ta làm hằng ngày thì nó tầm thường quá, chẳng có gì đáng để cô đọng cả. Nếu những thế hệ sau lật lại những áng văn thơ, họ sẽ thấy một đương đại khuyết trống và vô cảm, chỉ vì chúng ta là một thế hệ không có mùa thu của riêng mình.
+
+
+    <b> Aelin. </b> 
+  `,
+  image: 'https://i.pinimg.com/736x/f0/37/0f/f0370fc8b8016cb0b31c20fdc4d1f213.jpg',
+  date: '15 Tháng Mười Một',
+};
+
+export const sidebarPosts = [
+  {
+    id: 'cold-elegance',
   title: 'Nghịch lý của việc khao khát được để ý nhưng lại sợ bị nhìn thấy.',
   excerpt: 'Một loại căng thẳng âm thầm.',
   content: `
@@ -38,9 +70,7 @@ export const featuredPost = {
   `,
   image: '/images/anhbai1.jpg',
   date: '12 Tháng Mười Một',
-};
-
-export const sidebarPosts = [
+  },
   {
     id: 'split-screen',
     title: 'Hồ Tây.',
@@ -184,9 +214,9 @@ Những cái Taste Acquired giúp cuộc sống đỡ bị một màu và là d�
 
 export const popularPosts = [
   featuredPost,
-  sidebarPosts[4],
-  sidebarPosts[1],
   sidebarPosts[2],
+  sidebarPosts[1],
+  sidebarPosts[3],
 ];
 
 // Mảng tổng hợp tất cả bài viết
