@@ -20,7 +20,7 @@ Cây bàng lá đỏ, nằm kề bên nhau
 Phố xưa nhà cổ, mái ngói thẫm nâu
 Hà Nội mùa thu, mùa thu Hà Nội...”</em>
                                               
-Mùa thu trong mắt những thế hệ tiền nhân có vẻ buồn, yêu đương thì thơ mộng, có phần sễn súa, ấy là tông màu chính trong gần một thế kỷ qua. So với họ, mùa thu của chúng ta ngày nay chẳng có không khí gì đặc biệt. Nó không thê lương như mùa thu của Xuân Diệu, không cổ điển như mùa thu của Văn Cao, không lãng mạn như mùa thu của Đoàn Chuẩn. Mùa thu của người Hà Nội ngày nay nhạt nhẽo và hời hợt như một bát cơm nguội. Chúng ta không có một nhà thơ, một nhà văn, một nhạc sĩ đương đại nào đủ sức cổ động tinh thần của thời đại vào một hai dòng thơ hay câu hát như các bậc tiền nhân đã làm. Hoặc vấn đề ngược lại: các nghệ sĩ đã sẵn sàng, nhưng cái đời sống tinh thần nói chung nhạt nhẽo quá, những cái chúng ta nghĩ chúng ta làm hằng ngày thì nó tầm thường quá, chẳng có gì đáng để cô đọng cả. Nếu những thế hệ sau lật lại những áng văn thơ, họ sẽ thấy một đương đại khuyết trống và vô cảm, chỉ vì chúng ta là một thế hệ không có mùa thu của riêng mình.
+Mùa thu trong mắt những thế hệ tiền nhân có vẻ buồn, yêu đương thì thơ mộng, có phần sến súa, ấy là tông màu chính trong gần một thế kỷ qua. So với họ, mùa thu của chúng ta ngày nay chẳng có không khí gì đặc biệt. Nó không thê lương như mùa thu của Xuân Diệu, không cổ điển như mùa thu của Văn Cao, không lãng mạn như mùa thu của Đoàn Chuẩn. Mùa thu của người Hà Nội ngày nay nhạt nhẽo và hời hợt như một bát cơm nguội. Chúng ta không có một nhà thơ, một nhà văn, một nhạc sĩ đương đại nào đủ sức cổ động tinh thần của thời đại vào một hai dòng thơ hay câu hát như các bậc tiền nhân đã làm. Hoặc vấn đề ngược lại: các nghệ sĩ đã sẵn sàng, nhưng cái đời sống tinh thần nói chung nhạt nhẽo quá, những cái chúng ta nghĩ chúng ta làm hằng ngày thì nó tầm thường quá, chẳng có gì đáng để cô đọng cả. Nếu những thế hệ sau lật lại những áng văn thơ, họ sẽ thấy một đương đại khuyết trống và vô cảm, chỉ vì chúng ta là một thế hệ không có mùa thu của riêng mình.
 
 
     <b> Aelin. </b> 
@@ -151,44 +151,6 @@ export const sidebarPosts = [
     date: '22 Tháng Mười',
   },
   {
-    id: 'still-whisper',
-    title: 'Tắc đường.',
-    excerpt: 'Tại ai? Tôi không biết. Nhưng chắc chắn không phải tại tôi.',
-    content: `
-      Sống ở HN chỉ một ngày thôi thì thằng trên núi xuống cũng biết không nên ra đường lúc 7h sáng với 6h chiều, vì đấy là lúc tắc nhất. Nhưng vì miếng cơm manh áo, đa phần người dân vẫn phải ra đường giờ này. Thế tại sao đường lại tắc?
-
-À chắc bạn đang nghĩ ngay là tại đông xe quá. Nhà có bao nhiêu người thì từng ấy cái xe máy mà; đứa trẻ con cũng phải có xe đạp hoặc xe điện. Chưa kể oto. Vậy mỗi gia đình cỡ 3-6 xe 2 bánh và 1-2 xe bốn bánh. Đông xe gây tắc đường: thoạt nghe chuyện này rất hợp lý. Nhưng trong một bài phỏng vấn khoảng năm 2010s, luật sư Nguyễn Trần Bạt từng nhắc chúng ta nhớ rằng thời kỳ cả HN toàn xe đạp và rất thưa dân, chúng ta vẫn có tắc đường bằng xe đạp vào giờ đi làm và tan sở. Vậy số xe không phải vấn đề.
-
-À vậy chắc tại thiếu đường đi; phải xây thêm cầu thêm hầm, mở thêm nhiều đường nữa. Nhưng bài học các nước cho thấy xây lắm đường không giảm ùn tắc mà chỉ làm tắc thêm, vì thêm đường = đi lại tiện = nhu cầu di chuyển tăng cao.
-
-À vậy hẳn là tại ý thức người dân. Mỗi khi nghe ai nói tắc đường do ý thức người dân, tôi đều nghĩ chắc nó trừ mình ra. Và trừ cả nó nữa. Đúng vậy. Trừ hai chúng tôi ra, thiên hạ toàn đi xe lối mất dạy cả. Rặt những ông có bằng lái nhưng đi láo; một dạng có học nhưng ngộ đầu học. Mả cha những thằng vượt đèn đỏ, những ông shipper lạng lách, những bà ninja xi nhan trái nhưng rẽ phải vào hàng quần áo. Vân vân.
-
-Nhưng tại sao họ đi sai luật? Họ biết đi sai luật gây tắc đường gây tai nạn nhưng họ vẫn đi, bởi vì đường xá ở ta thực sự có những chỗ bất hợp lý quá. Hẳn bạn đã từng đi qua những con đường đi mãi không thấy chỗ rẽ, đến nơi rẽ lại không rẽ được vì hướng ngược lại nó lao thẳng vào mình, hoặc chỗ rẽ là một ngã tư ùn tắc, hoặc đáng rẽ được nhưng người ta cắm biển cấm rẽ, không biết lý do tại sao. Hẳn bạn cũng từng đi qua những con đường chia hai làn một bên oto một bên xe máy nhưng làn oto chẳng ai đi còn bên xe máy đông quá, lấn sang một tí thì bị tóm cổ.
-
-Chính hệ thống giao thông nhiều khi vô lý nên họ đành tặc lưỡi đi sai, chứ tiện lợi thì ai muốn sai chứ? Vậy thay vì đổ tại ý thức người dân, người ta nên bố trí đường sá hợp lý hơn để làm cho việc đi sai luật thành ra mất thời gian cho kẻ nào cố tình.
-    `,
-    image: '/images/anhbia4.jpg',
-    date: '21 Tháng Mười',
-  },
-  {
-    id: 'girls-void',
-    title: 'Sống một đời vô nghĩa?',
-    excerpt: 'Chắc chắn là không.',
-    content: `
-      Phần lớn chúng ta sống một cuộc đời tầm thường. Sinh ra, lớn lên, đi học đi làm, sinh con cái. Sau khi chế.t, ta sống thêm vài mươi năm trong ký ức con cháu và bạn bè. Rồi những người này qua đời nốt, và tên tuổi chúng ta chỉ còn là hư vô, những năm tháng chúng ta sống chẳng còn ai nhớ tới. Nỗi sợ một cuộc đời vô nghĩa là theme cho cuốn sách kinh điển có tên The Tartar Stepp (Hoang Mạc Tartar) của Dino Buzzati.
-
-Cuốn sách mở đầu với không khí giống như Lâu Đài của Kafka. Nhân vật chính, Giovanni Drogo, là một sĩ quan trẻ nhiệt huyết. Do nhầm lẫn hành chính, Drogo được gọi đi lính tại pháo đài Bastini, một nơi đồng không mông quạnh. Người ta nói rằng pháo đài này bảo vệ đất nước khỏi bọn Tartar, nhưng lần cuối có bọn Tartar xâm lược là khi nào thì không ai nhớ. Dù nhiệm vụ ở Bastini là một sự nhầm lẫn, Drogo cũng rất háo hức với cuộc đời chiến chinh trước mắt: biết bao mạo hiểm xông pha, vả anh sẽ giải thích cho cấp trên để sớm được chuyển về đóng trong thành phố náo nhiệt. Nhiệm vụ tại Bastini chỉ là tạm thời. Drogo tin rằng mình sẽ không ở đây lâu.
-
-Nhưng hết lần xem xét này tới lần gia hạn khác mà vẫn chưa được đi, Drogo dần cảm thấy quen với nhịp sống tẻ nhạt ở doanh trại. Thay vì muốn rời đi, Drogo tự thuyết phục bản thân rằng ở đây cũng tốt. Dù sao anh cũng đang góp phần chống giặc Tartar, một việc có ý nghĩa. Nhưng cả thế giới không hề biết đến pháo đài Bastini và những người lính ở đó. Buzzati viết “But it seemed as if Drogo’s existence had come to a halt. The same day, the same things, had repeated themselves hundreds of times without taking a step forward.”
-
-Hàng chục năm trôi qua, Drogo già nua cuối cùng cũng được gọi về thành phố đóng quân. Bệnh tật và mệt mỏi, Drogo gắng gượng trở về thành phố nơi khi ra đi ông vẫn là một chàng trai nhiệt huyết. Trên đường, khi nhìn thấy những lính trẻ được cử lên pháo đài, Drogo cay đắng nghĩ về cả cuộc đời mà ông đã bỏ phí. Drogo vô danh chế.t trong cô độc.
-
-The Tartar Stepp là câu chuyện về cạm bẫy thời gian, về khát vọng sống bị bóp nghẹt và những cơ hội bị bỏ lỡ trong đời. Nó còn gợi ta nghĩ về chính nhà tù ta tạo ra trong tâm trí mình: những thói quen và định kiến giam giữ ta mà ta không bao giờ thoát khỏi.
-    `,
-    image: '/images/anh6.jpg',
-    date: '5 Tháng Mười',
-  },
-  {
     id: 'learned-uni',
     title: 'A Taste Acquired',
     excerpt: 'Nhiều màu.',
@@ -205,7 +167,7 @@ Rượu vang là a taste acquired. Ai mới uống chẳng chê rượu vang kh�
 
 Bạn gái nói chuyện hay là a taste acquired. Con trai mới lớn chỉ thích những bạn gái mặt xinh hoặc chân dài như người mẫu. Nhưng trải qua hết những thứ đó, ta thấy những cô gái hiểu biết và nói chuyện hay gây nghiện hơn; ngồi với họ cả ngày không chán được.
 
-Những cái Taste Acquired giúp cuộc sống đỡ bị một màu và là dấu ấn cá nhân khiến người thưởng thức tâm đắc. Vậy bạn đã có cái taste acquired nào chưa?
+Những cái Taste Acquired giúp cuộc sống đỡ bị một màu và là dấu ấn cá nhân khiến người thưởng thức tâm đắc. 
     `,
     image: '/images/anh5.jpg',
     date: '1 Tháng Mười',
