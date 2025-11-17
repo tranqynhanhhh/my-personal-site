@@ -55,17 +55,18 @@ export default function Home() {
         </div>
 
         <aside className="sidebar">
-          {sidebarPosts.map((p) => (
-            <Link to={`/post/${p.id}`} key={p.id} className="side-item">
-              <img src={p.image} alt={p.title} className="side-thumb" />
-              <div className="side-meta">
-                <h3 className="side-title">{p.title}</h3>
-                <p className="side-excerpt">{p.excerpt}</p>
-                <span className="side-date">{p.date}</span>
-              </div>
-            </Link>
-          ))}
-        </aside>
+  {sidebarPosts.slice(0, 4).map((p) => (
+    <Link to={`/post/${p.id}`} key={p.id} className="side-item">
+      <img src={p.image} alt={p.title} className="side-thumb" />
+      <div className="side-meta">
+        <h3 className="side-title">{p.title}</h3>
+        <p className="side-excerpt">{p.excerpt}</p>
+        <span className="side-date">{p.date}</span>
+      </div>
+    </Link>
+  ))}
+</aside>
+
       </section>
 
       {/* Popular Posts */}

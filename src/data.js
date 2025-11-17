@@ -1,5 +1,41 @@
 export const featuredPost = {
-  id: 'mua-thu-ha-noi',
+  id: 'ban-da-gay-nhung-sao-nua',
+  title: 'Vậy là bạn gầy. Rồi sao nữa?',
+  excerpt: 'Tôn giáo của sự gầy gò.',
+  content: `
+    Trong đời, nhất là phụ nữ, bạn luôn được nghe phần lớn những tiếng nói quanh mình về chuyện vóc dáng, chuyện giảm cân, chuyện ăn kiêng, và bạn mang theo những lời nói ấy mà bước vào tuổi trưởng thành.
+
+Bản thân tôi cũng luôn vật lộn với việc ăn theo cảm xúc. Khi tôi ăn quá lố số calo trong một bữa hay một ngày, ngay lập tức tôi rơi vào trạng thái hối hận và tội lỗi. Một ngày không tập luyện thôi cũng khiến tôi ngủ không yên. Dù một chút nào đó trong đầu tôi vẫn biết rằng cơ thể mình sẽ chẳng thể béo phì lên chỉ vì một bữa ăn lố calories hay vì một ngày bỏ bê tập luyện. Nhưng ừ đấy, mọi thứ không hề theo ý muốn, và tôi vẫn dằn vặt mình chỉ vì lỡ ăn thêm 1 bắp ngô vào buổi tối mà trước đó tôi tự lên lịch rằng mình không được phép tiêu thụ tinh bột sau 4 giờ chiều.
+
+Trên tiktok, threads hay x, nhiều bạn trẻ lấy căn bệnh chán ăn ra để khoe, giống như đang xem nó là một căn bệnh thời thượng, có vibe(dù tôi cũng chả biết đấy là cái vibe mẹ gì). Giống như trầm cảm vậy. Những người thật sự trầm cảm sẽ không bao giờ bô bô ra là mình bị trầm cảm. Nhưng ngược lại, vài kẻ thấy mình suy sụp tinh thần mấy hôm đã nghĩ bản thân đã được gia nhập vào hội những người gặp các căn bệnh trending nhất thế kỉ 21, và họ thấy mình rất ngầu, dù trong lòng vẫn còn hơi buồn. Giống như phụ nữ thời kỳ Victoria cố gắng tìm mọi cách bị bệnh lao để trông yếu ớt và mảnh mai hơn, và họ chỉ kinh tởm nó khi biết nó là một căn bệnh gây hủy hoại nhan sắc chứ chả có xinh đẹp mẹ gì cả. Nhưng những bệnh tâm lý thì khác. Nó không khiến da thịt bạn lở loét hay nổi mụn nước, nó khiến mi mắt bạn cụp xuống, nhìn bạn trông buồn hơn, trông bí ẩn hơn(dù bản thân bạn còn chả cảm nhận được) trong mắt mấy đứa trẻ trâu thấy như vậy là rất peak, rất phố. 
+
+Quay lại với việc ăn uống. Trên mạng xã hội giờ đây nhan nhản các nội dung về chế độ ăn kiêng, về các công thức ăn kiêng kì quặc, các bài tập bụng phẳng, bụng số 11, người người nhà nhà nói về việc uống trà xanh, ăn hạt chia, tập bài tập của Chloe Ting, hay chuyển từ tập tạ sang pilates,...  
+
+Tất nhiên việc loài người dần trở nên quan tâm tới sức khỏe của mình hơn là một điều tốt. Nhưng hầu hết những cái mà chúng ta thấy về giảm cân trên mạng xã hội thì lại không tốt. Ví dụ như một ông anh ăn ức gà và khoai lang nguyên tuần, anh thấy mình đẳng cấp, anh nghĩ mình bố đời hơn tất cả những kẻ ăn xiên bẩn hay mì cay ngoài kia, rồi anh lên Tiktok đăng mấy cái ảnh lướt lướt “Nếu lười biếng, cút xéo. Đây là sân chơi của kỉ luật”. Không phải ai cũng có nhu cầu 6 múi và vai u thịt bắp, họ chỉ cần một cơ thể vừa đủ, không bệnh tật là được. 
+
+Tôi từng gặp một bạn khách tự ti đến mức, tâm trạng của bạn ấy phụ thuộc vào việc ngày hôm đó bạn ấy đứng lên cân và xem xem mình có tụt được lạng nào không. Nếu bạn cảm thấy mình chưa đủ gầy như bạn hy vọng, thì bạn ấy sẽ ủ rũ uể oải cả ngày, không muốn nói chuyện với ai, mà cũng không muốn ai nói chuyện với mình. 
+
+Trong nhiều thế kỷ, phụ nữ luôn chăm chút cho vẻ ngoài của mình, giống như tôn thờ các vị thần mà họ tin tưởng. Sự ám ảnh đối với một ngoại hình hoàn hảo mạnh mẽ đến mức nó giống như lòng trung thành về mặt tâm linh.
+
+Ta tôn thờ cơ thể tưởng tượng của mình và vui vẻ khi nghĩ đến việc ta sẽ trông ra sao nếu giảm được 5kg. Chúng ta đếm calories, chỉ ăn tinh bột trong một khung giờ nhất định, chúng ta đếm số bước chân hằng ngày để kiểm soát cân nặng. Chúng ta thậm chí còn có những hình ảnh thiêng liêng hơn: hình ảnh những người phụ nữ mà chúng ta muốn mình trông giống như vậy. Họ là thần, là thánh của chúng ta, là người mà ta tôn thờ. Tham ăn là tội nặng nhất trong tôn giáo này. Chúng ta không được phép ăn lố một nửa bắp ngô. Chúng ta không được tham lam. Chúng ta phải luôn vâng lời. Nhưng vâng lời ai? Ai là chúa của chúng ta trong cái tôn giáo gầy gò ấy?
+
+Khi tôi lướt được một video của một bạn nữ nói về việc muốn giảm được cân thì phải chấp nhận đói cồn cào, đói đến hạ đường huyết, thì tôi hoảng. Bản thân tôi là đứa sinh ra đã thiếu máu, tôi thường xuyên phải mang theo kẹo bên mình để ngậm(không thì tôi sẽ ngã lăn ra bất cứ lúc nào). Và tôi nhận ra việc theo đuổi vóc dáng thon gọn càng giống với một nghi lễ tôn giáo. Những hành động như kiểm soát cơn đói, lờ đi cơn thèm ăn, chỉ dám ăn những đồ linh tinh trong một bữa lẩu,... tất cả đều dựa trên cảm giác tội lỗi và sự sợ hãi. Hầu hết các tôn giáo đều sử dụng những cảm xúc như thế này để kiểm soát tín đồ. 
+
+Tôi không phải là một người theo đạo, và tôi cũng không tin rằng con người cần phải tham gia một giáo đoàn nào đó để có một cuộc sống bình yên viên mãn. Nhưng tôi nghĩ rằng, với một số người không theo bất ký tôn giáo nào, có một số nỗi buồn và lo lắng có thể được lấp đầy bằng đồ ăn. Suy cho cùng thì, họ cần thứ gì đó để bấu víu, nhưng họ không tìm được vị thần nào trong đầu cả. 
+
+Tôi từng nghĩ rằng nếu tôi có cơ bụng số 11 thì cuộc sống của tôi sẽ thay đổi hoàn toàn theo chiều hướng tốt đẹp hơn. Nhưng rồi thì nó cũng...vậy. Đại khái thì mọi thứ vẫn thế, tâm trạng cũng chẳng tốt hơn trước, vì tôi vốn cũng không phải một người dễ nổi nóng. Và xung quanh cũng chẳng có ai đột nhiên bảo tôi vén áo lên để cho họ xem cơ bụng. Nên vâng, tôi nghĩ đối với mình thì việc có một cái bụng đẹp cũng không quan trọng đến mức phải bỏ ly cà phê sữa vào mỗi sáng.
+
+Bởi thế, bạn chẳng cần phải gầy. Nhưng đương nhiên không thể vịn vào cái cớ đó để ăn uống và sinh hoạt vô độ. Nhưng tôi nghĩ tôi sẽ nói về khía cạnh này ở một bài khác, để nó được hoàn chỉnh hơn. 
+
+    <b> Aelin. </b> 
+  `,
+  image: 'https://i.pinimg.com/736x/3d/75/51/3d75512adb670ff596c3a3c5d5bc0101.jpg',
+  date: '17 Tháng Mười Một',
+};
+
+export const sidebarPosts = [
+  {
+    id: 'mua-thu-ha-noi',
   title: 'Mình thấy thu Hà Nội chưa trọn vẹn.',
   excerpt: 'Một expression mới cho mùa thu.',
   content: `
@@ -20,16 +56,14 @@ Cây bàng lá đỏ, nằm kề bên nhau
 Phố xưa nhà cổ, mái ngói thẫm nâu
 Hà Nội mùa thu, mùa thu Hà Nội...”</em>
                                               
-Mùa thu trong mắt những thế hệ tiền nhân có vẻ buồn, yêu đương thì thơ mộng, có phần sến súa, ấy là tông màu chính trong gần một thế kỷ qua. So với họ, mùa thu của chúng ta ngày nay chẳng có không khí gì đặc biệt. Nó không thê lương như mùa thu của Xuân Diệu, không cổ điển như mùa thu của Văn Cao, không lãng mạn như mùa thu của Đoàn Chuẩn. Mùa thu của người Hà Nội ngày nay nhạt nhẽo và hời hợt như một bát cơm nguội. Chúng ta không có một nhà thơ, một nhà văn, một nhạc sĩ đương đại nào đủ sức cổ động tinh thần của thời đại vào một hai dòng thơ hay câu hát như các bậc tiền nhân đã làm. Hoặc vấn đề ngược lại: các nghệ sĩ đã sẵn sàng, nhưng cái đời sống tinh thần nói chung nhạt nhẽo quá, những cái chúng ta nghĩ chúng ta làm hằng ngày thì nó tầm thường quá, chẳng có gì đáng để cô đọng cả. Nếu những thế hệ sau lật lại những áng văn thơ, họ sẽ thấy một đương đại khuyết trống và vô cảm, chỉ vì chúng ta là một thế hệ không có mùa thu của riêng mình.
+Mùa thu trong mắt những thế hệ tiền nhân có vẻ buồn, yêu đương thì thơ mộng, có phần s súa, ấy là tông màu chính trong gần một thế kỷ qua. So với họ, mùa thu của chúng ta ngày nay chẳng có không khí gì đặc biệt. Nó không thê lương như mùa thu của Xuân Diệu, không cổ điển như mùa thu của Văn Cao, không lãng mạn như mùa thu của Đoàn Chuẩn. Mùa thu của người Hà Nội ngày nay nhạt nhẽo và hời hợt như một bát cơm nguội. Chúng ta không có một nhà thơ, một nhà văn, một nhạc sĩ đương đại nào đủ sức cổ động tinh thần của thời đại vào một hai dòng thơ hay câu hát như các bậc tiền nhân đã làm. Hoặc vấn đề ngược lại: các nghệ sĩ đã sẵn sàng, nhưng cái đời sống tinh thần nói chung nhạt nhẽo quá, những cái chúng ta nghĩ chúng ta làm hằng ngày thì nó tầm thường quá, chẳng có gì đáng để cô đọng cả. Nếu những thế hệ sau lật lại những áng văn thơ, họ sẽ thấy một đương đại khuyết trống và vô cảm, chỉ vì chúng ta là một thế hệ không có mùa thu của riêng mình.
 
 
     <b> Aelin. </b> 
   `,
-  image: 'https://i.pinimg.com/736x/f0/37/0f/f0370fc8b8016cb0b31c20fdc4d1f213.jpg',
+  image: 'https://i.pinimg.com/736x/75/e4/bc/75e4bc58bc04ed1d0bbe609e2268babe.jpg',
   date: '15 Tháng Mười Một',
-};
-
-export const sidebarPosts = [
+  },
   {
     id: 'cold-elegance',
   title: 'Nghịch lý của việc khao khát được để ý nhưng lại sợ bị nhìn thấy.',
@@ -68,7 +102,7 @@ export const sidebarPosts = [
     
     <b> Aelin. </b> 
   `,
-  image: '/images/anhbai1.jpg',
+  image: 'https://i.pinimg.com/736x/07/46/f8/0746f83d4b7d9f9e495635b22521a653.jpg',
   date: '12 Tháng Mười Một',
   },
   {
@@ -106,7 +140,7 @@ export const sidebarPosts = [
 
     Cá nhân mình thì chưa có gì bất mãn với Hồ Tây cả. 
     `,
-    image: '/images/Hotay.jpg',
+    image: 'https://i.pinimg.com/736x/51/fc/7d/51fc7d17cca36162f2df548f077aa113.jpg',
     date: '01 Tháng Mười Một',
   },
   {
@@ -147,7 +181,7 @@ export const sidebarPosts = [
       
 
     `,
-    image: '/images/anhbia3.jpg',
+    image: 'https://i.pinimg.com/736x/09/26/58/092658b4e2a8125020efd510040b3d58.jpg',
     date: '22 Tháng Mười',
   },
   {
@@ -169,7 +203,7 @@ Bạn gái nói chuyện hay là a taste acquired. Con trai mới lớn chỉ th
 
 Những cái Taste Acquired giúp cuộc sống đỡ bị một màu và là dấu ấn cá nhân khiến người thưởng thức tâm đắc. 
     `,
-    image: '/images/anh5.jpg',
+    image: 'https://i.pinimg.com/1200x/fb/f1/ca/fbf1ca688a91a8cdbdede0ab02f616fa.jpg',
     date: '1 Tháng Mười',
   },
 ];
