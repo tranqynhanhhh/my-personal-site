@@ -28,6 +28,15 @@ Tôi từng nghĩ rằng nếu tôi có cơ bụng số 11 thì cuộc sống c�
 Bởi thế, bạn chẳng cần phải gầy. Nhưng đương nhiên không thể vịn vào cái cớ đó để ăn uống và sinh hoạt vô độ. Nhưng tôi nghĩ tôi sẽ nói về khía cạnh này ở một bài khác, để nó được hoàn chỉnh hơn. 
 
     <b> Aelin. </b> 
+
+
+
+
+
+
+
+
+
   `,
   image: 'https://i.pinimg.com/736x/3d/75/51/3d75512adb670ff596c3a3c5d5bc0101.jpg',
   date: '17 Tháng Mười Một',
@@ -60,6 +69,14 @@ Mùa thu trong mắt những thế hệ tiền nhân có vẻ buồn, yêu đư�
 
 
     <b> Aelin. </b> 
+    
+
+
+
+
+
+
+
   `,
   image: 'https://i.pinimg.com/736x/75/e4/bc/75e4bc58bc04ed1d0bbe609e2268babe.jpg',
   date: '15 Tháng Mười Một',
@@ -101,6 +118,14 @@ Mùa thu trong mắt những thế hệ tiền nhân có vẻ buồn, yêu đư�
     
     
     <b> Aelin. </b> 
+    
+
+
+
+
+
+
+
   `,
   image: 'https://i.pinimg.com/736x/07/46/f8/0746f83d4b7d9f9e495635b22521a653.jpg',
   date: '12 Tháng Mười Một',
@@ -139,6 +164,14 @@ Mùa thu trong mắt những thế hệ tiền nhân có vẻ buồn, yêu đư�
     Mấy hàng nước ở Hồ Tây thì khá đắt, dù cũng chỉ là cốc nhân trần hay đĩa hướng dương chứ chẳng phải thuốc tiên thuốc phật dát vàng bạc đá quý gì. Họ ngồi đó cũng toàn là ngồi chui, chả có giấy phép gì, đương nhiên cũng chẳng phải đóng thuế cho ai, nhưng bằng một lối suy nghĩ kì lạ nào đó, giá cả ở mấy hàng này vẫn đắt gấp đôi những nơi ít khách du lịch qua lại(dù chẳng khách du lịch nào ngồi đó). Mình cũng ít khi thấy có thanh niên ngồi ở những hàng này, họ chủ yếu mang đồ ăn mua từ chỗ khác đến, rồi ngồi ghế đá, hoặc dựng chân chống xe, đứng ở lan can và bắt đầu tận hưởng kì nghỉ ngắn ngủi. Người ta ra Hồ Tây để khiến tâm trạng nhẹ nhàng, chứ không ai muốn cãi nhau với câu mở đầu <em>"Sao đắt thế cô?"</em> và kết thúc bằng một hoặc nhiều khuôn mặt bực dọc chửi rủa.
 
     Cá nhân mình thì chưa có gì bất mãn với Hồ Tây cả. 
+    
+
+
+
+
+
+
+
     `,
     image: 'https://i.pinimg.com/736x/51/fc/7d/51fc7d17cca36162f2df548f077aa113.jpg',
     date: '01 Tháng Mười Một',
@@ -179,6 +212,12 @@ Mùa thu trong mắt những thế hệ tiền nhân có vẻ buồn, yêu đư�
       Lâu dần, mình cũng học được cách phản đối, học cách nói "Không", học cách từ chối những thứ mà bản thân không thực sự cưỡng cầu.
 
       
+      
+      
+      
+      
+
+
 
     `,
     image: 'https://i.pinimg.com/736x/09/26/58/092658b4e2a8125020efd510040b3d58.jpg',
@@ -202,6 +241,15 @@ Rượu vang là a taste acquired. Ai mới uống chẳng chê rượu vang kh�
 Bạn gái nói chuyện hay là a taste acquired. Con trai mới lớn chỉ thích những bạn gái mặt xinh hoặc chân dài như người mẫu. Nhưng trải qua hết những thứ đó, ta thấy những cô gái hiểu biết và nói chuyện hay gây nghiện hơn; ngồi với họ cả ngày không chán được.
 
 Những cái Taste Acquired giúp cuộc sống đỡ bị một màu và là dấu ấn cá nhân khiến người thưởng thức tâm đắc. 
+
+
+
+
+
+
+
+
+
     `,
     image: 'https://i.pinimg.com/1200x/fb/f1/ca/fbf1ca688a91a8cdbdede0ab02f616fa.jpg',
     date: '1 Tháng Mười',

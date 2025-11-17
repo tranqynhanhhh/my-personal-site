@@ -9,6 +9,9 @@ import About from './components/About';
 import StoryList from './components/StoryList';
 import StoryDetail from './components/StoryDetail';
 import ChapterDetail from './components/ChapterDetail';
+import Music from './components/Music';
+import PlaylistDetail from './components/PlaylistDetail';
+import GlobalMusicPlayer from './components/GlobalMusicPlayer';
 
 export default function App() {
   return (
@@ -23,10 +26,13 @@ export default function App() {
         <Route path="/story/:id/chapter/:chapterId" element={<ChapterDetail />} />
         <Route path="/ranking" element={<Asks />} />
         <Route path="/about" element={<About />} />
+        <Route path="/music" element={<Music />} />
+<Route path="/music/:id" element={<PlaylistDetail />} />
 
         {/* ✅ Thêm route để dùng Stories */}
         <Route path="/stories" element={<Stories />} />
       </Routes>
+      <GlobalMusicPlayer />
     </Router>
   );
 }

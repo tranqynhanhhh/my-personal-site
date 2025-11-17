@@ -1,0 +1,128 @@
+.global-player {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #fffafc;
+  border-top: 1px solid #f0d9df;
+  padding: 0.5rem 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 1000;
+  font-family: 'Lora', serif;
+  box-shadow: 0 -2px 6px rgba(0, 0, 0, 0.05);
+  height: 80px;
+}
+
+/* Bên trái: thông tin bài hát */
+.player-left {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex: 1;
+}
+
+.player-thumb {
+  width: 65px;
+  height: 65px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.player-meta {
+  display: flex;
+  flex-direction: column;
+}
+
+.player-title {
+  font-weight: bold;
+  color: #4d0d0d;
+  font-size: 1.2rem;
+}
+
+.player-artist {
+  font-size: 1rem;
+  color: #7a4b4b;
+}
+
+/* Giữa: controls + progress bar */
+.player-center {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.player-controls {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-bottom: 0.4rem;
+}
+
+.control-btn {
+  background: none;
+  border: none;
+  font-size: 1.8rem;
+  color: #f7b5c3;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.control-btn:hover {
+  transform: scale(1.2);
+}
+
+.player-progress {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  width: 100%;
+  max-width: 450px;
+  justify-content: center;
+}
+
+.progress-bar {
+  flex: 1;
+  height: 8px;
+  border-radius: 4px;
+  background: #f0d9df;
+  accent-color: #f7b5c3;
+}
+
+.progress-bar::-webkit-slider-thumb,
+.progress-bar::-moz-range-thumb {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: #f7b5c3;
+  cursor: pointer;
+  border: none;
+}
+
+.time-label {
+  font-size: 0.8rem;
+  color: #7a4b4b;
+}
+
+/* Bên phải: ảnh album nếu có */
+.player-right {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.album-thumb {
+  width: 48px;
+  height: 48px;
+  object-fit: cover;
+  border-radius: 6px;
+}
+
+.hidden-audio {
+  display: none;
+}
