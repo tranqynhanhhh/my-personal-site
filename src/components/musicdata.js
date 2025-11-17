@@ -89,7 +89,7 @@ export const playlists = [
     id: 'x-mas',
     title: '·ᴥ· christmas ·ᴥ·',
     tracks: [
-      { title: 'Snowman', artist: 'Sia', url: '/music/xmas/sn.mp3', image:'https://i.pinimg.com/736x/d5/dd/fc/d5ddfcf96d81c13f274de729ef0b2a30.jpg' },
+      { title: 'Snowman', artist: 'Sia', url: '/music/xmas/sm.mp3', image:'https://i.pinimg.com/736x/d5/dd/fc/d5ddfcf96d81c13f274de729ef0b2a30.jpg' },
       { title: 'Christmas is coming soon !!!!!!🎄(speed up playlist)', artist: 'hihi', url: '/music/xmas/pl.mp3', image:'https://i.pinimg.com/736x/9c/9c/85/9c9c8525000b2638331b6ffd404c9439.jpg' },
       { title: 'All I Want for Christmas Is You', artist: 'Mariah Carey', url: '/music/xmas/1.mp3', image:'https://i.pinimg.com/736x/b4/2c/c3/b42cc394c6a8036a0135cfe9139b58a3.jpg' },
       { title: 'Happy New Year', artist: 'ABBA', url: '/music/xmas/hp.mp3', image:'https://i.pinimg.com/736x/86/ad/71/86ad71972727406f53af21e1ebb1059b.jpg' },
