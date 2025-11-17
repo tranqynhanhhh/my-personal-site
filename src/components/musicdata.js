@@ -41,12 +41,12 @@ export const playlists = [
     id: 'podcast',
     title: '⋆𐙚 ̊. podcast ⋆𐙚 ̊.',
     tracks: [
-      { title: 'Bạn dễ trở thành phát xít hơn bạn nghĩ - How To Inject Fascism Into A Society', artist: 'Khoa Học Rau Muống', url: '/podcast/fs.mp3', image:'https://i.pinimg.com/736x/c9/d3/80/c9d38019ce33532b78bb5dff093fa9ac.jpg'},
-      { title: 'Thế Giới Sẽ Ra Sao NẾU PHE TRỤC CHIẾN THẮNG Trong Chiến Tranh Thế Giới Thứ 2?', artist: 'CD Media', url: '/podcast/cd.mp3', image:'https://i.pinimg.com/736x/83/f0/1e/83f01e6d92b654f9c3f978de752ae092.jpg'},
-      { title: 'về một thế hệ cợt nhả', artist: 'Vì sao thế nhỉ!', url: '/podcast/vmthcn.mp3', image:'/images/1.png'},
-      { title: 'Tại Sao Ngô Đình Diệm Bị Người Mỹ Phản Bội?', artist: 'CD Media', url: '/podcast/cd1.mp3', image:'/images/2.png'},
-      { title: 'Điều kì diệu của việc đ* quan tâm', artist: 'JV', url: '/podcast/jv.mp3', image:'https://i.pinimg.com/736x/d5/dd/fc/d5ddfcf96d81c13f274de729ef0b2a30.jpg'},
-      { title: 'Hạnh Phúc Của Một Tang Gia - Tóm tắt văn học kinh điển "Số Đỏ" trong 15 phút', artist: 'Me xừ Đức', url: '/podcast/hp.mp3', image:'https://i.pinimg.com/736x/b4/2c/c3/b42cc394c6a8036a0135cfe9139b58a3.jpg'},
+      { title: 'Bạn dễ trở thành phát xít hơn bạn nghĩ - How To Inject Fascism Into A Society', artist: 'Khoa Học Rau Muống', url: '/music/podcast/fs.mp3', image:'https://i.pinimg.com/736x/c9/d3/80/c9d38019ce33532b78bb5dff093fa9ac.jpg'},
+      { title: 'Thế Giới Sẽ Ra Sao NẾU PHE TRỤC CHIẾN THẮNG Trong Chiến Tranh Thế Giới Thứ 2?', artist: 'CD Media', url: '/music/podcast/cd.mp3', image:'https://i.pinimg.com/736x/83/f0/1e/83f01e6d92b654f9c3f978de752ae092.jpg'},
+      { title: 'về một thế hệ cợt nhả', artist: 'Vì sao thế nhỉ!', url: '/music/podcast/vmthcn.mp3', image:'/images/1.png'},
+      { title: 'Tại Sao Ngô Đình Diệm Bị Người Mỹ Phản Bội?', artist: 'CD Media', url: '/music/podcast/cd1.mp3', image:'/images/2.png'},
+      { title: 'Điều kì diệu của việc đ* quan tâm', artist: 'JV', url: '/music/podcast/jv.mp3', image:'https://i.pinimg.com/736x/d5/dd/fc/d5ddfcf96d81c13f274de729ef0b2a30.jpg'},
+      { title: 'Hạnh Phúc Của Một Tang Gia - Tóm tắt văn học kinh điển "Số Đỏ" trong 15 phút', artist: 'Me xừ Đức', url: '/music/podcast/hp.mp3', image:'https://i.pinimg.com/736x/b4/2c/c3/b42cc394c6a8036a0135cfe9139b58a3.jpg'},
       
       
     ],

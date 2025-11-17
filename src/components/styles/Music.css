@@ -1,8 +1,8 @@
 .music-page {
   padding: 2rem;
+  padding-bottom: 100px; /* tránh bị che bởi thanh phát nhạc */
   background: #fdf6f6;
-  padding-bottom: 100px;
-  text-align: left; /* chuyển về trái */
+  text-align: left;
 }
 
 .back-link {
@@ -22,28 +22,27 @@
   font-size: 2.5rem;
   margin-bottom: 2rem;
   color: #cc8899;
-  text-align:center;
+  text-align: center;
 }
 
 .playlist-grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr); /* tối đa 4 playlist trên 1 dòng */
-  gap: 2rem; /* khoảng cách giữa các thẻ */
+  gap: 2rem;
 }
 
 .playlist-card {
   background: #fff;
   border-radius: 12px;
-  padding: 0.75rem; /* giảm padding để khung gọn hơn */
+  padding: 0.75rem;
   text-decoration: none;
   color: #333;
   box-shadow: 0 2px 6px rgba(0,0,0,0.1);
   transition: transform 0.2s;
-  line-height: 1; /* tăng khoảng cách dòng để chữ không bị dính */
-  font-size: 0.95rem; /* giảm nhẹ kích thước chữ nếu cần */
-  overflow: hidden; /* tránh tràn nội dung */
+  line-height: 1.4;
+  font-size: 0.95rem;
+  overflow: hidden;
 }
-
 
 .playlist-card:hover {
   transform: scale(1.05);
@@ -61,4 +60,52 @@
   font-size: 1.5rem;
   color: #cc8899;
   text-align: center;
+}
+
+/* ========================= */
+/* Responsive cho tablet và mobile */
+/* ========================= */
+
+/* Tablet: 2 cột */
+@media (max-width: 1024px) {
+  .playlist-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .playlist-thumb {
+    height: 300px;
+  }
+
+  .music-heading {
+    font-size: 2.2rem;
+  }
+}
+
+/* Mobile: 1 cột */
+@media (max-width: 600px) {
+  .playlist-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .playlist-thumb {
+    height: 220px;
+  }
+
+  .playlist-title {
+    font-size: 1.2rem;
+  }
+
+  .playlist-card {
+    font-size: 0.9rem;
+    padding: 0.5rem;
+  }
+
+  .music-heading {
+    font-size: 1.8rem;
+  }
+
+  .music-page {
+    padding: 1rem;
+    padding-bottom: 100px;
+  }
 }
