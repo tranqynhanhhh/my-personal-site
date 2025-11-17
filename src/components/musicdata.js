@@ -109,7 +109,7 @@ export const playlists = [
       { title: 'Blue Oiia', artist: 'uia', url: '/music/hc/b.mp3', image:'https://i.pinimg.com/736x/b4/2c/c3/b42cc394c6a8036a0135cfe9139b58a3.jpg' },
       { title: 'Nhạc Tết UIA', artist: 'uia', url: '/music/hc/uia11.mp3', image:'https://i.pinimg.com/736x/86/ad/71/86ad71972727406f53af21e1ebb1059b.jpg' },
       { title: 'Hachimi Hachimi Mambo', artist: '? ', url: '/music/hc/hcm.mp3', image:'https://i.pinimg.com/736x/f7/d1/bc/f7d1bca344f470d047113ba69c14bb4b.jpg' },
-      { title: 'Hachimiiiiiiiiiiiiiiiiiiiiiii', artist: '?', url: '/music/hc/Hachimiiiiiiiiiiiiiiiiiiiiiii.mp3', image:'/images/1.png' },
+      { title: 'Hachimiii', artist: '?', url: '/music/hc/Hachimiiiiiiiiiiiiiiiiiiiiiii.mp3', image:'/images/1.png' },
       { title: 'UIA Birthday', artist: 'uia', url: '/music/hc/bd.mp3', image:'/images/download.jpg' },
       { title: 'UIA Birthday 2', artist: 'uia', url: '/music/hc/bd2.mp3', image:'https://i.pinimg.com/736x/64/a7/8c/64a78c2fb6ddfcf6bba29bea11293562.jpg' },
       { title: 'Oppa UIA', artist: 'uia', url: '/music/hc/o.mp3', image:'https://i.pinimg.com/736x/5b/5e/18/5b5e180fe7c16bc25f7aee569d830c77.jpg' },
