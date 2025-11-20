@@ -25,7 +25,6 @@ export default function PostDetail() {
       <article
   className="article"
   style={{
-    backgroundImage: `url(${post.image})`,
     backgroundSize: 'cover',
     backgroundPosition: 'center',
     backgroundRepeat: 'no-repeat'

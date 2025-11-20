@@ -1,5 +1,49 @@
 export const featuredPost = {
-  id: 'ban-da-gay-nhung-sao-nua',
+  id: 'cu-de-ho-nghi-sai-ve-ban',
+  title: 'Cứ để họ nghĩ sai về bạn.',
+  excerpt: 'và cách kệ chuyện đó.',
+  content: `
+    Trong những góc sâu nhất của tâm hồn, tất cả chúng ta đều mang một gánh nặng vô hình: cách người khác nhìn nhận mình. Gánh nặng bị định nghĩa, bị đóng khung bởi những cái mác họ gán cho ta. Ban đầu, bạn có thể chẳng quan tâm. Nhưng nếu tần suất những lời nhận xét ấy càng nhiều, bạn không thể bình thường nổi nữa. Và thế là bạn tự xem lại mình. Đó là lúc bạn mắc sai lầm, bạn tin rằng cách người khác thấy bạn chính là con người bạn.
+Nhưng sự thật là, sự nhìn nhận của người khác thông thường chỉ là một thứ mong manh, thoáng qua. Nó thay đổi theo từng khoảnh khắc, từng suy nghĩ. Một ngày lướt mạng xã hội, bạn gặp cả nghìn gương mặt người khác nhau. Bạn nhìn thoáng qua những gương mặt đó, trong lòng âm thầm đánh giá người A đẹp, người B xấu, người nổi tiếng C gặp scandal nên bị cả mạng xã hội ùa vào miệt thị hóng hớt. Nó có thể rất rôm rả trong ngày hôm đó, hoặc nhiều nhất là một tuần sau đó. Nhưng hầu hết chỉ 3 ngày sau, bạn dường như đã chẳng để ý nữa rồi, đã coi đó là tối cổ rồi. Bởi vậy, những lời đánh giá của người khác về bạn, nó đến nhanh mà đi cũng nhanh. Nó không bám rễ vào bản chất, vào sự thật con người bạn, mà bám rễ vào cách người đó chọn nhìn nhận bạn, họ muốn thấy bạn tốt hay xấu, bạn chẳng thể ép được họ. Tức là, dù người nổi tiếng C có được minh oan, thì vẫn còn một bộ phận dân chúng nghĩ rằng họ “tẩy trắng”, họ “mặt dày”, họ “mua bài truyền thông”. 
+Thật đau lòng khi bị hiểu lầm. Chẳng gì đau hơn khi bị hiểu lầm, vì nó thách thức chính cái cốt lõi của con người ta. Cảm giác thật khó chịu khi những người lẽ ra phải hiểu ta nhất – gia đình, bạn bè, những người ta chia sẻ những khoảnh khắc vui vẻ nhất – lại chê bai ta, phán xét ta, hoặc tệ hơn là bắt ta phải đáp ứng những kỳ vọng vốn dĩ không thuộc về ta. Họ nhìn ta và chỉ thấy người mà họ muốn thấy, chứ không phải con người thật của ta. Họ có thể thấy những lỗi lầm cũ, những vấp ngã ta đã trải qua, và lầm tưởng rằng ta sẽ mãi mãi là người xấu xí hồ đồ như thế. Họ thấy ta vươn lên từ lỗi lầm mà họ tự bịa ra, họ lại nghĩ rằng đó là việc ta phải làm vì tốt cho ta, nhưng thực chất là để thỏa mãn nội tâm ích kỷ và thói quen áp đặt của họ. 
+
+Vậy làm thế nào để bạn “xem nhẹ” cảm giác bị hiểu lầm, đặc biệt là từ những người gần gũi và thân cận với bạn?
+Một sự thật khá đau, nhưng cũng là chìa khóa để giải thoát chính mình: Bạn không nợ ai sự chân thật của mình, ngay cả khi đó là những người bạn yêu thương và tin tưởng nhất. 
+Bạn không cần phải là phiên bản hoàn hảo khiến họ cảm thấy thoải mái.
+Thực tế, không ai có thể hiểu hết được sự phức tạp của một con người. Dù họ yêu bạn đến mức nào, họ nghĩ họ hiểu bạn ra sao, thì cũng sẽ không bao giờ có được một bức tranh toàn cảnh về bạn. Họ chỉ nhìn thấy một phần của bạn qua lăng kính cuộc đời họ, qua những suy đoán của chính họ. Họ tự điền vào các khoảng trống bằng những gì họ nghĩ là sự thật, họ cho rằng họ đang tô hồng cho bức tranh cuộc đời bạn, nhưng thực ra lại chỉ là những nét vẽ nguyệch ngoạc vô duyên. 
+Nhưng vấn đề là: Họ không hiểu bạn để yêu bạn hơn. Vậy nên, bạn cũng chẳng việc gì phải giải thích cho những người như vậy.
+Bởi thế, cứ để họ hiểu sai về bạn. Hãy để họ gán cho bạn những cái mác phù hợp với kỳ vọng của họ. Cứ để họ sai. Bởi vì, trong cái mớ hiểu lầm nhảm nhí bầy nhầy của họ, bạn lại thêm được một cái cớ hoàn hảo để tự kiếm tìm không gian tự do cho mình.
+Điều tốt nhất bạn có thể làm là ngừng cố gắng chứng minh bản thân với bất kỳ ai. Ngừng chờ đợi sự đồng ý, sự công nhận hay sự thấu hiểu. Hãy sống trọn vẹn với những mục tiêu mà bạn đang theo đuổi, ngay cả khi họ không nhìn thấy sự tiến bộ. 
+
+<img src="https://i.pinimg.com/736x/8e/e2/eb/8ee2ebbb7a61b3c668bc1a77cd609c85.jpg" alt="ảnh minh họa" style="width:100%; border-radius:12px; margin:1rem 0;" />
+
+Điều khó khăn nhất có lẽ là làm sao không để những hiểu lầm đó phá hủy bạn. Cố gắng đừng để sự phán xét của họ định hình danh dự và con người bạn. Họ sai kệ họ, bạn đâu có sai. Bạn chẳng có nghĩa vụ phải xin lỗi một người thích đặt điều phán xét. 
+Hãy để họ nghĩ sai về các mối quan hệ của bạn. Hãy để họ sai về sự nghiệp, về ước mơ, về bất cứ những gì mà họ muốn nghĩ. Sự phán xét của họ sẽ không bao giờ định nghĩa được con người bạn, trừ khi bạn cho phép. 
+Chúng ta dành quá nhiều thời gian để cố gắng làm cho người khác thấy mình như cách ta nghĩ về bản thân ta. Ta muốn họ hiểu lý do đằng sau những lựa chọn mà ta đưa ra, hiểu những động lực mà ta nhắm tới. Nhưng trong quá trình đó, ta đánh mất một điều cốt yếu: giá trị của ta không nên bị ràng buộc bởi lòng thấu hiểu của họ. 
+Điều này không có nghĩa là bạn cắt đứt liên lạc với những người mình yêu thương, không phải là ngừng chia sẻ hay ngừng tìm kiếm sự an ủi từ họ. Nó chỉ đơn giản là bạn cho phép bản thân mình bị hiểu lầm, cho phép người khác giữ những ý kiến không đúng về bạn. Suy cho cùng, ý kiến  thì cũng chỉ là ý kiến mà thôi. 
+Tuy nhiên, trên thực tế thì, bạn vẫn có thể được yêu, vẫn được chấp nhận, ngay cả khi bạn không được “hoàn hảo” theo ý họ. Nhưng chẳng sao hết, miễn là bạn thấy mình vẫn ổn, và cảm thấy không cần thiết phải trình bày lòng mình với ai.
+Vậy nên, cứ để họ sai. Cứ để họ hiểu lầm bạn. Cứ để họ phán xét bạn từ một góc nhìn hạn chế. Bạn không được định nghĩa bởi những gì họ nghĩ về bạn. Bạn được định nghĩa bởi bản chất con người của riêng bạn, bởi sự chân thật của bạn, bởi lòng can đảm dám sống, dám trở thành chính mình, bất kể họ có nhìn thấy hay không.
+Cuộc đời này, hãy sống cho mình. 
+
+
+    <b> Aelin. </b> 
+
+
+
+
+
+
+
+
+
+  `,
+  image: '/images/7.jpg',
+  date: '17 Tháng Mười Một',
+};
+
+export const sidebarPosts = [
+  {
+    id: 'ban-da-gay-nhung-sao-nua',
   title: 'Vậy là bạn gầy. Rồi sao nữa?',
   excerpt: 'Tôn giáo của sự gầy gò.',
   content: `
@@ -18,7 +62,7 @@ Tôi từng gặp một bạn khách tự ti đến mức, tâm trạng của b�
 Trong nhiều thế kỷ, phụ nữ luôn chăm chút cho vẻ ngoài của mình, giống như tôn thờ các vị thần mà họ tin tưởng. Sự ám ảnh đối với một ngoại hình hoàn hảo mạnh mẽ đến mức nó giống như lòng trung thành về mặt tâm linh.
 
 Ta tôn thờ cơ thể tưởng tượng của mình và vui vẻ khi nghĩ đến việc ta sẽ trông ra sao nếu giảm được 5kg. Chúng ta đếm calories, chỉ ăn tinh bột trong một khung giờ nhất định, chúng ta đếm số bước chân hằng ngày để kiểm soát cân nặng. Chúng ta thậm chí còn có những hình ảnh thiêng liêng hơn: hình ảnh những người phụ nữ mà chúng ta muốn mình trông giống như vậy. Họ là thần, là thánh của chúng ta, là người mà ta tôn thờ. Tham ăn là tội nặng nhất trong tôn giáo này. Chúng ta không được phép ăn lố một nửa bắp ngô. Chúng ta không được tham lam. Chúng ta phải luôn vâng lời. Nhưng vâng lời ai? Ai là chúa của chúng ta trong cái tôn giáo gầy gò ấy?
-
+<img src="/images/7.jpg" alt="ảnh minh họa" style="width:100%; border-radius:12px; margin:1rem 0;" />
 Khi tôi lướt được một video của một bạn nữ nói về việc muốn giảm được cân thì phải chấp nhận đói cồn cào, đói đến hạ đường huyết, thì tôi hoảng. Bản thân tôi là đứa sinh ra đã thiếu máu, tôi thường xuyên phải mang theo kẹo bên mình để ngậm(không thì tôi sẽ ngã lăn ra bất cứ lúc nào). Và tôi nhận ra việc theo đuổi vóc dáng thon gọn càng giống với một nghi lễ tôn giáo. Những hành động như kiểm soát cơn đói, lờ đi cơn thèm ăn, chỉ dám ăn những đồ linh tinh trong một bữa lẩu,... tất cả đều dựa trên cảm giác tội lỗi và sự sợ hãi. Hầu hết các tôn giáo đều sử dụng những cảm xúc như thế này để kiểm soát tín đồ. 
 
 Tôi không phải là một người theo đạo, và tôi cũng không tin rằng con người cần phải tham gia một giáo đoàn nào đó để có một cuộc sống bình yên viên mãn. Nhưng tôi nghĩ rằng, với một số người không theo bất ký tôn giáo nào, có một số nỗi buồn và lo lắng có thể được lấp đầy bằng đồ ăn. Suy cho cùng thì, họ cần thứ gì đó để bấu víu, nhưng họ không tìm được vị thần nào trong đầu cả. 
@@ -40,9 +84,7 @@ Bởi thế, bạn chẳng cần phải gầy. Nhưng đương nhiên không th�
   `,
   image: 'https://i.pinimg.com/736x/3d/75/51/3d75512adb670ff596c3a3c5d5bc0101.jpg',
   date: '17 Tháng Mười Một',
-};
-
-export const sidebarPosts = [
+  },
   {
     id: 'mua-thu-ha-noi',
   title: 'Mình thấy thu Hà Nội chưa trọn vẹn.',

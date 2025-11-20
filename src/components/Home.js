@@ -18,7 +18,6 @@ export default function Home() {
           <li><Link to="/">Home</Link></li>
           <li><Link to="/notes">Posts</Link></li>
           <li><Link to="/articles">Stories</Link></li>
-          <li><Link to="/ranking">Asks</Link></li>
           <li><Link to="/about">About</Link></li>
           <li><Link to="/music">Music</Link></li>
 
