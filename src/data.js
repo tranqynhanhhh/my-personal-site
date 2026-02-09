@@ -1,5 +1,50 @@
 export const featuredPost = {
-  id: 'cu-de-ho-nghi-sai-ve-ban',
+  id: 'tu-do-dang-so',
+  title: 'Sự tự do đáng sợ khi bạn thậm chí còn không biết mình đang làm gì với cuộc đời mình.',
+  excerpt: 'Vài câu chữ ngày cuối năm.',
+  content: `
+    Khi người ta nói về việc “tìm hướng đi cho cuộc đời”, họ làm như thể đó chỉ như đang tìm kiếm một món đồ bị mất: chỉ cần lục lại trí nhớ, tìm đủ các ngăn kéo, các ngóc ngách, thì sớm muộn gì bạn cũng lôi nó ra được. Nhưng sự thật thì tôi tìm mãi không thấy cái áo sweater đỏ đó, hay cái cáp sạc màu trắng type C mà tôi vừa mới tháo ra tuần trước để thay bằng một cái cáp sạc màu đỏ có độ dài nhỉnh hơn. 
+
+    Khi tìm mãi không thấy chúng, tôi bắt đầu nghi ngờ rằng, có phải ngay từ đầu, cái sweater đỏ hay cái cáp sạc trắng của tôi đã chẳng hề tồn tại? Hoặc giả như nó có thật đi nữa, thì hẳn là ai đó đã đưa chúng cho một “tôi” của ngày xưa – phiên bản cũ kĩ mà tôi hiện tại cũng chưa chắc đã muốn nhìn lại. “Tôi” ngày xưa chắc là cần đến chúng hơn, có lẽ thế.
+
+    Chúng ta luôn tự huyễn hoặc rằng trừ chúng ta, bất cứ ai ở ngoài kia cũng biết rõ rằng họ đang làm gì. Người A được thăng chức – ta nghĩ họ vừa tìm được chỗ dựa mới của cuộc đời - hoặc nếu bạn đủ xấu tính, sẽ nghĩ họ vừa đạp một kẻ xui xẻo nào đấy xuống để ngoi lên trên. Người B thu dọn hành lý và chuyển đến thành phố khác sống, ta tưởng tượng rằng họ đã lên sẵn một kế hoạch tỉ mỉ chau chuốt cho bản đồ sự nghiệp, và chỉ khoảng 2 năm sau, người B trong suy nghĩ của ta sẽ là một doanh nhân trẻ mới nổi. Nhưng sự thật thì có thể đơn giản hơn nhiều: người B đang đi trốn nợ. 
+<img src="https://i.pinimg.com/736x/8e/e2/eb/8ee2ebbb7a61b3c668bc1a77cd609c85.jpg" alt="ảnh minh họa" style="width:100%; border-radius:12px; margin:1rem 0;" />
+
+Hầu hết chúng ta đều trông vô cùng quyết đoán ở vẻ bề ngoài. Nhưng thực ra, mỗi người đều đang ghép nối cuộc sống của họ lại với nhau bằng sự kết hợp giữa hy vọng – phỏng đoán (hoặc ảo tưởng) – và sự lặp đi lặp lại một cách ngoan cố rằng “ồ, nếu tôi cố gắng đủ lâu, thì tôi sẽ thành công”. Bởi thế, cho đến khi bạn cảm thấy mông lung, không chắc chắn, bạn sẽ ngay lập tức cho rằng mình là một kẻ thất bại. 
+
+Kỳ lạ là sự “không chắc chắn” ấy lại nhanh chóng biến thành nỗi xấu hổ. Thay vì nói “Tôi vẫn đang trưởng thành”, “Tôi vẫn đang trong giai đoạn tìm kiếm và định nghĩa bản thân”, người đời (và cả chính chúng ta) đều nói những câu như “Tôi thấy mình kém cỏi, thất bại”, “Xung quanh tôi, ai cũng thành công, ai cũng ổn định, ai cũng tỏa sáng”. Càng nhìn, đôi mắt chúng ta càng muốn nhắm tịt lại. Sự tiêu cực và cảm giác thất bại cứ như một thứ acid ăn mòn chúng ta qua từng giây từng phút, cho đến khi ta kiệt sức, những mảng hy vọng của ta lở loét, mưng mủ, phân hủy, và ta chấp nhận buông xuôi chúng một cách nghiệt ngã, thậm chí ghê tởm những thứ đã từng khiến ta có động lực và tự tin. 
+
+Thật ra, việc không biết được chính xác mình muốn gì trên đời này không có nghĩa là bạn bị tụt hậu. Cuộc sống tương tự như một chuyến xe bus, chúng chỉ chạy trên một tuyến đã vạch sẵn, dừng đỗ ở các trạm cố định. Bạn chỉ đang hoảng loạn vì bạn xuống nhầm điểm dừng, hoặc lên nhầm tuyến xe. Bạn lo sợ vì chỉ mình mình bị nhầm. Thật ra thì bạn hoàn toàn có thể ở lỳ trên chuyến xe sai kia và để nó đưa bạn đến điểm cuối. Nhưng đương nhiên đó chẳng phải điểm cuối mà bạn mong muốn, bạn vẫn chẳng đi đến đâu hết. Và suốt quãng đường đi, bạn nhìn ra cửa sổ và chỉ thấy những khung cảnh lạ hoắc, và sự lo lắng bên trong thậm chí biến những thứ mới mẻ đó trở nên kì quái và vô thực. Trên chuyến xe nhầm lẫn ấy, bạn có thể thấy được những cung đường mới, trò chuyện với những con người mới, hoặc phát hiện ra thứ gì đó mới. Tất cả chúng đều không nằm trong dự tính của bạn. Bạn có thể thấy thú vị hoặc không – vì bạn vẫn hy vọng mình không lên nhầm chuyến thì hơn. 
+
+Nhưng bạn không dám xuống. Bạn thà bám víu trên chiếc xe đó, còn hơn là nhảy xuống một trạm bất kì và bơ vơ một lần nữa về việc bây giờ phải đi tuyến nào thì mới có thể trở lại điểm xuất phát. 
+
+Sự sợ hãi khiến cho bạn mắc kẹt trong chính mình. Vì bạn đã quen những thứ lặp đi lặp lại, đã thả mình vào một chuỗi những thứ ổn định, nên khi có biến động xảy ra – dù chỉ nhỏ như việc lên nhầm xe bus – cũng đủ khiến bạn hoảng loạn. Bạn vẫn luôn tin rằng cuộc sống đã có sự sắp xếp sẵn của nó, bạn chỉ cần đi theo chỉ dẫn, hoàn thành các cột mốc, là mọi thứ sẽ trở nên mạch lạc. Nhưng rồi khi bạn lạc lối, bạn bơ vơ trên chuyến xe bus nhầm lẫn đó, mọi thứ xung quanh bạn vừa rộng lớn lại vừa đáng sợ cùng môt lúc. 
+
+Tự do có thể trở nên kinh dị khi bạn đã quen với sự ổn định, hoặc bạn  <i> giả vờ </i>  là mình ổn định. 
+
+Tôi cũng nhận ra rằng, mọi sự lệch hướng sẽ trở nên bớt đáng sợ hơn khi chúng ta ngừng coi nặng việc ổn định như một bản hợp đồng trọn đời. Bạn có thể kí nó, nhưng đối tác cuộc đời của bạn là một kẻ đầy tính toán. Nó sẽ đơn phương tăng thuế, thêm thắt điều khoản, hạ lãi suất của bạn qua các năm. Vậy nên, thay vì bám trụ lại vào những con số cố định rồi sẽ lỗi thời, cách duy nhất để bạn sống sót là học cách thương thảo với sự bất định.  
+
+
+
+
+    <b> Aelin. </b> 
+
+
+
+
+
+
+
+
+
+  `,
+  image: '/images/7.jpg',
+  date: '09 Tháng Hai 2026',
+};
+
+export const sidebarPosts = [
+  {
+    id: 'cu-de-ho-nghi-sai-ve-ban',
   title: 'Cứ để họ nghĩ sai về bạn.',
   excerpt: 'và cách kệ chuyện đó.',
   content: `
@@ -38,10 +83,8 @@ Cuộc đời này, hãy sống cho mình.
 
   `,
   image: '/images/7.jpg',
-  date: '17 Tháng Mười Một',
-};
-
-export const sidebarPosts = [
+  date: '17 Tháng Mười Một 2025',
+  },
   {
     id: 'ban-da-gay-nhung-sao-nua',
   title: 'Vậy là bạn gầy. Rồi sao nữa?',
@@ -83,7 +126,7 @@ Bởi thế, bạn chẳng cần phải gầy. Nhưng đương nhiên không th�
 
   `,
   image: 'https://i.pinimg.com/736x/3d/75/51/3d75512adb670ff596c3a3c5d5bc0101.jpg',
-  date: '17 Tháng Mười Một',
+  date: '17 Tháng Mười Một 2025',
   },
   {
     id: 'mua-thu-ha-noi',
@@ -121,7 +164,7 @@ Mùa thu trong mắt những thế hệ tiền nhân có vẻ buồn, yêu đư�
 
   `,
   image: 'https://i.pinimg.com/736x/75/e4/bc/75e4bc58bc04ed1d0bbe609e2268babe.jpg',
-  date: '15 Tháng Mười Một',
+  date: '15 Tháng Mười Một 2025',
   },
   {
     id: 'cold-elegance',
@@ -170,7 +213,7 @@ Mùa thu trong mắt những thế hệ tiền nhân có vẻ buồn, yêu đư�
 
   `,
   image: 'https://i.pinimg.com/736x/07/46/f8/0746f83d4b7d9f9e495635b22521a653.jpg',
-  date: '12 Tháng Mười Một',
+  date: '12 Tháng Mười Một 2025',
   },
   {
     id: 'split-screen',
@@ -216,7 +259,7 @@ Mùa thu trong mắt những thế hệ tiền nhân có vẻ buồn, yêu đư�
 
     `,
     image: 'https://i.pinimg.com/736x/51/fc/7d/51fc7d17cca36162f2df548f077aa113.jpg',
-    date: '01 Tháng Mười Một',
+    date: '01 Tháng Mười Một 2025',
   },
   {
     id: 'dostoevsky-14',
@@ -263,7 +306,7 @@ Mùa thu trong mắt những thế hệ tiền nhân có vẻ buồn, yêu đư�
 
     `,
     image: 'https://i.pinimg.com/736x/09/26/58/092658b4e2a8125020efd510040b3d58.jpg',
-    date: '22 Tháng Mười',
+    date: '22 Tháng Mười 2025',
   },
   {
     id: 'learned-uni',
@@ -294,7 +337,7 @@ Những cái Taste Acquired giúp cuộc sống đỡ bị một màu và là d�
 
     `,
     image: 'https://i.pinimg.com/1200x/fb/f1/ca/fbf1ca688a91a8cdbdede0ab02f616fa.jpg',
-    date: '1 Tháng Mười',
+    date: '1 Tháng Mười 2025',
   },
 ];
 

@@ -20,6 +20,8 @@ export default function Home() {
           <li><Link to="/articles">Stories</Link></li>
           <li><Link to="/about">About</Link></li>
           <li><Link to="/music">Music</Link></li>
+          <li><Link to="/film">Film</Link></li>
+
 
         </ul>
       </nav>
