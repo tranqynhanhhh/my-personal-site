@@ -59,18 +59,22 @@ export const playlists = [
     image: `https://i.pinimg.com/736x/f9/1d/e4/f91de4e7c3ea77afc1fe75d04bfee78d.jpg`
   },
   {
-    id: 'OLD',
-    title: '𐙚 old 𐙚',
+    id: 'SOFT',
+    title: '𐙚 soft 𐙚',
     tracks: [
       { title: 'Cheri Cheri Lady (slowed + reverb)', artist: 'Modern Talking', url: '/music/old/1.mp3', image:'https://i.pinimg.com/736x/d5/dd/fc/d5ddfcf96d81c13f274de729ef0b2a30.jpg' },
-      { title: 'Ngày Mai Người Ta Lấy Chồng – Metal Rock Version', artist: 'AI', url: '/music/metal-rock/nmntlc.mp3', image:'https://i.pinimg.com/736x/9c/9c/85/9c9c8525000b2638331b6ffd404c9439.jpg' },
-      { title: 'Quan Sơn Tửu – Metal Rock Version', artist: 'AI', url: '/music/metal-rock/qst.mp3', image:'https://i.pinimg.com/736x/b4/2c/c3/b42cc394c6a8036a0135cfe9139b58a3.jpg' },
-      { title: 'Không Bằng – Metal Rock Version', artist: 'AI', url: '/music/metal-rock/kb.mp3', image:'https://i.pinimg.com/736x/86/ad/71/86ad71972727406f53af21e1ebb1059b.jpg' },
-      { title: 'Đế Vương x Tướng Quân (Rock Mashup)', artist: 'AI', url: '/music/metal-rock/dvtq.mp3', image:'https://i.pinimg.com/736x/f7/d1/bc/f7d1bca344f470d047113ba69c14bb4b.jpg' },
-      { title: 'KHÔNG CẢM XÚC - ROCK VERSION', artist: 'AI', url: '/music/metal-rock/kcx.mp3', image:'/images/download.jpg' },
-      { title: 'Chờ Ngày Mưa Tan (Rock Metal Cover)', artist: 'AI', url: '/music/metal-rock/cnmt.mp3', image:'https://i.pinimg.com/736x/0c/51/46/0c514637e7c60fedf66607b8b4c95a68.jpg' },
-      { title: 'Phép Màu - Rock Version', artist: 'AI', url: '/music/metal-rock/phepmau.mp3', image:'/images/1.png' },
+      { title: 'pas de deux', artist: 'Tchaikovsky', url: '/music/old/10.mp3', image:'https://i.pinimg.com/736x/bf/fe/51/bffe51c7c5afc61e9ee064fac6f06d68.jpg' },
+      { title: 'La petite fille de la mer (Remastered)', artist: 'Unknown', url: '/music/old/2.mp3', image:'https://i.pinimg.com/736x/9c/9c/85/9c9c8525000b2638331b6ffd404c9439.jpg' },
+      { title: 'Écoute Chérie', artist: 'Vendredi Sur Mer', url: '/music/old/3.mp3', image:'https://i.pinimg.com/736x/b4/2c/c3/b42cc394c6a8036a0135cfe9139b58a3.jpg' },
+      { title: 'Me and the Devil', artist: 'Soap&Skin', url: '/music/old/4.mp3', image:'https://i.pinimg.com/736x/86/ad/71/86ad71972727406f53af21e1ebb1059b.jpg' },
+      { title: 'Golden Brown', artist: 'the stranglers', url: '/music/old/5.mp3', image:'https://i.pinimg.com/736x/f7/d1/bc/f7d1bca344f470d047113ba69c14bb4b.jpg' },
+      { title: 'Little Dark Age', artist: 'MGMT', url: '/music/old/6.mp3', image:'/images/download.jpg' },
+      { title: 'Sonne (slowed)', artist: 'Rammstein', url: '/music/old/7.mp3', image:'https://i.pinimg.com/736x/0c/51/46/0c514637e7c60fedf66607b8b4c95a68.jpg' },
+      { title: `L'amore dice ciao (Slow Take)`, artist: 'GREATEST MOVIE THEMES VOL.2', url: '/music/old/8.mp3', image:'/images/1.png' },
+      { title: `Old Doll - Soft Version`, artist: '?', url: '/music/old/9.mp3', image:'https://i.pinimg.com/736x/2b/a2/30/2ba2304eafd4b93a98cc799a6e9bac33.jpg' },
+      { title: `Le Monde`, artist: '?', url: '/music/old/11.mp3', image:'https://i.pinimg.com/736x/d3/96/17/d39617783e4b429063ac6bd08b75d0a8.jpg' },
       
+    
     ],
     image: `/images/3.png`
   },

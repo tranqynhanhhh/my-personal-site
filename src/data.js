@@ -1,9 +1,39 @@
 export const featuredPost = {
-  id: 'tu-do-dang-so',
-  title: 'Sự tự do đáng sợ khi bạn thậm chí còn không biết mình đang làm gì với cuộc đời mình.',
+  id: 'fomo',
+  title: 'Tôi cho phép mình FOMO.',
+  excerpt: '',
+  content: `
+  <img src="https://i.pinimg.com/736x/6a/37/5c/6a375ce84491cde5d78a016c6ec01b3a.jpg" alt="ảnh minh họa" style="width:100%; border-radius:12px; margin:1rem 0;" />
+    Dạo này mọi người quanh tôi đang đổ xô đi trải nghiệm The Matcha Tokyo. Lướt một vòng Threads, tôi đọc được không ít bài đăng, nhìn được không ít những tấm ảnh chụp của những cá nhân đã đứng chờ cả tiếng đồng hồ chỉ để mua bằng được hai cốc nước và tặng kèm một cái croissant. Bản thân tôi cũng vô cùng thích matcha latte, và tôi uống chúng nhiều tới mức tôi nhận ra matcha latte của The Coffe House ngon hơn của Là Trà, thậm chí ngon hơn cả của Starbucks nếu như hôm đó tôi chọn matcha Kyoto. 
+
+    Quay trở lại với FOMO, việc lo lắng khi trông thấy thành tựu của người khác là chuyện bình thường. Tôi nghĩ rằng nỗi lo này nên được bình thường hóa, thay vì việc nhiều người nổi tiếng trên mạng cứ xuất bản những podcast self-help rao giảng về việc không nên ganh tị với người khác. Bởi thật ra khá ít người ganh tị với những tấm ảnh rực rỡ đó, và hầu hết là họ ngưỡng mộ. Họ thấy bất cứ ai trên mạng cũng đều sống tốt hơn mình, thành công hơn mình, và rồi nghĩ rằng cuộc sống này của mình chưa đủ để spam 50 cái stories trên Instagram. Nhưng thực ra, nếu bạn không phải người nổi tiếng, việc bạn đăng gì lên mạng cũng chẳng có quá nổi 10 người quan tâm đâu. Không phải ai cũng rảnh rỗi chụp màn hình lại cuộc sống của bạn để đem đi chỗ khác. 
+
+    Bạn cứ thử nhẩm tính. Một tài khoản mạng xã hội, bạn thân với bao nhiêu người, và có bao nhiêu người bạn cảm giác rằng họ sẽ ganh tị với mình? Con số có thể không rõ ràng, nhưng chắc chắn không nhiều. Và tôi khẳng định rằng, người ta sẽ ấn tượng hơn với một bức ảnh ăn chơi phung phí sau một thời gian dài bạn không cập nhật cuộc sống lên mạng, thay vì một bức khác có cùng nội dung như thế, nhưng được đăng lên mỗi ngày. Con người thường bị ấn tượng bởi những khoảnh khắc nổi trội ngắn hạn, hơn là một ánh sáng chói lòa đã được duy trì quá lâu. 
+
+    Tôi vẫn sẽ đi uống thử The Matcha Tokyo. Không phải để khoe khoang với ai, cũng không phải vì sợ mình sẽ lạc hậu (chẳng ai lạc hậu vì không uống một cốc cà phê cả). Tôi đi vì tôi yêu matcha latte, tôi vẫn luôn mong rằng mình sẽ tìm được một thương hiệu có matcha latte ngon. 
+
+    <b> Aelin. </b> 
+
+
+
+
+
+
+
+
+
+  `,
+  image: 'https://i.pinimg.com/736x/bb/21/3d/bb213d404a25208f38af0f859b451f47.jpg',
+  date: '09 Tháng Hai 2026',
+};
+
+export const sidebarPosts = [
+  {
+  id: 'tan-van-1',
+  title: 'Khi bạn thậm chí còn không biết mình đang làm gì với cuộc đời mình.',
   excerpt: 'Vài câu chữ ngày cuối năm.',
   content: `
-    Khi người ta nói về việc “tìm hướng đi cho cuộc đời”, họ làm như thể đó chỉ như đang tìm kiếm một món đồ bị mất: chỉ cần lục lại trí nhớ, tìm đủ các ngăn kéo, các ngóc ngách, thì sớm muộn gì bạn cũng lôi nó ra được. Nhưng sự thật thì tôi tìm mãi không thấy cái áo sweater đỏ đó, hay cái cáp sạc màu trắng type C mà tôi vừa mới tháo ra tuần trước để thay bằng một cái cáp sạc màu đỏ có độ dài nhỉnh hơn. 
+     Khi người ta nói về việc “tìm hướng đi cho cuộc đời”, họ làm như thể đó chỉ như đang tìm kiếm một món đồ bị mất: chỉ cần lục lại trí nhớ, tìm đủ các ngăn kéo, các ngóc ngách, thì sớm muộn gì bạn cũng lôi nó ra được. Nhưng sự thật thì tôi tìm mãi không thấy cái áo sweater đỏ đó, hay cái cáp sạc màu trắng type C mà tôi vừa mới tháo ra tuần trước để thay bằng một cái cáp sạc màu đỏ có độ dài nhỉnh hơn. 
 
     Khi tìm mãi không thấy chúng, tôi bắt đầu nghi ngờ rằng, có phải ngay từ đầu, cái sweater đỏ hay cái cáp sạc trắng của tôi đã chẳng hề tồn tại? Hoặc giả như nó có thật đi nữa, thì hẳn là ai đó đã đưa chúng cho một “tôi” của ngày xưa – phiên bản cũ kĩ mà tôi hiện tại cũng chưa chắc đã muốn nhìn lại. “Tôi” ngày xưa chắc là cần đến chúng hơn, có lẽ thế.
 
@@ -26,7 +56,6 @@ Tôi cũng nhận ra rằng, mọi sự lệch hướng sẽ trở nên bớt đ
 
 
 
-
     <b> Aelin. </b> 
 
 
@@ -38,11 +67,9 @@ Tôi cũng nhận ra rằng, mọi sự lệch hướng sẽ trở nên bớt đ
 
 
   `,
-  image: '/images/7.jpg',
-  date: '09 Tháng Hai 2026',
-};
-
-export const sidebarPosts = [
+  image: 'https://i.pinimg.com/736x/ff/7d/b7/ff7db7c7eb92b0fe293ec226bf8e2d0c.jpg',
+  date: '07 Tháng Hai 2026',
+},
   {
     id: 'cu-de-ho-nghi-sai-ve-ban',
   title: 'Cứ để họ nghĩ sai về bạn.',
