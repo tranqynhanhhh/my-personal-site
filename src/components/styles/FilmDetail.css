@@ -1,0 +1,60 @@
+.film-detail {
+  padding: 2rem;
+  background: #fdf6f6;
+  min-height: 100vh;
+  color: #3a0a0a;
+}
+
+.back-link {
+  display: inline-block;
+  margin-bottom: 1rem;
+  font-size: 1rem;
+  color: #cc8899;
+  text-decoration: none;
+}
+
+.back-link:hover {
+  color: #a86677;
+}
+
+.film-title {
+  font-size: 2.2rem;
+  color: #cc8899;
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.film-banner {
+  width: 100%;
+  max-height: 400px;
+  object-fit: cover;
+  border-radius: 12px;
+  margin-bottom: 2rem;
+  box-shadow: 0 4px 10px rgba(255, 182, 193, 0.6);
+}
+
+.episode-heading {
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
+  color: #ff99aa;
+}
+
+.episode-list {
+  list-style: none;
+  padding: 0;
+}
+
+.episode-item {
+  margin-bottom: 0.8rem;
+}
+
+.episode-link {
+  text-decoration: none;
+  color: #cc8899;
+  font-size: 1.2rem;
+  transition: color 0.2s;
+}
+
+.episode-link:hover {
+  color: #a86677;
+}

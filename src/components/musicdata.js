@@ -22,6 +22,27 @@ export const playlists = [
     ]
   },
   {
+    id: 'phonk',
+    title: 'ꔫ phonk ꔫ',
+    image: 'https://i.pinimg.com/736x/2e/11/4b/2e114b49c280e0d9bd7b884b4900a0f1.jpg',
+    tracks: [
+      { title: 'NO BATIDÃO (Extended)', artist: '?', url: '/music/phonk/no-batidao.mp3', image:'https://i.pinimg.com/736x/6a/37/5c/6a375ce84491cde5d78a016c6ec01b3a.jpg' },
+      { title: 'Amor NaPraia "best part | Super - Slowed |', artist: '?', url: '/music/phonk/amornapraia.mp3', image:'https://i.pinimg.com/736x/12/d7/89/12d789a3d285463a9203d9ffb01b5f05.jpg' },
+      { title: 'MONTAGEM COMA', artist: 'Mafia', url: '/music/phonk/MONTAGEMCOMA.mp3', image:'https://i.pinimg.com/736x/d5/dd/fc/d5ddfcf96d81c13f274de729ef0b2a30.jpg' },
+      { title: 'NEXT!', artist: 'NCTS', url: '/music/phonk/next.mp3', image:'https://i.pinimg.com/736x/2c/51/6d/2c516d09e9195dc8ecd6c563d2b13700.jpg' },
+      { title: 'Manasha (Over Slowed)', artist: '?', url: '/music/phonk/Manasha.mp3', image:'https://i.pinimg.com/736x/12/d7/89/12d789a3d285463a9203d9ffb01b5f05.jpg' },
+      { title: 'BRODYAGA FUNK (PHONK)', artist: '?', url: '/music/phonk/BRODYAGA.mp3', image:'https://i.pinimg.com/736x/c9/ec/0d/c9ec0dda29a66946e525558a4b9cd4f4.jpg' },
+      { title: 'DIA DELÍCIA', artist: 'Mafia', url: '/music/phonk/DIADELICIA.mp3', image:'https://i.pinimg.com/736x/87/05/f8/8705f886c437b63f0f833b79f34af801.jpg' },
+      { title: 'SLAY!', artist: 'Eternxlkz', url: '/music/phonk/SLAY.mp3', image:'https://i.pinimg.com/736x/fd/97/2a/fd972abce9e841dac616aa632ba02e8c.jpg' },
+      { title: 'PASSO BEM SOLTO (Slowed)', artist: 'ATLXS', url: '/music/phonk/PASSOBEMSOLTO.mp3', image:'https://i.pinimg.com/736x/8b/ab/dd/8babdd3834319a3d367780548e3e43b7.jpg' },
+      {title: 'ENOUGH!', artist: 'Eternxlkz', url: '/music/phonk/ENOUGH.mp3', image:'https://i.pinimg.com/736x/d3/68/3d/d3683dfd737e07e9449b0d602cd8c235.jpg' },
+      {title: 'SLAVA', artist: 'MVSTERIOUS', url: '/music/phonk/SLAVA.mp3', image:'https://i.pinimg.com/736x/7f/bb/f2/7fbbf258a6c40334d4c68fda60e0002e.jpg' },
+      {title: 'MURDER IN MY MIND', artist: 'KORDHELL', url: '/music/phonk/MIMM.mp3', image:'https://i.pinimg.com/736x/d5/dd/fc/d5ddfcf96d81c13f274de729ef0b2a30.jpg' },
+      { title: 'RAVE', artist: 'Dxrk ダーク', url: '/music/phonk/RAVE.mp3', image:'https://i.pinimg.com/736x/12/d7/89/12d789a3d285463a9203d9ffb01b5f05.jpg' },
+    
+    ]
+  },
+  {
     id: 'attackontitan',
     title: '۶ৎ attack on titan ost ۶ৎ',
     tracks: [
@@ -38,25 +59,10 @@ export const playlists = [
     image: `https://i.pinimg.com/736x/f9/1d/e4/f91de4e7c3ea77afc1fe75d04bfee78d.jpg`
   },
   {
-    id: 'podcast',
-    title: '⋆𐙚 ̊. podcast ⋆𐙚 ̊.',
+    id: 'OLD',
+    title: '𐙚 old 𐙚',
     tracks: [
-      { title: 'Bạn dễ trở thành phát xít hơn bạn nghĩ - How To Inject Fascism Into A Society', artist: 'Khoa Học Rau Muống', url: '/music/podcast/fs.mp3', image:'https://i.pinimg.com/736x/c9/d3/80/c9d38019ce33532b78bb5dff093fa9ac.jpg'},
-      { title: 'Thế Giới Sẽ Ra Sao NẾU PHE TRỤC CHIẾN THẮNG Trong Chiến Tranh Thế Giới Thứ 2?', artist: 'CD Media', url: '/music/podcast/cd.mp3', image:'https://i.pinimg.com/736x/83/f0/1e/83f01e6d92b654f9c3f978de752ae092.jpg'},
-      { title: 'về một thế hệ cợt nhả', artist: 'Vì sao thế nhỉ!', url: '/music/podcast/vmthcn.mp3', image:'/images/1.png'},
-      { title: 'Tại Sao Ngô Đình Diệm Bị Người Mỹ Phản Bội?', artist: 'CD Media', url: '/music/podcast/cd1.mp3', image:'/images/2.png'},
-      { title: 'Điều kì diệu của việc đ* quan tâm', artist: 'JV', url: '/music/podcast/jv.mp3', image:'https://i.pinimg.com/736x/d5/dd/fc/d5ddfcf96d81c13f274de729ef0b2a30.jpg'},
-      { title: 'Hạnh Phúc Của Một Tang Gia - Tóm tắt văn học kinh điển "Số Đỏ" trong 15 phút', artist: 'Me xừ Đức', url: '/music/podcast/hp.mp3', image:'https://i.pinimg.com/736x/b4/2c/c3/b42cc394c6a8036a0135cfe9139b58a3.jpg'},
-      
-      
-    ],
-    image: `https://i.pinimg.com/736x/b4/e3/db/b4e3db21bc476120e65b29ac09340e09.jpg`
-  },
-  {
-    id: 'metal-rock',
-    title: '𐙚 metal rock 𐙚',
-    tracks: [
-      { title: 'Để Em Rời Xa - Metal Rock Version', artist: 'AI', url: '/music/metal-rock/deemroixa.mp3', image:'https://i.pinimg.com/736x/d5/dd/fc/d5ddfcf96d81c13f274de729ef0b2a30.jpg' },
+      { title: 'Cheri Cheri Lady (slowed + reverb)', artist: 'Modern Talking', url: '/music/old/1.mp3', image:'https://i.pinimg.com/736x/d5/dd/fc/d5ddfcf96d81c13f274de729ef0b2a30.jpg' },
       { title: 'Ngày Mai Người Ta Lấy Chồng – Metal Rock Version', artist: 'AI', url: '/music/metal-rock/nmntlc.mp3', image:'https://i.pinimg.com/736x/9c/9c/85/9c9c8525000b2638331b6ffd404c9439.jpg' },
       { title: 'Quan Sơn Tửu – Metal Rock Version', artist: 'AI', url: '/music/metal-rock/qst.mp3', image:'https://i.pinimg.com/736x/b4/2c/c3/b42cc394c6a8036a0135cfe9139b58a3.jpg' },
       { title: 'Không Bằng – Metal Rock Version', artist: 'AI', url: '/music/metal-rock/kb.mp3', image:'https://i.pinimg.com/736x/86/ad/71/86ad71972727406f53af21e1ebb1059b.jpg' },
@@ -121,23 +127,7 @@ export const playlists = [
     ],
     image: `/images/1.png`
   },
-   {
-    id: 'study',
-    title: '.ೀ study .ೀ ',
-    tracks: [
-      { title: 'W&W - OIIA OIIA (Spinning Cat)', artist: 'W&W', url: '/music/hc/oiia.mp3', image:'https://i.pinimg.com/736x/d5/dd/fc/d5ddfcf96d81c13f274de729ef0b2a30.jpg' },
-      { title: 'OIIA CAT x SODA POP', artist: 'Tori', url: '/music/hc/oia1.mp3', image:'https://i.pinimg.com/736x/9c/9c/85/9c9c8525000b2638331b6ffd404c9439.jpg' },
-      { title: 'Blue Oiia', artist: 'uia', url: '/music/hc/b.mp3', image:'https://i.pinimg.com/736x/b4/2c/c3/b42cc394c6a8036a0135cfe9139b58a3.jpg' },
-      { title: 'Nhạc Tết UIA', artist: 'uia', url: '/music/hc/uia11.mp3', image:'https://i.pinimg.com/736x/86/ad/71/86ad71972727406f53af21e1ebb1059b.jpg' },
-      { title: 'Hachimi Hachimi Mambo', artist: '? ', url: '/music/hc/hcm.mp3', image:'https://i.pinimg.com/736x/f7/d1/bc/f7d1bca344f470d047113ba69c14bb4b.jpg' },
-      { title: 'Hachimiii', artist: '?', url: '/music/hc/Hachimiiiiiiiiiiiiiiiiiiiiiii.mp3', image:'/images/1.png' },
-      { title: 'UIA Birthday', artist: 'uia', url: '/music/hc/bd.mp3', image:'/images/download.jpg' },
-      { title: 'UIA Birthday 2', artist: 'uia', url: '/music/hc/bd2.mp3', image:'https://i.pinimg.com/736x/64/a7/8c/64a78c2fb6ddfcf6bba29bea11293562.jpg' },
-      { title: 'Oppa UIA', artist: 'uia', url: '/music/hc/o.mp3', image:'https://i.pinimg.com/736x/5b/5e/18/5b5e180fe7c16bc25f7aee569d830c77.jpg' },
-      
-    ],
-    image: `/images/6.png`
-  },
+   
   
 
 ];
