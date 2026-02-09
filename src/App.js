@@ -11,11 +11,9 @@ import ChapterDetail from './components/ChapterDetail';
 import Music from './components/Music';
 import PlaylistDetail from './components/PlaylistDetail';
 import GlobalMusicPlayer from './components/GlobalMusicPlayer';
-import FilmDetail from './components/FilmDetail';
-import EpisodeDetail from './components/EpisodeDetail';
 
-// 👉 Import thêm Film
-import Film from './components/Film';
+
+
 
 export default function App() {
   return (
@@ -31,14 +29,12 @@ export default function App() {
         <Route path="/about" element={<About />} />
         <Route path="/music" element={<Music />} />
         <Route path="/music/:id" element={<PlaylistDetail />} />
-        <Route path="/film/:id" element={<FilmDetail />} />
-        <Route path="/film/:id/episode/:episodeId" element={<EpisodeDetail />} />
+        
 
         {/* ✅ Thêm route để dùng Stories */}
         <Route path="/stories" element={<Stories />} />
 
-        {/* ✅ Thêm route cho Film */}
-        <Route path="/film" element={<Film />} />
+       
       </Routes>
       <GlobalMusicPlayer />
     </Router>
