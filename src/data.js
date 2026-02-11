@@ -38,7 +38,7 @@ export const featuredPost = {
   
 <div style="text-align:center; font-size:1.2rem; margin:0.5rem 0; font-style:italic;"> 𐙚 </div>
 
-Các bác sĩ thời kỳ Phục Hưng chuyên điều trị cho giới thượng lưu đều hiểu đại đa số những biến chứng cơ thể của họ là do thời trang gây ra. Nhưng trớ trêu rằng ngay khi khỏi bệnh, các bệnh nhân giàu có này lại tiếp tục mặc chúng ngay sau khi hồi phục. Họ sẵn sàng chịu đựng những đau đớn thể chất ấy, cũng chứng tỏ rằng họ có đủ khả năng duy trì địa vị của mình. Một phụ nữ thắt corset chặt đến mức không thể thở nổi – chứng tỏ cô ấy có người hầu làm việc chân tay cho mình. Một người đàn ông không thể quay đầu bởi cổ áo to bản – cho thấy anh ta không bao giờ phải nhìn lại phía sau. Nếu như vậy, đối với những quý tộc này, thời trang không hề gây hại cho sức khỏe của họ, mà theo một cách nào đó, nó lại chính là mục đích mà họ nhắm tới.  
+Các bác sĩ thời kỳ Phục Hưng chuyên điều trị cho giới thượng lưu đều hiểu đại đa số những biến chứng cơ thể của họ là do thời trang gây ra. Nhưng trớ trêu rằng ngay khi khỏi bệnh, các bệnh nhân giàu có này lại tiếp tục mặc những trang phục đó. Họ sẵn sàng chịu đựng những đau đớn thể chất ấy, cũng chứng tỏ rằng họ có đủ khả năng duy trì địa vị của mình. Một phụ nữ thắt corset chặt đến mức không thể thở nổi – chứng tỏ cô ấy có người hầu làm việc chân tay cho mình. Một người đàn ông không thể quay đầu bởi cổ áo to bản – cho thấy anh ta không bao giờ phải nhìn lại phía sau. Nếu như vậy, đối với những quý tộc này, thời trang không hề gây hại cho sức khỏe của họ, mà theo một cách nào đó, nó lại chính là mục đích mà họ nhắm tới.  
 
 
 
