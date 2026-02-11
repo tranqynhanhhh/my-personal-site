@@ -1,4 +1,56 @@
 export const featuredPost = {
+  id: 'nguoi-dep-la-quai-vat',
+  title: 'Người Đẹp là Quái Vật.',
+  excerpt: '',
+  content: `
+  Vào thế kỉ XVI – XVII, giới thượng lưu châu Âu tin rằng, dáng vẻ bên ngoài chính là lời nói thay cho tất cả. Trang phục nói lên địa vị, màu sắc làn da thể hiện đức hạnh và sự cao quý, và việc sẵn lòng chịu đựng mọi nguy hiểm chỉ để đổi lại sắc đẹp sẽ chứng tỏ được lòng tận tụy đối với trật tự xã hội. Nhưng rồi họ đã biết, các hóa chất và nguyên vật liệu cần thiết để đạt được những lớp màng bọc rực rỡ đó lại chính là những chất được các bác sĩ dùng để chế thuốc diệt chuột và điều trị bệnh giang mai. Màu son đỏ tuyệt đẹp lại chứa sulfua thủy ngân; sắc trắng ngà Venetian - được sử dụng làm phấn nền, khiến các quý cô điên cuồng săn lùng, bởi nó làm cho làn da có màu trắng bệch như xác chết – lại là chì trắng nguyên chất trộn với giấm. Màu xanh lá rực rỡ và các sắc đỏ thẫm thống trị thời gian thượng lưu lại đến từ các hợp chất asen và chì. Ai cũng đều biết những chất này nguy hiểm, cực kỳ nguy hiểm. Không ít bác sĩ thời kỳ đó đã cảnh báo về chúng. Tuy nhiên, thời trang luôn đòi hỏi sự hy sinh, và giới quý tộc châu Âu đã phải trả giá bằng những tổn thương về mặt thần kinh, suy tạng, và những cái chết đầy đau đớn – mà thời đó, người ta chỉ đơn giản cho rằng nó là do ốm, sốt.
+
+  Bi kịch nằm ở chỗ, địa vị xã hội lại chính là một cái bẫy buộc họ phải bước vào. Một khi những thứ kì quặc đến rúng mình này trở thành tiêu chuẩn cộng đồng, thì việc rũ bỏ chúng đồng nghĩa với một bản án tự sát về mặt xã hội. Một quý bà từ chối trang điểm bằng lớp chì và sulfua sẽ bị chế giễu là tầm thường và quê mùa. Một quý ông tránh sử dụng keo vuốt tóc chứa nhiều hoạt chất bay hơi sẽ bị coi là luộm thuộm và hạ đẳng. Các triều đình thời kỳ Phục Hưng đã tạo ra một hệ thống mà việc tham gia vào đó cũng đồng nghĩa với việc tự tử từ từ, nhưng nếu từ chối cũng có nghĩa là sẽ mất đi tất cả những gì rực rỡ nhất mà họ đang có. Tất nhiên, một số người vẫn hiểu điều gì đang xảy ra với họ. Họ tận mắt chứng kiến cơ thể mình héo mòn đi từng ngày. Họ thấy răng mình rụng, thấy tay chân run rẩy, họ cảm nhận được những cơn đau đầu dữ dội như búa giáng, và cả tính cách cũng trở nên cọc cằn nóng nảy. Nhưng tuy vậy, vào mỗi sáng, họ vẫn ngồi trước bàn trang điểm. 
+
+  Trong một xã hội mà vẻ bề ngoài cũng được xem là một loại quyền lực, thì một vẻ đẹp độc hại đầy hóa chất cũng vẫn còn tốt hơn sự xấu xí an toàn.
+
+  Màu sắc thời thượng nhất thời kỳ Phục Hưng có lẽ là Scheele’s Green – một sắc xanh ngọc lục bảo hơi ngả vàng, lấp lánh rực rỡ, từng thống trị các phòng khiêu vũ xa hoa nhất châu Âu. Nhưng chúng có được độ sáng chói đó nhờ vào đồng arsenic. Những quý bà, quý cô mặc lên mình những chiếc váy chứa hàng cân vải tẩm thạch tín, cọ xát vào làn da và thẩm thấu qua lỗ chân lông họ đến hàng giờ liền mỗi ngày. Một loại sắc vàng vương giả nhất thời bấy giờ – Orpiment – thực chất là arsenic sulfide nguyên chất. Để có được những thước lụa lấp lánh tựa vàng ròng, những người thợ nhuộm phải xử lý và nhào trộn chúng bằng đôi tay trần. Giới thượng lưu tranh nhau đua đòi để có được những bộ trang phục có màu sắc rực rỡ nhất, mà không hề nhận ra – hoặc có nhưng bỏ qua – rằng cường độ đậm của màu sắc trên vải tỷ lệ thuận với nồng độ chất độc trong đó. Rất nhiều người thợ nhuộm và thợ dệt đã ra đi khi tuổi đời còn rất trẻ, với xác chết đầy thạch tín, nhưng các khách hàng giàu có của họ chỉ đơn giản là ca ngợi sự rực rỡ hoàng kim đó trong từng tấc vải, từng lớp ren, và tiếp tục truyền tai nhau.
+
+  Ngành công nghiệp mỹ phẩm thời Phục Hưng hoạt động dựa trên một nguyên tắc: cái đẹp đi liền với sự đau đớn. Phấn chì Venice (có tài liệu gọi là bột chì) – nền tảng đầu tiên làm quy chuẩn cho vẻ đẹp quý tộc – lại được kết hợp từ chì trắng trộn với giấm. Sự pha trộn này tạo ra một loại bột nhão mà các quý bà, quý cô dùng để thoa lên da và coi nó như một lớp kem nền hoàn hảo, chỉ để có được một tông da trắng bệch như người chết nhưng lại phù hợp theo tiêu chuẩn cái đẹp. Chì sẽ phá hủy mô dưới da, buộc họ phải thoa nhiều, nhiều hơn nữa, để che đi những vết sẹo và sự tàn phá kinh hoàng, tạo ra một vòng lặp luẩn quẩn và phụ thuộc. 
+
+  Thủy ngân cũng vậy. Nó được dùng trong phấn má hồng, son môi, thậm chí trong chu trình điều trị mụn. Nhưng rồi, nó khiến những con người rực rỡ nhất lại dần ra đi với dáng vẻ ghê sợ nhất. Nó khiến họ luôn run rẩy tay chân như người hạ đường huyết, rồi răng họ rụng, suy thận, suy nội tạng. 
+
+  Một nhân vật cụ thể cho những phương pháp làm đẹp kinh hoàng này là Nữ hoàng Elizabeth I. Bà được cho là đã trang điểm bằng chì, với những lớp phấn dày cộm, và bà để chúng như vậy trong nhiều ngày. Ban đầu, bà chỉ trang điểm để che đi những vết sẹo do căn bệnh đậu mùa. Mặt bà đắp chì, đôi môi thì sử dụng son làm từ cinnabar (còn được gọi là chu sa). Và đến cuối đời, cả cơ thể bà mang những tổn thương nghiêm trọng do nhiều thập kỷ bị nhiễm độc.  
+<figure>
+ <img src="https://substackcdn.com/image/fetch/$s_!6OLE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ad4be4c-64bb-49e6-91ae-1950018b359b_1200x690.webp" alt="Nữ hoàng Elizabeth I." style="width:100%; border-radius:12px; margin:1rem 0;" />
+<figcaption style="text-align:center; font-style:italic; margin-top:0.5rem;">
+    Nữ hoàng Elizabeth I.
+  </figcaption>
+</figure>
+
+
+  Tỷ lệ cơ thể lý tưởng thời kỳ này đòi hỏi con người phải biến chính mình thành thứ vô thực nhất. Áo corset – được làm từ xương cá voi, gỗ và sắt – chúng siết chặt vòng eo của phụ nữ cho đến khi có chỉ còn khoảng một gang tay rưỡi, thậm chí to bằng chiều ngang một quả cam cho những phụ nữ muốn thử sức với bộ môn hóp bụng. Chu vi đó thậm chí không đủ chỗ để cho các cơ quan nội tạng hoạt động bình thường, áp lực bị đẩy lên gan, chèn ép dạ dày, khiến việc ăn uống cũng trở thành vấn đề. Xương sườn bị biến dạng sau nhiều năm sử dụng, thậm chí bị nứt nếu corset bị siết quá chặt. Những phụ nữ có chiếc corset được siết chặt nhất đương nhiên là những người đẹp nhất, được coi là nữ tính nhất – nhưng họ không thể hít thở sâu, và rồi họ bị thiếu oxi mãn tính. Các bác sĩ thời ký đó đã ghi nhận nhiều trường hợp phụ nữ bị lệch các cơ quan nội tạng, và chúng không bao giờ có thể hồi phục lại được nữa ngay cả sau khi họ ngừng sử dụng corset.
+<img src="https://substackcdn.com/image/fetch/$s_!fySD!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F206275c3-c064-4570-ad1a-0924a4d052f0_640x1283.webp" alt="ảnh minh họa" style="width:100%; border-radius:12px; margin:1rem 0;" />
+   
+  Những chiếc cổ áo tròn, to, bằng vải lanh cứng cáp cực kỳ phổ biến tròng các triều đình thời Elizabeth. Chúng thường được quàng ngay cổ, độ rộng và độ cứng khiến các quý tộc chẳng thể quay nổi đầu hay nhìn xuống dưới. Chúng chèn ép động mạch cảnh và tĩnh mạch cảnh, hạn chế lưu thông máu lên não. Và vì thế, việc những người hầu túc trực ngay sát cạnh để đỡ một quý tộc đột nhiên ngất xỉu trở thành câu chuyện bình thường nhất trong các bữa tiệc của giới thượng lưu. Rồi cũng có một số người đeo cổ áo quá chặt, đến nỗi nghẹn thức ăn. Nhưng xung quanh không ai quan tâm, vì những người trên bàn cũng đều gặp phải vấn đề tương tự. 
+<img src="https://substackcdn.com/image/fetch/$s_!nkK8!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcce3ea45-c733-4211-990a-0d1b125a36af_1280x852.jpeg" alt="ảnh minh họa" style="width:100%; border-radius:12px; margin:1rem 0;" />
+
+  Các bác sĩ thời kỳ Phục Hưng chuyên điều trị cho giới thượng lưu đều hiểu đại đa số những biến chứng cơ thể của họ là do thời trang gây ra. Nhưng trớ trêu rằng ngay khi khỏi bệnh, các bệnh nhân giàu có này lại tiếp tục mặc chúng ngay sau khi hồi phục. Họ sẵn sàng chịu đựng những đau đớn thể chất ấy, cũng chứng tỏ rằng họ có đủ khả năng duy trì địa vị của mình. Một phụ nữ thắt corset chặt đến mức không thể thở nổi – chứng tỏ cô ấy có người hầu làm việc chân tay cho mình. Một người đàn ông không thể quay đầu bởi cổ áo to bản – cho thấy anh ta không bao giờ phải nhìn lại phía sau. Nếu như vậy, đối với những quý tộc này, thời trang không hề gây hại cho sức khỏe của họ, mà theo một cách nào đó, nó lại chính là mục đích mà họ nhắm tới.  
+
+
+
+    <b> Aelin. </b> 
+
+
+
+
+
+
+
+
+
+  `,
+  image: 'https://i.pinimg.com/736x/bb/21/3d/bb213d404a25208f38af0f859b451f47.jpg',
+  date: '09 Tháng Hai 2026',
+};
+
+export const sidebarPosts = [
+  {
   id: 'fomo',
   title: 'Tôi cho phép mình FOMO.',
   excerpt: '',
@@ -25,9 +77,7 @@ export const featuredPost = {
   `,
   image: 'https://i.pinimg.com/736x/bb/21/3d/bb213d404a25208f38af0f859b451f47.jpg',
   date: '09 Tháng Hai 2026',
-};
-
-export const sidebarPosts = [
+}, 
   {
   id: 'tan-van-1',
   title: 'Khi bạn thậm chí còn không biết mình đang làm gì với cuộc đời mình.',
