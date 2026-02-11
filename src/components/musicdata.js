@@ -2,7 +2,7 @@
 export const playlists = [
   {
     id: 'vietnam',
-    title: 'ꔫ nhạc việt ꔫ',
+    title: 'ꔫ v ꔫ',
     image: 'https://i.pinimg.com/736x/2e/11/4b/2e114b49c280e0d9bd7b884b4900a0f1.jpg',
     tracks: [
       { title: 'Cause I Love You', artist: 'Noo Phước Thịnh', url: '/music/vietnamese/causeiloveyou.mp3', image:'https://i.pinimg.com/736x/6a/37/5c/6a375ce84491cde5d78a016c6ec01b3a.jpg' },
@@ -23,8 +23,8 @@ export const playlists = [
   },
   {
     id: 'phonk',
-    title: 'ꔫ phonk ꔫ',
-    image: 'https://i.pinimg.com/736x/2e/11/4b/2e114b49c280e0d9bd7b884b4900a0f1.jpg',
+    title: 'ʚɞ phonk ʚɞ',
+    image: 'https://i.pinimg.com/736x/3b/b9/de/3bb9dec5e8f835692a12dab3d6f38b24.jpg',
     tracks: [
       { title: 'NO BATIDÃO (Extended)', artist: '?', url: '/music/phonk/no-batidao.mp3', image:'https://i.pinimg.com/736x/6a/37/5c/6a375ce84491cde5d78a016c6ec01b3a.jpg' },
       { title: 'Amor NaPraia "best part | Super - Slowed |', artist: '?', url: '/music/phonk/amornapraia.mp3', image:'https://i.pinimg.com/736x/12/d7/89/12d789a3d285463a9203d9ffb01b5f05.jpg' },
@@ -44,7 +44,7 @@ export const playlists = [
   },
   {
     id: 'attackontitan',
-    title: '۶ৎ attack on titan ost ۶ৎ',
+    title: '۶ৎ aot ۶ৎ',
     tracks: [
       { title: 'Call Of Silence', artist: 'Unknown', url: '/music/AOT/call-of-silence.mp3', image:'https://i.pinimg.com/736x/7f/bb/f2/7fbbf258a6c40334d4c68fda60e0002e.jpg' },
       { title: 'You See Big Girl(Short Ver.)', artist: 'Unknown', url: '/music/AOT/u-see-big-girl.mp3', image:'https://i.pinimg.com/736x/d3/68/3d/d3683dfd737e07e9449b0d602cd8c235.jpg' },
@@ -80,7 +80,7 @@ export const playlists = [
   },
   {
     id: 'remix',
-    title: '۶ৎ remix ۶ৎ',
+    title: '۶ৎ study ۶ৎ',
     tracks: [
       { title: 'Cạnh Tình Như Thế Speed Up Remix', artist: 'DICKSON x THÀNH ĐẠT x BIBO REMIX', url: '/music/remix/ctnt.mp3', image:'https://i.pinimg.com/736x/c2/2c/3a/c22c3ae138bf4d5c2b15d4af3abc5289.jpg' },
       { title: 'Cạnh Tình Như Thế Remix', artist: 'DICKSON x THÀNH ĐẠT x BIBO REMIX', url: '/music/remix/11.mp3', image:'/images/4.png' },
@@ -100,22 +100,7 @@ export const playlists = [
   },
 
   {
-    id: 'x-mas',
-    title: 'ྀི christmas ིྀ',
-    tracks: [
-      { title: 'Snowman', artist: 'Sia', url: '/music/xmas/sm.mp3', image:'https://i.pinimg.com/736x/d5/dd/fc/d5ddfcf96d81c13f274de729ef0b2a30.jpg' },
-      { title: 'Christmas is coming soon !!!!!!🎄(speed up playlist)', artist: 'hihi', url: '/music/xmas/pl.mp3', image:'https://i.pinimg.com/736x/9c/9c/85/9c9c8525000b2638331b6ffd404c9439.jpg' },
-      { title: 'All I Want for Christmas Is You', artist: 'Mariah Carey', url: '/music/xmas/1.mp3', image:'https://i.pinimg.com/736x/b4/2c/c3/b42cc394c6a8036a0135cfe9139b58a3.jpg' },
-      { title: 'Happy New Year', artist: 'ABBA', url: '/music/xmas/hp.mp3', image:'https://i.pinimg.com/736x/86/ad/71/86ad71972727406f53af21e1ebb1059b.jpg' },
-      { title: '스트레이키즈 Christmas EveL', artist: 'Stray Kids ', url: '/music/xmas/s.mp3', image:'https://i.pinimg.com/736x/f7/d1/bc/f7d1bca344f470d047113ba69c14bb4b.jpg' },
-      
-      
-    ],
-    image: `https://i.pinimg.com/736x/dc/e5/a7/dce5a7944c426ac1f2713a468315be7a.jpg`
-  },
-
-  {
-    id: 'hoicham',
+    id: 'meo',
     title: ' ≽^• ˕ • ྀི≼ ',
     tracks: [
       { title: 'W&W - OIIA OIIA (Spinning Cat)', artist: 'W&W', url: '/music/hc/oiia.mp3', image:'https://i.pinimg.com/736x/d5/dd/fc/d5ddfcf96d81c13f274de729ef0b2a30.jpg' },

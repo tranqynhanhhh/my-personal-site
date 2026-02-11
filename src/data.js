@@ -8,7 +8,7 @@ export const featuredPost = {
   Bi kịch nằm ở chỗ, địa vị xã hội lại chính là một cái bẫy buộc họ phải bước vào. Một khi những thứ kì quặc đến rúng mình này trở thành tiêu chuẩn cộng đồng, thì việc rũ bỏ chúng đồng nghĩa với một bản án tự sát về mặt xã hội. Một quý bà từ chối trang điểm bằng lớp chì và sulfua sẽ bị chế giễu là tầm thường và quê mùa. Một quý ông tránh sử dụng keo vuốt tóc chứa nhiều hoạt chất bay hơi sẽ bị coi là luộm thuộm và hạ đẳng. Các triều đình thời kỳ Phục Hưng đã tạo ra một hệ thống mà việc tham gia vào đó cũng đồng nghĩa với việc tự tử từ từ, nhưng nếu từ chối cũng có nghĩa là sẽ mất đi tất cả những gì rực rỡ nhất mà họ đang có. Tất nhiên, một số người vẫn hiểu điều gì đang xảy ra với họ. Họ tận mắt chứng kiến cơ thể mình héo mòn đi từng ngày. Họ thấy răng mình rụng, thấy tay chân run rẩy, họ cảm nhận được những cơn đau đầu dữ dội như búa giáng, và cả tính cách cũng trở nên cọc cằn nóng nảy. Nhưng tuy vậy, vào mỗi sáng, họ vẫn ngồi trước bàn trang điểm. 
 
   Trong một xã hội mà vẻ bề ngoài cũng được xem là một loại quyền lực, thì một vẻ đẹp độc hại đầy hóa chất cũng vẫn còn tốt hơn sự xấu xí an toàn.
-
+  <div style="text-align:center; font-size:1.2rem; margin:0.5rem 0; font-style:italic;"> 𐙚 </div>
   Màu sắc thời thượng nhất thời kỳ Phục Hưng có lẽ là Scheele’s Green – một sắc xanh ngọc lục bảo hơi ngả vàng, lấp lánh rực rỡ, từng thống trị các phòng khiêu vũ xa hoa nhất châu Âu. Nhưng chúng có được độ sáng chói đó nhờ vào đồng arsenic. Những quý bà, quý cô mặc lên mình những chiếc váy chứa hàng cân vải tẩm thạch tín, cọ xát vào làn da và thẩm thấu qua lỗ chân lông họ đến hàng giờ liền mỗi ngày. Một loại sắc vàng vương giả nhất thời bấy giờ – Orpiment – thực chất là arsenic sulfide nguyên chất. Để có được những thước lụa lấp lánh tựa vàng ròng, những người thợ nhuộm phải xử lý và nhào trộn chúng bằng đôi tay trần. Giới thượng lưu tranh nhau đua đòi để có được những bộ trang phục có màu sắc rực rỡ nhất, mà không hề nhận ra – hoặc có nhưng bỏ qua – rằng cường độ đậm của màu sắc trên vải tỷ lệ thuận với nồng độ chất độc trong đó. Rất nhiều người thợ nhuộm và thợ dệt đã ra đi khi tuổi đời còn rất trẻ, với xác chết đầy thạch tín, nhưng các khách hàng giàu có của họ chỉ đơn giản là ca ngợi sự rực rỡ hoàng kim đó trong từng tấc vải, từng lớp ren, và tiếp tục truyền tai nhau.
 
   Ngành công nghiệp mỹ phẩm thời Phục Hưng hoạt động dựa trên một nguyên tắc: cái đẹp đi liền với sự đau đớn. Phấn chì Venice (có tài liệu gọi là bột chì) – nền tảng đầu tiên làm quy chuẩn cho vẻ đẹp quý tộc – lại được kết hợp từ chì trắng trộn với giấm. Sự pha trộn này tạo ra một loại bột nhão mà các quý bà, quý cô dùng để thoa lên da và coi nó như một lớp kem nền hoàn hảo, chỉ để có được một tông da trắng bệch như người chết nhưng lại phù hợp theo tiêu chuẩn cái đẹp. Chì sẽ phá hủy mô dưới da, buộc họ phải thoa nhiều, nhiều hơn nữa, để che đi những vết sẹo và sự tàn phá kinh hoàng, tạo ra một vòng lặp luẩn quẩn và phụ thuộc. 
@@ -22,15 +22,23 @@ export const featuredPost = {
     Nữ hoàng Elizabeth I.
   </figcaption>
 </figure>
-
-
   Tỷ lệ cơ thể lý tưởng thời kỳ này đòi hỏi con người phải biến chính mình thành thứ vô thực nhất. Áo corset – được làm từ xương cá voi, gỗ và sắt – chúng siết chặt vòng eo của phụ nữ cho đến khi có chỉ còn khoảng một gang tay rưỡi, thậm chí to bằng chiều ngang một quả cam cho những phụ nữ muốn thử sức với bộ môn hóp bụng. Chu vi đó thậm chí không đủ chỗ để cho các cơ quan nội tạng hoạt động bình thường, áp lực bị đẩy lên gan, chèn ép dạ dày, khiến việc ăn uống cũng trở thành vấn đề. Xương sườn bị biến dạng sau nhiều năm sử dụng, thậm chí bị nứt nếu corset bị siết quá chặt. Những phụ nữ có chiếc corset được siết chặt nhất đương nhiên là những người đẹp nhất, được coi là nữ tính nhất – nhưng họ không thể hít thở sâu, và rồi họ bị thiếu oxi mãn tính. Các bác sĩ thời ký đó đã ghi nhận nhiều trường hợp phụ nữ bị lệch các cơ quan nội tạng, và chúng không bao giờ có thể hồi phục lại được nữa ngay cả sau khi họ ngừng sử dụng corset.
-<img src="https://substackcdn.com/image/fetch/$s_!fySD!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F206275c3-c064-4570-ad1a-0924a4d052f0_640x1283.webp" alt="ảnh minh họa" style="width:100%; border-radius:12px; margin:1rem 0;" />
-   
+  <figure>
+ <img src="https://substackcdn.com/image/fetch/$s_!fySD!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F206275c3-c064-4570-ad1a-0924a4d052f0_640x1283.webp" alt="ảnh minh họa" style="width:100%; border-radius:12px; margin:1rem 0;" />
+<figcaption style="text-align:center; font-style:italic; margin-top:0.5rem;">
+    Ảnh minh họa một phụ nữ mặc corset.
+  </figcaption>
+</figure> 
   Những chiếc cổ áo tròn, to, bằng vải lanh cứng cáp cực kỳ phổ biến tròng các triều đình thời Elizabeth. Chúng thường được quàng ngay cổ, độ rộng và độ cứng khiến các quý tộc chẳng thể quay nổi đầu hay nhìn xuống dưới. Chúng chèn ép động mạch cảnh và tĩnh mạch cảnh, hạn chế lưu thông máu lên não. Và vì thế, việc những người hầu túc trực ngay sát cạnh để đỡ một quý tộc đột nhiên ngất xỉu trở thành câu chuyện bình thường nhất trong các bữa tiệc của giới thượng lưu. Rồi cũng có một số người đeo cổ áo quá chặt, đến nỗi nghẹn thức ăn. Nhưng xung quanh không ai quan tâm, vì những người trên bàn cũng đều gặp phải vấn đề tương tự. 
-<img src="https://substackcdn.com/image/fetch/$s_!nkK8!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcce3ea45-c733-4211-990a-0d1b125a36af_1280x852.jpeg" alt="ảnh minh họa" style="width:100%; border-radius:12px; margin:1rem 0;" />
+<figcaption style="text-align:center; font-style:italic; margin-top:0.5rem;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/The_Regentesses_of_the_St._Elisabeth%27s_Hospital_in_Haarlem_by_Johannes_Cornelisz_Verspronck.jpg/1280px-The_Regentesses_of_the_St._Elisabeth%27s_Hospital_in_Haarlem_by_Johannes_Cornelisz_Verspronck.jpg?20111211123528" alt="ảnh minh họa" style="width:100%; border-radius:12px; margin:1rem 0;" />
+    The Regentesses of the St. Elisabeth's Hospital in Haarlem (tranh của Johannes Cornelisz Verspronck).
+  </figcaption>
+</figure> 
+  
+<div style="text-align:center; font-size:1.2rem; margin:0.5rem 0; font-style:italic;"> 𐙚 </div>
 
-  Các bác sĩ thời kỳ Phục Hưng chuyên điều trị cho giới thượng lưu đều hiểu đại đa số những biến chứng cơ thể của họ là do thời trang gây ra. Nhưng trớ trêu rằng ngay khi khỏi bệnh, các bệnh nhân giàu có này lại tiếp tục mặc chúng ngay sau khi hồi phục. Họ sẵn sàng chịu đựng những đau đớn thể chất ấy, cũng chứng tỏ rằng họ có đủ khả năng duy trì địa vị của mình. Một phụ nữ thắt corset chặt đến mức không thể thở nổi – chứng tỏ cô ấy có người hầu làm việc chân tay cho mình. Một người đàn ông không thể quay đầu bởi cổ áo to bản – cho thấy anh ta không bao giờ phải nhìn lại phía sau. Nếu như vậy, đối với những quý tộc này, thời trang không hề gây hại cho sức khỏe của họ, mà theo một cách nào đó, nó lại chính là mục đích mà họ nhắm tới.  
+Các bác sĩ thời kỳ Phục Hưng chuyên điều trị cho giới thượng lưu đều hiểu đại đa số những biến chứng cơ thể của họ là do thời trang gây ra. Nhưng trớ trêu rằng ngay khi khỏi bệnh, các bệnh nhân giàu có này lại tiếp tục mặc chúng ngay sau khi hồi phục. Họ sẵn sàng chịu đựng những đau đớn thể chất ấy, cũng chứng tỏ rằng họ có đủ khả năng duy trì địa vị của mình. Một phụ nữ thắt corset chặt đến mức không thể thở nổi – chứng tỏ cô ấy có người hầu làm việc chân tay cho mình. Một người đàn ông không thể quay đầu bởi cổ áo to bản – cho thấy anh ta không bao giờ phải nhìn lại phía sau. Nếu như vậy, đối với những quý tộc này, thời trang không hề gây hại cho sức khỏe của họ, mà theo một cách nào đó, nó lại chính là mục đích mà họ nhắm tới.  
 
 
 
@@ -45,20 +53,20 @@ export const featuredPost = {
 
 
   `,
-  image: 'https://i.pinimg.com/736x/bb/21/3d/bb213d404a25208f38af0f859b451f47.jpg',
-  date: '09 Tháng Hai 2026',
+  image: 'https://i.pinimg.com/736x/e3/f2/8e/e3f28e935ac59cede644ead3bdb3390c.jpg',
+  date: '11 Tháng Hai 2026',
 };
 
 export const sidebarPosts = [
   {
   id: 'fomo',
   title: 'Tôi cho phép mình FOMO.',
-  excerpt: '',
+  excerpt: 'HÃY FOMO ĐIIII',
   content: `
-  <img src="https://i.pinimg.com/736x/6a/37/5c/6a375ce84491cde5d78a016c6ec01b3a.jpg" alt="ảnh minh họa" style="width:100%; border-radius:12px; margin:1rem 0;" />
-    Dạo này mọi người quanh tôi đang đổ xô đi trải nghiệm The Matcha Tokyo. Lướt một vòng Threads, tôi đọc được không ít bài đăng, nhìn được không ít những tấm ảnh chụp của những cá nhân đã đứng chờ cả tiếng đồng hồ chỉ để mua bằng được hai cốc nước và tặng kèm một cái croissant. Bản thân tôi cũng vô cùng thích matcha latte, và tôi uống chúng nhiều tới mức tôi nhận ra matcha latte của The Coffe House ngon hơn của Là Trà, thậm chí ngon hơn cả của Starbucks nếu như hôm đó tôi chọn matcha Kyoto. 
+      Dạo này mọi người quanh tôi đang đổ xô đi trải nghiệm The Matcha Tokyo. Lướt một vòng Threads, tôi đọc được không ít bài đăng, nhìn được không ít những tấm ảnh chụp của những cá nhân đã đứng chờ cả tiếng đồng hồ chỉ để mua bằng được hai cốc nước và tặng kèm một cái croissant. Bản thân tôi cũng vô cùng thích matcha latte, và tôi uống chúng nhiều tới mức tôi nhận ra matcha latte của The Coffe House ngon hơn của Là Trà, thậm chí ngon hơn cả của Starbucks nếu như hôm đó tôi chọn matcha Kyoto. 
 
     Quay trở lại với FOMO, việc lo lắng khi trông thấy thành tựu của người khác là chuyện bình thường. Tôi nghĩ rằng nỗi lo này nên được bình thường hóa, thay vì việc nhiều người nổi tiếng trên mạng cứ xuất bản những podcast self-help rao giảng về việc không nên ganh tị với người khác. Bởi thật ra khá ít người ganh tị với những tấm ảnh rực rỡ đó, và hầu hết là họ ngưỡng mộ. Họ thấy bất cứ ai trên mạng cũng đều sống tốt hơn mình, thành công hơn mình, và rồi nghĩ rằng cuộc sống này của mình chưa đủ để spam 50 cái stories trên Instagram. Nhưng thực ra, nếu bạn không phải người nổi tiếng, việc bạn đăng gì lên mạng cũng chẳng có quá nổi 10 người quan tâm đâu. Không phải ai cũng rảnh rỗi chụp màn hình lại cuộc sống của bạn để đem đi chỗ khác. 
+<img src="https://i.pinimg.com/736x/6a/37/5c/6a375ce84491cde5d78a016c6ec01b3a.jpg" alt="ảnh minh họa" style="width:100%; border-radius:12px; margin:1rem 0;" />
 
     Bạn cứ thử nhẩm tính. Một tài khoản mạng xã hội, bạn thân với bao nhiêu người, và có bao nhiêu người bạn cảm giác rằng họ sẽ ganh tị với mình? Con số có thể không rõ ràng, nhưng chắc chắn không nhiều. Và tôi khẳng định rằng, người ta sẽ ấn tượng hơn với một bức ảnh ăn chơi phung phí sau một thời gian dài bạn không cập nhật cuộc sống lên mạng, thay vì một bức khác có cùng nội dung như thế, nhưng được đăng lên mỗi ngày. Con người thường bị ấn tượng bởi những khoảnh khắc nổi trội ngắn hạn, hơn là một ánh sáng chói lòa đã được duy trì quá lâu. 
 
@@ -206,44 +214,6 @@ Bởi thế, bạn chẳng cần phải gầy. Nhưng đương nhiên không th�
   date: '17 Tháng Mười Một 2025',
   },
   {
-    id: 'mua-thu-ha-noi',
-  title: 'Mình thấy thu Hà Nội chưa trọn vẹn.',
-  excerpt: 'Một expression mới cho mùa thu.',
-  content: `
-    Ở Hà Nội, mùa thu dường như là mùa được mong chờ nhất năm. Không khí dễ chịu, những cái nắng cũng trở nên dịu dàng hơn, lòng người cũng nhẹ nhàng đi. Người Hà Nội lúc này không còn nóng nảy vội vã tìm một bóng râm như mùa hè, cũng chưa đến kiểu tâm trạng trầm lặng u ám co ro như mùa đông. Tất cả đều ở mức bình bình, vừa đủ. Bạn đã có thể mặc áo dài tay, nhưng bên dưới vẫn thoải mái bận chân váy ngắn hay quần short. Mọi thứ vào mùa thu đều trở nên dễ thở hơn, và bởi vậy người ta yêu mùa thu. 
-Khác với cái nắng cháy da cháy thịt của trời hè, biến Hà Nội thành cái nồi hấp bánh bao; khác với cái rét co ro run rẩy đến mức răng va lập cập vào nhau, đi xe máy mà không đeo găng tay thì vừa cóng vừa rát vì nứt nẻ, như thể trong không khí có sẵn những lưỡi dao lam. Thành thử ra, mùa thu là mùa dịu dàng duy nhất. Đó là mùa mà mọi người sẵn sàng chạy xe thong dong lượn khắp phố xá, ngồi những chiếc ghế được kê ở phía ngoài mấy quán cà phê mà không lo ngại về việc quá nóng hoặc quá lạnh. Họ gọi bạc sỉu, với mua ít cốm từ những người bán cốm rong, chỉ nhiêu đó đủ khiến họ thong dong cả nửa ngày trời.
-Người Hà Nội thật lòng yêu mùa thu. Nhưng ngày nay khi nói về nó, họ gần như chỉ nói được những điều lặp đi lặp lại. Quanh quẩn trên mạng xã hội hay những nền tảng văn hóa đại chúng, ta bắt gặp những cụm từ như “cốm”, “trà đá Nhà Thờ”, “ngồi cà phê”, “đường Phan Đình Phùng”,... Nó không sai, nhưng nó hời hợt. Hời hợt thì tức là nhạt, là vô vị. Muốn có cái gì sâu sắc hơn, họ phải viện dẫn đến thơ và nhạc của những người đã sống trong mùa thu Hà Nội từ thế kỷ trước.
-
-<em>“Rặng liễu đìu hiu đứng chịu rang
-Tóc buồn buông xuống lệ ngàn hàng
-Đây mùa thu tới – mùa thu tới
-Với áo mơ phai dệt lá vàng.”</em>
-Xuân Diệu
-
-Hoặc, mùa thu có nhạc của Trịnh Công Sơn:
-
-<em>“Hà Nội mùa thu, cây cơm nguội vàng
-Cây bàng lá đỏ, nằm kề bên nhau
-Phố xưa nhà cổ, mái ngói thẫm nâu
-Hà Nội mùa thu, mùa thu Hà Nội...”</em>
-                                              
-Mùa thu trong mắt những thế hệ tiền nhân có vẻ buồn, yêu đương thì thơ mộng, có phần s súa, ấy là tông màu chính trong gần một thế kỷ qua. So với họ, mùa thu của chúng ta ngày nay chẳng có không khí gì đặc biệt. Nó không thê lương như mùa thu của Xuân Diệu, không cổ điển như mùa thu của Văn Cao, không lãng mạn như mùa thu của Đoàn Chuẩn. Mùa thu của người Hà Nội ngày nay nhạt nhẽo và hời hợt như một bát cơm nguội. Chúng ta không có một nhà thơ, một nhà văn, một nhạc sĩ đương đại nào đủ sức cổ động tinh thần của thời đại vào một hai dòng thơ hay câu hát như các bậc tiền nhân đã làm. Hoặc vấn đề ngược lại: các nghệ sĩ đã sẵn sàng, nhưng cái đời sống tinh thần nói chung nhạt nhẽo quá, những cái chúng ta nghĩ chúng ta làm hằng ngày thì nó tầm thường quá, chẳng có gì đáng để cô đọng cả. Nếu những thế hệ sau lật lại những áng văn thơ, họ sẽ thấy một đương đại khuyết trống và vô cảm, chỉ vì chúng ta là một thế hệ không có mùa thu của riêng mình.
-
-
-    <b> Aelin. </b> 
-    
-
-
-
-
-
-
-
-  `,
-  image: 'https://i.pinimg.com/736x/75/e4/bc/75e4bc58bc04ed1d0bbe609e2268babe.jpg',
-  date: '15 Tháng Mười Một 2025',
-  },
-  {
     id: 'cold-elegance',
   title: 'Nghịch lý của việc khao khát được để ý nhưng lại sợ bị nhìn thấy.',
   excerpt: 'Một loại căng thẳng âm thầm.',
@@ -338,84 +308,8 @@ Mùa thu trong mắt những thế hệ tiền nhân có vẻ buồn, yêu đư�
     image: 'https://i.pinimg.com/736x/51/fc/7d/51fc7d17cca36162f2df548f077aa113.jpg',
     date: '01 Tháng Mười Một 2025',
   },
-  {
-    id: 'dostoevsky-14',
-    title: "Mình nhận ra điều gì từ 4.5 năm đại học?",
-    excerpt: 'Vài lời sau khi ra trường.',
-    content: `
-      Sau học kì 1 của năm thứ nhất, lớp mình đã có 3 người nghỉ học.
-      Họ nghỉ theo nhiều cách khác nhau: bảo lưu, bỏ học luôn(rút hồ sơ), hoặc chán quá nên nghỉ, đợi khi nào nhà trường buộc thôi học thì đến lấy giấy tờ. 
-      Những lý do được đưa ra hầu hết là nhận ra mình chọn sai ngành, học không hiểu, chán học, không còn thấy hứng thú với ngành nữa. Số ít thì tìm được việc freelancer nào đó nhiều tiền nên bỏ học luôn. 
-
-      Nhưng sau hơn 5 năm, những gì mình nhận thấy ở họ là một cuộc sống bấp bênh không có định hướng.
-      Nhiều người quay lại trường để học, lấy nốt cái bằng, vì công ty cần một người có bằng cấp.
-      Số lượng người làm KOL, freelancer ngày càng nhiều, cạnh tranh càng khắc nghiệt, dẫn đến họ mất nguồn thu nhập mà họ từng vô cùng tự hào trong quá khứ - khi các bạn cùng trang lứa vẫn còn phải dựa vào tiền chu cấp từ gia đình.
-      Tóm lại thì, những người bỏ học mà mình biết, đến giờ đều đã hối hận.
-      Vậy nên, khi còn được học, hãy cố gắng học. Bạn không cần phải quá nổi bật, quá xuất sắc, bạn chỉ cần học chăm chỉ như cách bạn từng cố gắng để thi đỗ vào ngôi trường này là được. Qua môn ở đại học không hề khó.
-
-
-      Nhưng sẽ có người nghĩ, lấy được cái bằng rồi vẫn không tìm được việc thì sao?
-      <b>Thứ nhất</b>, là do bạn chỉ học để thi, không phải để làm. Doanh nghiệp bây giờ sẽ không có thời gian rảnh để đào tạo bạn lại từ đầu. 
-      
-      <b>Thứ hai</b>, những mối quan hệ của bạn chưa đủ rộng lớn. Ở đại học, có rất nhiều sinh viên sau khi ra trường tự mở công ty tư nhân. Bạn dựa vào một chút quen biết thôi là cũng có thể có cho mình một công việc rồi, dù lương có vẻ không cao lắm. Nhưng chẳng sao cả, mình là sinh viên mới ra trường mà.
-      
-      <b>Thứ ba</b>, bạn kì vọng quá nhiều vào thị trường lao động, hoặc bạn đánh giá bản thân quá cao. Bạn nghĩ rằng chỉ vài project nhỏ của mình, vài dự án mình làm ở trường đại học đã đủ đánh bại những người khác. 
-
-      <b>Thứ tư</b>, bạn biết điểm mạnh của mình. Chấp nhận trái ngành để theo đuổi nó.
-
-      Thị trường vẫn luôn trong tình trạng: doanh nghiệp thì luôn treo thông báo cần người lao động, nhưng người lao động thì thất nghiệp tràn lan.
-      Nhiều sinh viên không biết dùng excel cơ bản, không biết thuyết trình, làm slide thì dày đặc chữ. Những thứ cơ bản đó không nắm được, thì nói thô một chút, bạn chưa xứng đáng được vào bất cứ một công ty nào cả. 
-
-      Nhưng lỗi không hoàn toàn nằm ở bạn.
-      Chương trình giảng dạy cũ kĩ, cách dạy học không hiệu quả, dễ khiến sinh viên cảm thấy <em>"chỉ cần qua môn là được, cần gì phải hiểu"</em>. Các giáo trình đại đa số toàn đã cách đây cả 20 năm, công nghệ đã lỗi thời, không theo kịp được bước tiến của thị trường lao động, cũng khiến sinh viên sau khi ra trường vô cùng chật vật. Hằng năm, các nhà trường vẫn gửi email bắt các sinh viên đã ra trường làm khảo sát để xem thống kê được bao nhiêu sinh viên có được việc làm. Chuyện này ngoài việc làm đẹp hồ sơ tuyển sinh cho trường, chứ còn sinh viên chả được tiếng thơm gì, vì hầu hết các sinh viên đều đã làm trái ngành mà mình đã học.
-
-      Sau khi đi làm, mọi thứ còn kinh khủng hơn. Môi trường không phù hợp, đồng nghiệp không phù hợp, leader không phù hợp,... Nhưng nhiều lúc, vì đồng lương, và nỗi sợ không thể tìm được công việc khác, khiến cho con người ta ngại thay đổi. 
-      Không những vậy, đối mặt với sự bất cân bằng khi phải làm việc chung với hội con ông cháu cha. 
-      Lâu dần, mình cũng học được cách phản đối, học cách nói "Không", học cách từ chối những thứ mà bản thân không thực sự cưỡng cầu.
-
-      
-      
-      
-      
-      
-
-
-
-    `,
-    image: 'https://i.pinimg.com/736x/09/26/58/092658b4e2a8125020efd510040b3d58.jpg',
-    date: '22 Tháng Mười 2025',
-  },
-  {
-    id: 'learned-uni',
-    title: 'A Taste Acquired',
-    excerpt: 'Nhiều màu.',
-    content: `
-      Tôi rất thích một chai rượu Ý tên là Campari. Nó uống đắng và gắt. Chẳng ai mới thử mà khen Campari ngon cả. Hồi làm bartender, vì thấy anh chủ quán hay uống Campari soda nên tôi mới tò mò uống thử, uống nhiều tự nhiên lại thích. Sau này dịch thơ Pablo Neruda tôi mới biết đây cũng là món khoái khẩu của nhà thơ và cô nhân tình. Trong thế giới rượu, những chai đắng hoặc gắt được xếp vào hạng “a taste acquired”, nghĩa là chẳng ai tự nhiên thích vị của chúng cả; người ta phải tiếp xúc nhiều và học cách thích những chai rượu khó ưa ấy. Khi đã thông cảm và hiểu được cái hay, ta đâm nghiện nó hơn mọi món ngon khác.
-
-Có nhiều môn thưởng thức thuộc dạng này. Nhạc cổ điển là a taste acquired. Trong bài “Dẫn Vào Thế Giới Nhạc Jazz” trên chiep.co, tôi nói rằng nhạc cổ điển khó nghe với tai người hiện đại vì nó cần ta tập trung và nghe lại nhiều lần mới thích; classical không catchy như pop.
-
-Cà phê arabica pha máy Italia là a taste acquired. Đầu 2010 khi môn chơi này mới được phổ biến ở HN, ai cũng chê nó nhạt nhẽo không bằng cốc cà phê 10k ở Quất hay Duy Trí. Nhưng 10 năm sau nó được thấu hiểu và được chấp nhận, ta biết rằng đấy cũng là một kiểu ngon, và giờ đây hầu như quán nào cũng có máy pha của Ý.
-
-Rượu vang là a taste acquired. Ai mới uống chẳng chê rượu vang không ngon bằng rượu nút lá chuối ở quê? Nhưng càng uống nhiều và càng tìm hiểu về các tầng hương vị, vùng đất trồng hay cách làm ra chai rượu, ta càng yêu và lúc uống cảm nhận được những điều người khác không hiểu.
-
-Đồng hồ đeo tay là a taste acquired. Mới đầu không ai hiểu đồng hồ cơ khác gì đồng hồ pin, hay dô-lếch, cà-ti-ê khác gì đồng hồ tàu mà đắt bằng mấy cái xe máy. Nhưng tìm hiểu sâu thì ta không những thích cà-ti-ê mà còn thích nó phải là máy automatic, sản xuất năm này năm kia ta mới chịu.
-
-Bạn gái nói chuyện hay là a taste acquired. Con trai mới lớn chỉ thích những bạn gái mặt xinh hoặc chân dài như người mẫu. Nhưng trải qua hết những thứ đó, ta thấy những cô gái hiểu biết và nói chuyện hay gây nghiện hơn; ngồi với họ cả ngày không chán được.
-
-Những cái Taste Acquired giúp cuộc sống đỡ bị một màu và là dấu ấn cá nhân khiến người thưởng thức tâm đắc. 
-
-
-
-
-
-
-
-
-
-    `,
-    image: 'https://i.pinimg.com/1200x/fb/f1/ca/fbf1ca688a91a8cdbdede0ab02f616fa.jpg',
-    date: '1 Tháng Mười 2025',
-  },
+  
+  
 ];
 
 export const popularPosts = [
