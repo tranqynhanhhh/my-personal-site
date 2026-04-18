@@ -92,7 +92,7 @@ Quay lại với thời Trung Cổ ở châu Âu, vào thế kỷ 13, số lư�
 
 
   `,
-  image: 'https://i.pinimg.com/736x/e3/f2/8e/e3f28e935ac59cede644ead3bdb3390c.jpg',
+  image: 'https://i.pinimg.com/736x/e2/82/5b/e2825b013ebec9d4a019bfd0012f9804.jpg',
   date: '18 Tháng Tư 2026',
 };
 
