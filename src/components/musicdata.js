@@ -2,7 +2,7 @@
 export const playlists = [
   {
     id: 'vietnam',
-    title: 'ꔫ nhạc việt ꔫ',
+    title: 'ꔫ v ꔫ',
     image: 'https://i.pinimg.com/736x/2e/11/4b/2e114b49c280e0d9bd7b884b4900a0f1.jpg',
     tracks: [
       { title: 'Cause I Love You', artist: 'Noo Phước Thịnh', url: '/music/vietnamese/causeiloveyou.mp3', image:'https://i.pinimg.com/736x/6a/37/5c/6a375ce84491cde5d78a016c6ec01b3a.jpg' },
@@ -22,8 +22,29 @@ export const playlists = [
     ]
   },
   {
+    id: 'phonk',
+    title: 'ʚɞ phonk ʚɞ',
+    image: 'https://i.pinimg.com/736x/3b/b9/de/3bb9dec5e8f835692a12dab3d6f38b24.jpg',
+    tracks: [
+      { title: 'NO BATIDÃO (Extended)', artist: '?', url: '/music/phonk/no-batidao.mp3', image:'https://i.pinimg.com/736x/6a/37/5c/6a375ce84491cde5d78a016c6ec01b3a.jpg' },
+      { title: 'Amor NaPraia "best part | Super - Slowed |', artist: '?', url: '/music/phonk/amornapraia.mp3', image:'https://i.pinimg.com/736x/12/d7/89/12d789a3d285463a9203d9ffb01b5f05.jpg' },
+      { title: 'MONTAGEM COMA', artist: 'Mafia', url: '/music/phonk/MONTAGEMCOMA.mp3', image:'https://i.pinimg.com/736x/d5/dd/fc/d5ddfcf96d81c13f274de729ef0b2a30.jpg' },
+      { title: 'NEXT!', artist: 'NCTS', url: '/music/phonk/next.mp3', image:'https://i.pinimg.com/736x/2c/51/6d/2c516d09e9195dc8ecd6c563d2b13700.jpg' },
+      { title: 'Manasha (Over Slowed)', artist: '?', url: '/music/phonk/Manasha.mp3', image:'https://i.pinimg.com/736x/12/d7/89/12d789a3d285463a9203d9ffb01b5f05.jpg' },
+      { title: 'BRODYAGA FUNK (PHONK)', artist: '?', url: '/music/phonk/BRODYAGA.mp3', image:'https://i.pinimg.com/736x/c9/ec/0d/c9ec0dda29a66946e525558a4b9cd4f4.jpg' },
+      { title: 'DIA DELÍCIA', artist: 'Mafia', url: '/music/phonk/DIADELICIA.mp3', image:'https://i.pinimg.com/736x/87/05/f8/8705f886c437b63f0f833b79f34af801.jpg' },
+      { title: 'SLAY!', artist: 'Eternxlkz', url: '/music/phonk/SLAY.mp3', image:'https://i.pinimg.com/736x/fd/97/2a/fd972abce9e841dac616aa632ba02e8c.jpg' },
+      { title: 'PASSO BEM SOLTO (Slowed)', artist: 'ATLXS', url: '/music/phonk/PASSOBEMSOLTO.mp3', image:'https://i.pinimg.com/736x/8b/ab/dd/8babdd3834319a3d367780548e3e43b7.jpg' },
+      {title: 'ENOUGH!', artist: 'Eternxlkz', url: '/music/phonk/ENOUGH.mp3', image:'https://i.pinimg.com/736x/d3/68/3d/d3683dfd737e07e9449b0d602cd8c235.jpg' },
+      {title: 'SLAVA', artist: 'MVSTERIOUS', url: '/music/phonk/SLAVA.mp3', image:'https://i.pinimg.com/736x/7f/bb/f2/7fbbf258a6c40334d4c68fda60e0002e.jpg' },
+      {title: 'MURDER IN MY MIND', artist: 'KORDHELL', url: '/music/phonk/MIMM.mp3', image:'https://i.pinimg.com/736x/d5/dd/fc/d5ddfcf96d81c13f274de729ef0b2a30.jpg' },
+      { title: 'RAVE', artist: 'Dxrk ダーク', url: '/music/phonk/RAVE.mp3', image:'https://i.pinimg.com/736x/12/d7/89/12d789a3d285463a9203d9ffb01b5f05.jpg' },
+    
+    ]
+  },
+  {
     id: 'attackontitan',
-    title: '۶ৎ attack on titan ost ۶ৎ',
+    title: '۶ৎ aot ۶ৎ',
     tracks: [
       { title: 'Call Of Silence', artist: 'Unknown', url: '/music/AOT/call-of-silence.mp3', image:'https://i.pinimg.com/736x/7f/bb/f2/7fbbf258a6c40334d4c68fda60e0002e.jpg' },
       { title: 'You See Big Girl(Short Ver.)', artist: 'Unknown', url: '/music/AOT/u-see-big-girl.mp3', image:'https://i.pinimg.com/736x/d3/68/3d/d3683dfd737e07e9449b0d602cd8c235.jpg' },
@@ -38,39 +59,28 @@ export const playlists = [
     image: `https://i.pinimg.com/736x/f9/1d/e4/f91de4e7c3ea77afc1fe75d04bfee78d.jpg`
   },
   {
-    id: 'podcast',
-    title: '⋆𐙚 ̊. podcast ⋆𐙚 ̊.',
+    id: 'SOFT',
+    title: '𐙚 soft 𐙚',
     tracks: [
-      { title: 'Bạn dễ trở thành phát xít hơn bạn nghĩ - How To Inject Fascism Into A Society', artist: 'Khoa Học Rau Muống', url: '/music/podcast/fs.mp3', image:'https://i.pinimg.com/736x/c9/d3/80/c9d38019ce33532b78bb5dff093fa9ac.jpg'},
-      { title: 'Thế Giới Sẽ Ra Sao NẾU PHE TRỤC CHIẾN THẮNG Trong Chiến Tranh Thế Giới Thứ 2?', artist: 'CD Media', url: '/music/podcast/cd.mp3', image:'https://i.pinimg.com/736x/83/f0/1e/83f01e6d92b654f9c3f978de752ae092.jpg'},
-      { title: 'về một thế hệ cợt nhả', artist: 'Vì sao thế nhỉ!', url: '/music/podcast/vmthcn.mp3', image:'/images/1.png'},
-      { title: 'Tại Sao Ngô Đình Diệm Bị Người Mỹ Phản Bội?', artist: 'CD Media', url: '/music/podcast/cd1.mp3', image:'/images/2.png'},
-      { title: 'Điều kì diệu của việc đ* quan tâm', artist: 'JV', url: '/music/podcast/jv.mp3', image:'https://i.pinimg.com/736x/d5/dd/fc/d5ddfcf96d81c13f274de729ef0b2a30.jpg'},
-      { title: 'Hạnh Phúc Của Một Tang Gia - Tóm tắt văn học kinh điển "Số Đỏ" trong 15 phút', artist: 'Me xừ Đức', url: '/music/podcast/hp.mp3', image:'https://i.pinimg.com/736x/b4/2c/c3/b42cc394c6a8036a0135cfe9139b58a3.jpg'},
+      { title: 'Cheri Cheri Lady (slowed + reverb)', artist: 'Modern Talking', url: '/music/old/1.mp3', image:'https://i.pinimg.com/736x/d5/dd/fc/d5ddfcf96d81c13f274de729ef0b2a30.jpg' },
+      { title: 'pas de deux', artist: 'Tchaikovsky', url: '/music/old/10.mp3', image:'https://i.pinimg.com/736x/bf/fe/51/bffe51c7c5afc61e9ee064fac6f06d68.jpg' },
+      { title: 'La petite fille de la mer (Remastered)', artist: 'Unknown', url: '/music/old/2.mp3', image:'https://i.pinimg.com/736x/9c/9c/85/9c9c8525000b2638331b6ffd404c9439.jpg' },
+      { title: 'Écoute Chérie', artist: 'Vendredi Sur Mer', url: '/music/old/3.mp3', image:'https://i.pinimg.com/736x/b4/2c/c3/b42cc394c6a8036a0135cfe9139b58a3.jpg' },
+      { title: 'Me and the Devil', artist: 'Soap&Skin', url: '/music/old/4.mp3', image:'https://i.pinimg.com/736x/86/ad/71/86ad71972727406f53af21e1ebb1059b.jpg' },
+      { title: 'Golden Brown', artist: 'the stranglers', url: '/music/old/5.mp3', image:'https://i.pinimg.com/736x/f7/d1/bc/f7d1bca344f470d047113ba69c14bb4b.jpg' },
+      { title: 'Little Dark Age', artist: 'MGMT', url: '/music/old/6.mp3', image:'/images/download.jpg' },
+      { title: 'Sonne (slowed)', artist: 'Rammstein', url: '/music/old/7.mp3', image:'https://i.pinimg.com/736x/0c/51/46/0c514637e7c60fedf66607b8b4c95a68.jpg' },
+      { title: `L'amore dice ciao (Slow Take)`, artist: 'GREATEST MOVIE THEMES VOL.2', url: '/music/old/8.mp3', image:'/images/1.png' },
+      { title: `Old Doll - Soft Version`, artist: '?', url: '/music/old/9.mp3', image:'https://i.pinimg.com/736x/2b/a2/30/2ba2304eafd4b93a98cc799a6e9bac33.jpg' },
+      { title: `Le Monde`, artist: '?', url: '/music/old/11.mp3', image:'https://i.pinimg.com/736x/d3/96/17/d39617783e4b429063ac6bd08b75d0a8.jpg' },
       
-      
-    ],
-    image: `https://i.pinimg.com/736x/b4/e3/db/b4e3db21bc476120e65b29ac09340e09.jpg`
-  },
-  {
-    id: 'metal-rock',
-    title: '𐙚 metal rock 𐙚',
-    tracks: [
-      { title: 'Để Em Rời Xa - Metal Rock Version', artist: 'AI', url: '/music/metal-rock/deemroixa.mp3', image:'https://i.pinimg.com/736x/d5/dd/fc/d5ddfcf96d81c13f274de729ef0b2a30.jpg' },
-      { title: 'Ngày Mai Người Ta Lấy Chồng – Metal Rock Version', artist: 'AI', url: '/music/metal-rock/nmntlc.mp3', image:'https://i.pinimg.com/736x/9c/9c/85/9c9c8525000b2638331b6ffd404c9439.jpg' },
-      { title: 'Quan Sơn Tửu – Metal Rock Version', artist: 'AI', url: '/music/metal-rock/qst.mp3', image:'https://i.pinimg.com/736x/b4/2c/c3/b42cc394c6a8036a0135cfe9139b58a3.jpg' },
-      { title: 'Không Bằng – Metal Rock Version', artist: 'AI', url: '/music/metal-rock/kb.mp3', image:'https://i.pinimg.com/736x/86/ad/71/86ad71972727406f53af21e1ebb1059b.jpg' },
-      { title: 'Đế Vương x Tướng Quân (Rock Mashup)', artist: 'AI', url: '/music/metal-rock/dvtq.mp3', image:'https://i.pinimg.com/736x/f7/d1/bc/f7d1bca344f470d047113ba69c14bb4b.jpg' },
-      { title: 'KHÔNG CẢM XÚC - ROCK VERSION', artist: 'AI', url: '/music/metal-rock/kcx.mp3', image:'/images/download.jpg' },
-      { title: 'Chờ Ngày Mưa Tan (Rock Metal Cover)', artist: 'AI', url: '/music/metal-rock/cnmt.mp3', image:'https://i.pinimg.com/736x/0c/51/46/0c514637e7c60fedf66607b8b4c95a68.jpg' },
-      { title: 'Phép Màu - Rock Version', artist: 'AI', url: '/music/metal-rock/phepmau.mp3', image:'/images/1.png' },
-      
+    
     ],
     image: `/images/3.png`
   },
   {
     id: 'remix',
-    title: '۶ৎ remix ۶ৎ',
+    title: '۶ৎ study ۶ৎ',
     tracks: [
       { title: 'Cạnh Tình Như Thế Speed Up Remix', artist: 'DICKSON x THÀNH ĐẠT x BIBO REMIX', url: '/music/remix/ctnt.mp3', image:'https://i.pinimg.com/736x/c2/2c/3a/c22c3ae138bf4d5c2b15d4af3abc5289.jpg' },
       { title: 'Cạnh Tình Như Thế Remix', artist: 'DICKSON x THÀNH ĐẠT x BIBO REMIX', url: '/music/remix/11.mp3', image:'/images/4.png' },
@@ -90,22 +100,7 @@ export const playlists = [
   },
 
   {
-    id: 'x-mas',
-    title: 'ྀི christmas ིྀ',
-    tracks: [
-      { title: 'Snowman', artist: 'Sia', url: '/music/xmas/sm.mp3', image:'https://i.pinimg.com/736x/d5/dd/fc/d5ddfcf96d81c13f274de729ef0b2a30.jpg' },
-      { title: 'Christmas is coming soon !!!!!!🎄(speed up playlist)', artist: 'hihi', url: '/music/xmas/pl.mp3', image:'https://i.pinimg.com/736x/9c/9c/85/9c9c8525000b2638331b6ffd404c9439.jpg' },
-      { title: 'All I Want for Christmas Is You', artist: 'Mariah Carey', url: '/music/xmas/1.mp3', image:'https://i.pinimg.com/736x/b4/2c/c3/b42cc394c6a8036a0135cfe9139b58a3.jpg' },
-      { title: 'Happy New Year', artist: 'ABBA', url: '/music/xmas/hp.mp3', image:'https://i.pinimg.com/736x/86/ad/71/86ad71972727406f53af21e1ebb1059b.jpg' },
-      { title: '스트레이키즈 Christmas EveL', artist: 'Stray Kids ', url: '/music/xmas/s.mp3', image:'https://i.pinimg.com/736x/f7/d1/bc/f7d1bca344f470d047113ba69c14bb4b.jpg' },
-      
-      
-    ],
-    image: `https://i.pinimg.com/736x/dc/e5/a7/dce5a7944c426ac1f2713a468315be7a.jpg`
-  },
-
-  {
-    id: 'hoicham',
+    id: 'meo',
     title: ' ≽^• ˕ • ྀི≼ ',
     tracks: [
       { title: 'W&W - OIIA OIIA (Spinning Cat)', artist: 'W&W', url: '/music/hc/oiia.mp3', image:'https://i.pinimg.com/736x/d5/dd/fc/d5ddfcf96d81c13f274de729ef0b2a30.jpg' },
@@ -121,23 +116,7 @@ export const playlists = [
     ],
     image: `/images/1.png`
   },
-   {
-    id: 'study',
-    title: '.ೀ study .ೀ ',
-    tracks: [
-      { title: 'W&W - OIIA OIIA (Spinning Cat)', artist: 'W&W', url: '/music/hc/oiia.mp3', image:'https://i.pinimg.com/736x/d5/dd/fc/d5ddfcf96d81c13f274de729ef0b2a30.jpg' },
-      { title: 'OIIA CAT x SODA POP', artist: 'Tori', url: '/music/hc/oia1.mp3', image:'https://i.pinimg.com/736x/9c/9c/85/9c9c8525000b2638331b6ffd404c9439.jpg' },
-      { title: 'Blue Oiia', artist: 'uia', url: '/music/hc/b.mp3', image:'https://i.pinimg.com/736x/b4/2c/c3/b42cc394c6a8036a0135cfe9139b58a3.jpg' },
-      { title: 'Nhạc Tết UIA', artist: 'uia', url: '/music/hc/uia11.mp3', image:'https://i.pinimg.com/736x/86/ad/71/86ad71972727406f53af21e1ebb1059b.jpg' },
-      { title: 'Hachimi Hachimi Mambo', artist: '? ', url: '/music/hc/hcm.mp3', image:'https://i.pinimg.com/736x/f7/d1/bc/f7d1bca344f470d047113ba69c14bb4b.jpg' },
-      { title: 'Hachimiii', artist: '?', url: '/music/hc/Hachimiiiiiiiiiiiiiiiiiiiiiii.mp3', image:'/images/1.png' },
-      { title: 'UIA Birthday', artist: 'uia', url: '/music/hc/bd.mp3', image:'/images/download.jpg' },
-      { title: 'UIA Birthday 2', artist: 'uia', url: '/music/hc/bd2.mp3', image:'https://i.pinimg.com/736x/64/a7/8c/64a78c2fb6ddfcf6bba29bea11293562.jpg' },
-      { title: 'Oppa UIA', artist: 'uia', url: '/music/hc/o.mp3', image:'https://i.pinimg.com/736x/5b/5e/18/5b5e180fe7c16bc25f7aee569d830c77.jpg' },
-      
-    ],
-    image: `/images/6.png`
-  },
+   
   
 
 ];

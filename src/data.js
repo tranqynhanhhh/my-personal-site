@@ -1,9 +1,193 @@
 export const featuredPost = {
-  id: 'tu-do-dang-so',
-  title: 'Sự tự do đáng sợ khi bạn thậm chí còn không biết mình đang làm gì với cuộc đời mình.',
+  id: '18-thang4',
+  title: 'Nếu bạn cần một lý do để biến mất khỏi thế giới. (If you need a reason to disappear from the world.)',
+  excerpt: '',
+  content: `
+Hãy tưởng tượng về một cuộc đời thế này: Bạn tự nhốt mình trong một căn phòng nhỏ cho đến cuối đời để chiêm niệm về Chúa. Bạn không bao giờ được phép rời đi, không được thấy ánh nắng mặt trời, mọi nhu cầu vệ sinh gói gọn trong một chiếc xô, nhưng bù lại, bạn được phép nuôi một con mèo — con vật duy nhất được chấp nhận.
+Nghe có vẻ kỳ quặc, thậm chí là cực hình. Theo quy chiếu của thời đại ngày nay, việc một người chỉ nằm lì trong nhà, không giao tiếp, không lao động sẽ bị coi là kẻ thất bại bên lề xã hội. Thế nhưng ở châu Âu thế kỷ 13, nhiều phụ nữ đã khao khát lựa chọn cuộc sống ẩn dật đó. Họ chấp nhận một nghi lễ tuyên bố mình "đã chết" với thế gian để được sống một cuộc đời hoàn toàn khác.
+<figure>
+ <img src="https://substackcdn.com/image/fetch/$s_!tN0M!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb19fda4d-a51b-4a86-8b5c-9307fb78e724_1280x720.heic" alt="Ảnh minh họa" style="width:100%; border-radius:12px; margin:1rem 0;" />
+<figcaption style="text-align:center; font-style:italic; margin-top:0.5rem;">
+   Anchoress (1993).
+  </figcaption>
+
+
+<b> 1.	Nữ ẩn sĩ là gì? </b> 
+Ở thời Trung Cổ, phụ nữ gần như chỉ có hai lựa chọn cho cuộc sống của mình: lấy chồng hoặc vào tu viện. Lấy chồng đồng nghĩa với việc phải mang thai liên tục, phụ thuộc kinh tế hoàn toàn vào chồng, và tỷ lệ tử vong khi sinh nở rất cao. Ngược lại, nếu trở thành một nữ ẩn sĩ, bà có người tài trợ, có người hầu hạ, không một ai có quyền kiểm soát bà ngoài giám mục của nhà thờ. Bà được đọc sách, được viết lách, được ngồi thẩn thơ suy nghĩ cả ngày, và chỉ tiếp những ai cần thiết. Nếu đem hai thứ này so sánh với nhau, việc trở thành nữ ẩn sĩ gần như là sự tự do tối thượng. 
+Một nữ ẩn sĩ được xem như vị thánh sống. Vua chúa, quý tộc, thậm chí cả Giáo hòag đều tìm đến bà để xin lời khuyên. Bà có tiếng nói – điều mà phụ nữ thời đó gần như không thể. Khá hay ho rằng khi bà càng tách biệt khỏi thế gian, tầm ảnh hưởng của bà lại càng sâu rộng.
+Khi một người phụ nữ quyết định trở thành một nữ ẩn sĩ, bà cần đảm bảo hai điều: sự chấp thuận của giám mục địa phương; và một nguồn tài trợ đủ sống suốt đời từ một mạnh thường quân – người sẽ lo chi phí sinh hoạt cho bà cho đến lúc chết. Các nhà tài trợ có thể là giới quý tộc, giáo xứ, tu viện, thậm chí là Hoàng gia. Người dân thường khá hoan hỉ khi đón nhận một nữ ẩn sĩ mới, vì bà sẽ thu hút khách hành hương phương xa, nhờ đó thúc đẩy kinh tế và du lịch địa phương. 
+
+<figure>
+ <img src="https://substackcdn.com/image/fetch/$s_!-LCs!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F65dc32fb-e159-4524-a463-2045bc824dd2_600x588.heic" alt="Ảnh minh họa" style="width:100%; border-radius:12px; margin:1rem 0;" />
+<figcaption style="text-align:center; font-style:italic; margin-top:0.5rem;">
+   Giám mục ban phước cho một nữ ẩn sĩ.
+  </figcaption> 
+
+<b> 2.	Quy tắc để trở thành một nữ ẩn sĩ </b>
+•	Về nhân thân: Trở thành một nữ ẩn sĩ cũng có rất nhiều quy tắc nghiêm ngặt như khi phỏng vấn xin việc. Trước hết, ứng viên phải là một phụ nữ đã trưởng thành. Không ai nhận một cô gái còn quá trẻ, vì giám mục sẽ nghĩ rằng cô bé ấy chưa thể đưa ra được quyết định chín chắn. Ứng viên lý tưởng nhất là một người đã có kinh nghiệm sống trong môi trường tôn giáo: từng là nữ tu, hoặc đã sống như một con chiên nghiêm túc trong nhiều năm. Góa phụ cũng là ứng viên phổ biến, vì họ được coi như đã “hoàn thành nghĩa vụ” với thế gian.
+
+•	Về sức khỏe tâm thần và động cơ: Giám mục sẽ phỏng vấn trực tiếp để đánh giá xem người phụ nữ này có thực sự hiểu mình đang làm gì không. Ông cần một người làm việc này vì đức tin, vì Chúa, chứ không phải vì bỏ chạy khỏi một cuộc hôn nhân tồi tệ hay đi trốn nợ. Sự ổn định về mặt tâm lý cũng là yếu tố then chốt, bởi một người dễ hoảng loạn sẽ không thể trụ vững trong không gian chật hẹp xuốt hàng chục năm. Giám mục cũng sẽ kiểm tra thần học cơ bản, vì một nữ ẩn sĩ sẽ cần phải có kiến thức để tư vấn tâm linh cho người khác.
+
+•	Về tài chính: Không có tiền tài trợ thì không có gì cả. Giám mục cần đảm bảo có người cam kết chu cấp cho bà đến cuối đời thì mới quyết định ký duyệt. Trong nhiều trường hợp, đây dường như lại là rào cản lớn nhất, khiến giám mục đành phải bỏ lỡ rất nhiều ứng viên chân thành nhưng lại không có quan hệ xã hội.
+
+•	Trên thực tế, một số giám mục còn yêu cầu ứng viên thử sống trong điều kiện gần giống như một nữ ẩn sĩ trong một thời gian trước khi chính thức phê duyệt. Dù điều này không phổ biến, nhưng họ cũng muốn xem sức chịu đựng của những người phụ nữ này có được như cách họ trả lời về mong nguyện của mình không.
+
+<b> 3.	Nếu thành công: </b>
+Một nghi lễ được gọi là The Enclosure (Đóng Cửa) sẽ chính thức tuyên bố với thiên hạ rằng nữ ẩn sĩ mới đã chết. Sau đó bà bị khóa lại trong phòng. Một số căn phòng thậm chí đã có sẵn một ngôi mộ được đào ngay giữa nền nhà. Còn nếu chưa có, giám mục sẽ chỉ thị các nữ ẩn sĩ phải tự dùng tay cào đất hằng ngày, cho đến khi đào được một cái hố sẽ vừa vặn với thi thể của họ vào một ngày nào đó. 
+
+Giờ thì nữ ẩn sĩ đã được an trú trong phòng. Rồi sao? Bà sẽ dành những ngày tháng còn lại để cầu nguyện và chiêm niệm. Thực ra, những căn phòng nhỏ mà bà được ở cũng không hẳn là biệt lập so với thế giới bên ngoài. Căn phòng sẽ có ba cửa sổ: một cửa sổ nhỏ cho phép bà nhìn vào điện thờ; cửa sổ thứ hai đủ rộng để chuyển cái xô vệ sinh, cho phép bà giao tiếp với những người hầu. Mỗi nữ ẩn sĩ sẽ có hai người hầu gái: một người trẻ hơn để chăm sóc các nhu cầu thể chất, và một người lớn tuổi hơn để cùng cầu nguyện và canh chừng những vị khách không mời. Cuối cùng, còn có một ô cửa để nhìn ra bên ngoài – nhưng luôn được che bởi một tấm rèm tối màu (hầu hết là màu đen, rất dày) để che khuất khuôn mặt bà và những người bên ngoài.
+
+Bà không còn thuộc về thế gian, sự tồn tại của bà đóng vai trò trung gian giữa người thường và Chúa. Bà sẽ cho lời khuyên cả về tôn giáo lẫn thế tục. Dù tách biệt khỏi thế giới bên ngoài, thiên hạ vẫn không thể không tìm đến bà. Đây là một nghịch lý kỳ lạ, khi nữ ẩn sĩ tồn tại hoàn toàn cô đơn, nhưng thực chất lại gắn bó sâu sắc với cộng đồng xung quanh. 
+
+Một tác phẩm mang tên Ancrene Wisse (Hướng Dẫn Cho Nữ Ẩn Sĩ) được viết vào đầu thế kỷ 13 đã ghi chép lại một số quy tắc buộc các nữ ẩn sĩ phải tuân theo:
+•	Không ăn thịt và mỡ.
+•	Không nhịn ăn nếu chưa được giám mục cho phép.
+•	Không nói chuy ện vào các ngày thứ Sáu.
+•	Không nên quá yêu quý cái cửa sổ của mình (ý là đừng tán gẫu quá nhiều với những người tới xin lời khuyên).
+
+Và một số điều nên làm:
+•	Cạo đầu hoặc cắt tóc thật ngắn.
+•	Đi giày to, ấm vào mùa đông (nhưng không được đi khi đi ngủ).
+•	Lấy máu bốn lần một năm.
+•	Tắm rửa tùy thích.
+•	Chỉ được nuôi một con mèo – và không con vật nào khác. (“My dear sisters, unless need drives you and yours director advises it, you must not have any animal except a cat”).
+
+<b> 4.	Nhưng nếu một nữ ẩn sĩ suy nghĩ lại? </b>
+
+Không có gì ngạc nhiên nếu có nữ ẩn sĩ dần chán ghét cuộc sống ngột ngạt và tù túng này. Trong lịch sử cũng đã ghi lại nhiều trường hợp các nữ ẩn sĩ đã bỏ trốn khỏi phòng của mình. Năm 1329, Giám mục Winchester cho phép Christine Carpenter được trở thành một nữ ẩn sĩ tại nhà thờ St James của Shere. Đến năm 1331, tức là chỉ 2 năm sau, Christine đã bỏ trốn và cố gắng tái hòa nhập cộng đồng. Tin tức loan ra nhanh chóng, và đứng trước nguy cơ bị vạ tuyệt thông, Christine thỉnh cầu Giáo hoàng tha thứ. Bà được phép vào phòng lần nữa. Nhưng lần này, thay vì 3 cánh cửa sổ, người ta xây gạch bịt kín căn phòng lại. Sau này, không ai rõ bà qua đời lúc nào.
+
+<figure>
+ <img src="https://substackcdn.com/image/fetch/$s_!Vm58!,w_720,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9723f220-3c96-47df-9408-83c3165a2cbb_1420x1050.png" alt="Ảnh minh họa" style="width:100%; border-radius:12px; margin:1rem 0;" />
+ <img src="https://substackcdn.com/image/fetch/$s_!iiOh!,w_720,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5798e6a2-2f63-45a8-9e97-0a5b31e2a17d_1418x1046.png" alt="Ảnh minh họa" style="width:100%; border-radius:12px; margin:1rem 0;" />
+<figcaption style="text-align:center; font-style:italic; margin-top:0.5rem;">
+    Nhà thờ St.James ở Shere, Anh. Địa điểm phòng riêng của Christine Carpenter.
+  </figcaption>
+
+
+<b>  5.	Tại sao lại là nữ ẩn sĩ? </b>
+Đương nhiên là có nam ẩn sĩ, thậm chí nam ẩn sĩ còn xuất hiện từ trước đó rất lâu.
+
+Các nam ẩn sĩ đầu tiên không phải ở châu Âu mà ở sa mạc Ai Cập và Syria từ những thế kỳ thứ 3-4. Họ được gọi là các Giáo phụ Sa mạc(Desert Fathers). Nổi tiếng nhất trong số này là Thánh Anthony Đại đế, người đã bỏ đi đến sa mạc sống một mình từ năm 20 tuổi, và sống ở đó trong vòng 80 năm, ông cũng được xem như cha đẻ của phong trào ẩn tu của Kitô giáo. Một trường hợp cực đoan đáng kinh ngạc khác là Simeon Stylites — ông này không chui vào phòng mà leo lên đỉnh một cái cột cao khoảng 18 mét và sống ở đó 37 năm. Người bên dưới hằng ngày phải chuyển thức ăn lên cho ông bằng dây thừng, còn Simeon Stylites vẫn giảng đạo và tư vấn từ trên cao. 
+
+Quay lại với thời Trung Cổ ở châu Âu, vào thế kỷ 13, số lượng nữ ẩn sĩ đông hơn nam gấp 4 lần. Lý do chủ yếu là vì đàn ông thời đó có nhiều lựa chọn tôn giáo hơn — họ có thể trở thành tu sĩ Dòng Biển Đức, Dòng Phanxicô, Dòng Đa Minh, linh mục... Trong khi đó phụ nữ bị giới hạn hơn nhiều, nên ẩn mình tu tập trong một căn phòng tối trở thành một trong số ít con đường tâm linh "cao cấp" mà họ có thể tiếp cận. Nói cách khác, nam giới có nhiều "cửa ra" hơn, nên ít người chọn con đường cực đoan nhất.
+
+<figure>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Saint_Anthony_%28Damaskinos%29.png/250px-Saint_Anthony_%28Damaskinos%29.png" alt="Ảnh minh họa" style="width:100%; border-radius:12px; margin:1rem 0;" />
+<figcaption style="text-align:center; font-style:italic; margin-top:0.5rem;">
+    Thánh Anthony Đại đế(Anthony the Great)(251 - 356). Tranh của Michael Damaskinos vào thế kỷ 16.
+  </figcaption>
+
+
+
+
+
+    <b> Aelin. </b> 
+
+
+
+
+
+
+
+
+
+  `,
+  image: 'https://i.pinimg.com/736x/e3/f2/8e/e3f28e935ac59cede644ead3bdb3390c.jpg',
+  date: '18 Tháng Tư 2026',
+};
+
+export const sidebarPosts = [
+  {id: 'nguoi-dep-la-quai-vat',
+  title: 'Người Đẹp là Quái Vật.',
+  excerpt: '',
+  content: `
+  Vào thế kỉ XVI – XVII, giới thượng lưu châu Âu tin rằng, dáng vẻ bên ngoài chính là lời nói thay cho tất cả. Trang phục nói lên địa vị, màu sắc làn da thể hiện đức hạnh và sự cao quý, và việc sẵn lòng chịu đựng mọi nguy hiểm chỉ để đổi lại sắc đẹp sẽ chứng tỏ được lòng tận tụy đối với trật tự xã hội. Nhưng rồi họ đã biết, các hóa chất và nguyên vật liệu cần thiết để đạt được những lớp màng bọc rực rỡ đó lại chính là những chất được các bác sĩ dùng để chế thuốc diệt chuột và điều trị bệnh giang mai. Màu son đỏ tuyệt đẹp lại chứa sulfua thủy ngân; sắc trắng ngà Venetian - được sử dụng làm phấn nền, khiến các quý cô điên cuồng săn lùng, bởi nó làm cho làn da có màu trắng bệch như xác chết – lại là chì trắng nguyên chất trộn với giấm. Màu xanh lá rực rỡ và các sắc đỏ thẫm thống trị thời gian thượng lưu lại đến từ các hợp chất asen và chì. Ai cũng đều biết những chất này nguy hiểm, cực kỳ nguy hiểm. Không ít bác sĩ thời kỳ đó đã cảnh báo về chúng. Tuy nhiên, thời trang luôn đòi hỏi sự hy sinh, và giới quý tộc châu Âu đã phải trả giá bằng những tổn thương về mặt thần kinh, suy tạng, và những cái chết đầy đau đớn – mà thời đó, người ta chỉ đơn giản cho rằng nó là do ốm, sốt.
+
+  Bi kịch nằm ở chỗ, địa vị xã hội lại chính là một cái bẫy buộc họ phải bước vào. Một khi những thứ kì quặc đến rúng mình này trở thành tiêu chuẩn cộng đồng, thì việc rũ bỏ chúng đồng nghĩa với một bản án tự sát về mặt xã hội. Một quý bà từ chối trang điểm bằng lớp chì và sulfua sẽ bị chế giễu là tầm thường và quê mùa. Một quý ông tránh sử dụng keo vuốt tóc chứa nhiều hoạt chất bay hơi sẽ bị coi là luộm thuộm và hạ đẳng. Các triều đình thời kỳ Phục Hưng đã tạo ra một hệ thống mà việc tham gia vào đó cũng đồng nghĩa với việc tự tử từ từ, nhưng nếu từ chối cũng có nghĩa là sẽ mất đi tất cả những gì rực rỡ nhất mà họ đang có. Tất nhiên, một số người vẫn hiểu điều gì đang xảy ra với họ. Họ tận mắt chứng kiến cơ thể mình héo mòn đi từng ngày. Họ thấy răng mình rụng, thấy tay chân run rẩy, họ cảm nhận được những cơn đau đầu dữ dội như búa giáng, và cả tính cách cũng trở nên cọc cằn nóng nảy. Nhưng tuy vậy, vào mỗi sáng, họ vẫn ngồi trước bàn trang điểm. 
+
+  Trong một xã hội mà vẻ bề ngoài cũng được xem là một loại quyền lực, thì một vẻ đẹp độc hại đầy hóa chất cũng vẫn còn tốt hơn sự xấu xí an toàn.
+  <div style="text-align:center; font-size:1.2rem; margin:0.5rem 0; font-style:italic;"> 𐙚 </div>
+  Màu sắc thời thượng nhất thời kỳ Phục Hưng có lẽ là Scheele’s Green – một sắc xanh ngọc lục bảo hơi ngả vàng, lấp lánh rực rỡ, từng thống trị các phòng khiêu vũ xa hoa nhất châu Âu. Nhưng chúng có được độ sáng chói đó nhờ vào đồng arsenic. Những quý bà, quý cô mặc lên mình những chiếc váy chứa hàng cân vải tẩm thạch tín, cọ xát vào làn da và thẩm thấu qua lỗ chân lông họ đến hàng giờ liền mỗi ngày. Một loại sắc vàng vương giả nhất thời bấy giờ – Orpiment – thực chất là arsenic sulfide nguyên chất. Để có được những thước lụa lấp lánh tựa vàng ròng, những người thợ nhuộm phải xử lý và nhào trộn chúng bằng đôi tay trần. Giới thượng lưu tranh nhau đua đòi để có được những bộ trang phục có màu sắc rực rỡ nhất, mà không hề nhận ra – hoặc có nhưng bỏ qua – rằng cường độ đậm của màu sắc trên vải tỷ lệ thuận với nồng độ chất độc trong đó. Rất nhiều người thợ nhuộm và thợ dệt đã ra đi khi tuổi đời còn rất trẻ, với xác chết đầy thạch tín, nhưng các khách hàng giàu có của họ chỉ đơn giản là ca ngợi sự rực rỡ hoàng kim đó trong từng tấc vải, từng lớp ren, và tiếp tục truyền tai nhau.
+
+  Ngành công nghiệp mỹ phẩm thời Phục Hưng hoạt động dựa trên một nguyên tắc: cái đẹp đi liền với sự đau đớn. Phấn chì Venice (có tài liệu gọi là bột chì) – nền tảng đầu tiên làm quy chuẩn cho vẻ đẹp quý tộc – lại được kết hợp từ chì trắng trộn với giấm. Sự pha trộn này tạo ra một loại bột nhão mà các quý bà, quý cô dùng để thoa lên da và coi nó như một lớp kem nền hoàn hảo, chỉ để có được một tông da trắng bệch như người chết nhưng lại phù hợp theo tiêu chuẩn cái đẹp. Chì sẽ phá hủy mô dưới da, buộc họ phải thoa nhiều, nhiều hơn nữa, để che đi những vết sẹo và sự tàn phá kinh hoàng, tạo ra một vòng lặp luẩn quẩn và phụ thuộc. 
+
+  Thủy ngân cũng vậy. Nó được dùng trong phấn má hồng, son môi, thậm chí trong chu trình điều trị mụn. Nhưng rồi, nó khiến những con người rực rỡ nhất lại dần ra đi với dáng vẻ ghê sợ nhất. Nó khiến họ luôn run rẩy tay chân như người hạ đường huyết, rồi răng họ rụng, suy thận, suy nội tạng. 
+
+  Một nhân vật cụ thể cho những phương pháp làm đẹp kinh hoàng này là Nữ hoàng Elizabeth I. Bà được cho là đã trang điểm bằng chì, với những lớp phấn dày cộm, và bà để chúng như vậy trong nhiều ngày. Ban đầu, bà chỉ trang điểm để che đi những vết sẹo do căn bệnh đậu mùa. Mặt bà đắp chì, đôi môi thì sử dụng son làm từ cinnabar (còn được gọi là chu sa). Và đến cuối đời, cả cơ thể bà mang những tổn thương nghiêm trọng do nhiều thập kỷ bị nhiễm độc.  
+<figure>
+ <img src="https://substackcdn.com/image/fetch/$s_!6OLE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ad4be4c-64bb-49e6-91ae-1950018b359b_1200x690.webp" alt="Nữ hoàng Elizabeth I." style="width:100%; border-radius:12px; margin:1rem 0;" />
+<figcaption style="text-align:center; font-style:italic; margin-top:0.5rem;">
+    Nữ hoàng Elizabeth I.
+  </figcaption>
+</figure>
+  Tỷ lệ cơ thể lý tưởng thời kỳ này đòi hỏi con người phải biến chính mình thành thứ vô thực nhất. Áo corset – được làm từ xương cá voi, gỗ và sắt – chúng siết chặt vòng eo của phụ nữ cho đến khi có chỉ còn khoảng một gang tay rưỡi, thậm chí to bằng chiều ngang một quả cam cho những phụ nữ muốn thử sức với bộ môn hóp bụng. Chu vi đó thậm chí không đủ chỗ để cho các cơ quan nội tạng hoạt động bình thường, áp lực bị đẩy lên gan, chèn ép dạ dày, khiến việc ăn uống cũng trở thành vấn đề. Xương sườn bị biến dạng sau nhiều năm sử dụng, thậm chí bị nứt nếu corset bị siết quá chặt. Những phụ nữ có chiếc corset được siết chặt nhất đương nhiên là những người đẹp nhất, được coi là nữ tính nhất – nhưng họ không thể hít thở sâu, và rồi họ bị thiếu oxi mãn tính. Các bác sĩ thời ký đó đã ghi nhận nhiều trường hợp phụ nữ bị lệch các cơ quan nội tạng, và chúng không bao giờ có thể hồi phục lại được nữa ngay cả sau khi họ ngừng sử dụng corset.
+  <figure>
+ <img src="https://substackcdn.com/image/fetch/$s_!fySD!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F206275c3-c064-4570-ad1a-0924a4d052f0_640x1283.webp" alt="ảnh minh họa" style="width:100%; border-radius:12px; margin:1rem 0;" />
+<figcaption style="text-align:center; font-style:italic; margin-top:0.5rem;">
+    Ảnh minh họa một phụ nữ mặc corset.
+  </figcaption>
+</figure> 
+  Những chiếc cổ áo tròn, to, bằng vải lanh cứng cáp cực kỳ phổ biến tròng các triều đình thời Elizabeth. Chúng thường được quàng ngay cổ, độ rộng và độ cứng khiến các quý tộc chẳng thể quay nổi đầu hay nhìn xuống dưới. Chúng chèn ép động mạch cảnh và tĩnh mạch cảnh, hạn chế lưu thông máu lên não. Và vì thế, việc những người hầu túc trực ngay sát cạnh để đỡ một quý tộc đột nhiên ngất xỉu trở thành câu chuyện bình thường nhất trong các bữa tiệc của giới thượng lưu. Rồi cũng có một số người đeo cổ áo quá chặt, đến nỗi nghẹn thức ăn. Nhưng xung quanh không ai quan tâm, vì những người trên bàn cũng đều gặp phải vấn đề tương tự. 
+<figcaption style="text-align:center; font-style:italic; margin-top:0.5rem;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/The_Regentesses_of_the_St._Elisabeth%27s_Hospital_in_Haarlem_by_Johannes_Cornelisz_Verspronck.jpg/1280px-The_Regentesses_of_the_St._Elisabeth%27s_Hospital_in_Haarlem_by_Johannes_Cornelisz_Verspronck.jpg?20111211123528" alt="ảnh minh họa" style="width:100%; border-radius:12px; margin:1rem 0;" />
+    The Regentesses of the St. Elisabeth's Hospital in Haarlem (tranh của Johannes Cornelisz Verspronck).
+  </figcaption>
+</figure> 
+  
+<div style="text-align:center; font-size:1.2rem; margin:0.5rem 0; font-style:italic;"> 𐙚 </div>
+
+Các bác sĩ thời kỳ Phục Hưng chuyên điều trị cho giới thượng lưu đều hiểu đại đa số những biến chứng cơ thể của họ là do thời trang gây ra. Nhưng trớ trêu rằng ngay khi khỏi bệnh, các bệnh nhân giàu có này lại tiếp tục mặc những trang phục đó. Họ sẵn sàng chịu đựng những đau đớn thể chất ấy, cũng chứng tỏ rằng họ có đủ khả năng duy trì địa vị của mình. Một phụ nữ thắt corset chặt đến mức không thể thở nổi – chứng tỏ cô ấy có người hầu làm việc chân tay cho mình. Một người đàn ông không thể quay đầu bởi cổ áo to bản – cho thấy anh ta không bao giờ phải nhìn lại phía sau. Nếu như vậy, đối với những quý tộc này, thời trang không hề gây hại cho sức khỏe của họ, mà theo một cách nào đó, nó lại chính là mục đích mà họ nhắm tới.  
+
+
+
+    <b> Aelin. </b> 
+
+
+
+
+
+
+
+
+
+  `,
+  image: 'https://i.pinimg.com/736x/e3/f2/8e/e3f28e935ac59cede644ead3bdb3390c.jpg',
+  date: '11 Tháng Hai 2026',},
+
+  {
+  id: 'fomo',
+  title: 'Tôi cho phép mình FOMO.',
+  excerpt: 'HÃY FOMO ĐIIII',
+  content: `
+      Dạo này mọi người quanh tôi đang đổ xô đi trải nghiệm The Matcha Tokyo. Lướt một vòng Threads, tôi đọc được không ít bài đăng, nhìn được không ít những tấm ảnh chụp của những cá nhân đã đứng chờ cả tiếng đồng hồ chỉ để mua bằng được hai cốc nước và tặng kèm một cái croissant. Bản thân tôi cũng vô cùng thích matcha latte, và tôi uống chúng nhiều tới mức tôi nhận ra matcha latte của The Coffe House ngon hơn của Là Trà, thậm chí ngon hơn cả của Starbucks nếu như hôm đó tôi chọn matcha Kyoto. 
+
+    Quay trở lại với FOMO, việc lo lắng khi trông thấy thành tựu của người khác là chuyện bình thường. Tôi nghĩ rằng nỗi lo này nên được bình thường hóa, thay vì việc nhiều người nổi tiếng trên mạng cứ xuất bản những podcast self-help rao giảng về việc không nên ganh tị với người khác. Bởi thật ra khá ít người ganh tị với những tấm ảnh rực rỡ đó, và hầu hết là họ ngưỡng mộ. Họ thấy bất cứ ai trên mạng cũng đều sống tốt hơn mình, thành công hơn mình, và rồi nghĩ rằng cuộc sống này của mình chưa đủ để spam 50 cái stories trên Instagram. Nhưng thực ra, nếu bạn không phải người nổi tiếng, việc bạn đăng gì lên mạng cũng chẳng có quá nổi 10 người quan tâm đâu. Không phải ai cũng rảnh rỗi chụp màn hình lại cuộc sống của bạn để đem đi chỗ khác. 
+<img src="https://i.pinimg.com/736x/6a/37/5c/6a375ce84491cde5d78a016c6ec01b3a.jpg" alt="ảnh minh họa" style="width:100%; border-radius:12px; margin:1rem 0;" />
+
+    Bạn cứ thử nhẩm tính. Một tài khoản mạng xã hội, bạn thân với bao nhiêu người, và có bao nhiêu người bạn cảm giác rằng họ sẽ ganh tị với mình? Con số có thể không rõ ràng, nhưng chắc chắn không nhiều. Và tôi khẳng định rằng, người ta sẽ ấn tượng hơn với một bức ảnh ăn chơi phung phí sau một thời gian dài bạn không cập nhật cuộc sống lên mạng, thay vì một bức khác có cùng nội dung như thế, nhưng được đăng lên mỗi ngày. Con người thường bị ấn tượng bởi những khoảnh khắc nổi trội ngắn hạn, hơn là một ánh sáng chói lòa đã được duy trì quá lâu. 
+
+    Tôi vẫn sẽ đi uống thử The Matcha Tokyo. Không phải để khoe khoang với ai, cũng không phải vì sợ mình sẽ lạc hậu (chẳng ai lạc hậu vì không uống một cốc cà phê cả). Tôi đi vì tôi yêu matcha latte, tôi vẫn luôn mong rằng mình sẽ tìm được một thương hiệu có matcha latte ngon. 
+
+    <b> Aelin. </b> 
+
+
+
+
+
+
+
+
+
+  `,
+  image: 'https://i.pinimg.com/736x/bb/21/3d/bb213d404a25208f38af0f859b451f47.jpg',
+  date: '09 Tháng Hai 2026',
+}, 
+  {
+  id: 'tan-van-1',
+  title: 'Khi bạn thậm chí còn không biết mình đang làm gì với cuộc đời mình.',
   excerpt: 'Vài câu chữ ngày cuối năm.',
   content: `
-    Khi người ta nói về việc “tìm hướng đi cho cuộc đời”, họ làm như thể đó chỉ như đang tìm kiếm một món đồ bị mất: chỉ cần lục lại trí nhớ, tìm đủ các ngăn kéo, các ngóc ngách, thì sớm muộn gì bạn cũng lôi nó ra được. Nhưng sự thật thì tôi tìm mãi không thấy cái áo sweater đỏ đó, hay cái cáp sạc màu trắng type C mà tôi vừa mới tháo ra tuần trước để thay bằng một cái cáp sạc màu đỏ có độ dài nhỉnh hơn. 
+     Khi người ta nói về việc “tìm hướng đi cho cuộc đời”, họ làm như thể đó chỉ như đang tìm kiếm một món đồ bị mất: chỉ cần lục lại trí nhớ, tìm đủ các ngăn kéo, các ngóc ngách, thì sớm muộn gì bạn cũng lôi nó ra được. Nhưng sự thật thì tôi tìm mãi không thấy cái áo sweater đỏ đó, hay cái cáp sạc màu trắng type C mà tôi vừa mới tháo ra tuần trước để thay bằng một cái cáp sạc màu đỏ có độ dài nhỉnh hơn. 
 
     Khi tìm mãi không thấy chúng, tôi bắt đầu nghi ngờ rằng, có phải ngay từ đầu, cái sweater đỏ hay cái cáp sạc trắng của tôi đã chẳng hề tồn tại? Hoặc giả như nó có thật đi nữa, thì hẳn là ai đó đã đưa chúng cho một “tôi” của ngày xưa – phiên bản cũ kĩ mà tôi hiện tại cũng chưa chắc đã muốn nhìn lại. “Tôi” ngày xưa chắc là cần đến chúng hơn, có lẽ thế.
 
@@ -26,7 +210,6 @@ Tôi cũng nhận ra rằng, mọi sự lệch hướng sẽ trở nên bớt đ
 
 
 
-
     <b> Aelin. </b> 
 
 
@@ -38,11 +221,9 @@ Tôi cũng nhận ra rằng, mọi sự lệch hướng sẽ trở nên bớt đ
 
 
   `,
-  image: '/images/7.jpg',
-  date: '09 Tháng Hai 2026',
-};
-
-export const sidebarPosts = [
+  image: 'https://i.pinimg.com/736x/ff/7d/b7/ff7db7c7eb92b0fe293ec226bf8e2d0c.jpg',
+  date: '07 Tháng Hai 2026',
+},
   {
     id: 'cu-de-ho-nghi-sai-ve-ban',
   title: 'Cứ để họ nghĩ sai về bạn.',
@@ -127,44 +308,6 @@ Bởi thế, bạn chẳng cần phải gầy. Nhưng đương nhiên không th�
   `,
   image: 'https://i.pinimg.com/736x/3d/75/51/3d75512adb670ff596c3a3c5d5bc0101.jpg',
   date: '17 Tháng Mười Một 2025',
-  },
-  {
-    id: 'mua-thu-ha-noi',
-  title: 'Mình thấy thu Hà Nội chưa trọn vẹn.',
-  excerpt: 'Một expression mới cho mùa thu.',
-  content: `
-    Ở Hà Nội, mùa thu dường như là mùa được mong chờ nhất năm. Không khí dễ chịu, những cái nắng cũng trở nên dịu dàng hơn, lòng người cũng nhẹ nhàng đi. Người Hà Nội lúc này không còn nóng nảy vội vã tìm một bóng râm như mùa hè, cũng chưa đến kiểu tâm trạng trầm lặng u ám co ro như mùa đông. Tất cả đều ở mức bình bình, vừa đủ. Bạn đã có thể mặc áo dài tay, nhưng bên dưới vẫn thoải mái bận chân váy ngắn hay quần short. Mọi thứ vào mùa thu đều trở nên dễ thở hơn, và bởi vậy người ta yêu mùa thu. 
-Khác với cái nắng cháy da cháy thịt của trời hè, biến Hà Nội thành cái nồi hấp bánh bao; khác với cái rét co ro run rẩy đến mức răng va lập cập vào nhau, đi xe máy mà không đeo găng tay thì vừa cóng vừa rát vì nứt nẻ, như thể trong không khí có sẵn những lưỡi dao lam. Thành thử ra, mùa thu là mùa dịu dàng duy nhất. Đó là mùa mà mọi người sẵn sàng chạy xe thong dong lượn khắp phố xá, ngồi những chiếc ghế được kê ở phía ngoài mấy quán cà phê mà không lo ngại về việc quá nóng hoặc quá lạnh. Họ gọi bạc sỉu, với mua ít cốm từ những người bán cốm rong, chỉ nhiêu đó đủ khiến họ thong dong cả nửa ngày trời.
-Người Hà Nội thật lòng yêu mùa thu. Nhưng ngày nay khi nói về nó, họ gần như chỉ nói được những điều lặp đi lặp lại. Quanh quẩn trên mạng xã hội hay những nền tảng văn hóa đại chúng, ta bắt gặp những cụm từ như “cốm”, “trà đá Nhà Thờ”, “ngồi cà phê”, “đường Phan Đình Phùng”,... Nó không sai, nhưng nó hời hợt. Hời hợt thì tức là nhạt, là vô vị. Muốn có cái gì sâu sắc hơn, họ phải viện dẫn đến thơ và nhạc của những người đã sống trong mùa thu Hà Nội từ thế kỷ trước.
-
-<em>“Rặng liễu đìu hiu đứng chịu rang
-Tóc buồn buông xuống lệ ngàn hàng
-Đây mùa thu tới – mùa thu tới
-Với áo mơ phai dệt lá vàng.”</em>
-Xuân Diệu
-
-Hoặc, mùa thu có nhạc của Trịnh Công Sơn:
-
-<em>“Hà Nội mùa thu, cây cơm nguội vàng
-Cây bàng lá đỏ, nằm kề bên nhau
-Phố xưa nhà cổ, mái ngói thẫm nâu
-Hà Nội mùa thu, mùa thu Hà Nội...”</em>
-                                              
-Mùa thu trong mắt những thế hệ tiền nhân có vẻ buồn, yêu đương thì thơ mộng, có phần s súa, ấy là tông màu chính trong gần một thế kỷ qua. So với họ, mùa thu của chúng ta ngày nay chẳng có không khí gì đặc biệt. Nó không thê lương như mùa thu của Xuân Diệu, không cổ điển như mùa thu của Văn Cao, không lãng mạn như mùa thu của Đoàn Chuẩn. Mùa thu của người Hà Nội ngày nay nhạt nhẽo và hời hợt như một bát cơm nguội. Chúng ta không có một nhà thơ, một nhà văn, một nhạc sĩ đương đại nào đủ sức cổ động tinh thần của thời đại vào một hai dòng thơ hay câu hát như các bậc tiền nhân đã làm. Hoặc vấn đề ngược lại: các nghệ sĩ đã sẵn sàng, nhưng cái đời sống tinh thần nói chung nhạt nhẽo quá, những cái chúng ta nghĩ chúng ta làm hằng ngày thì nó tầm thường quá, chẳng có gì đáng để cô đọng cả. Nếu những thế hệ sau lật lại những áng văn thơ, họ sẽ thấy một đương đại khuyết trống và vô cảm, chỉ vì chúng ta là một thế hệ không có mùa thu của riêng mình.
-
-
-    <b> Aelin. </b> 
-    
-
-
-
-
-
-
-
-  `,
-  image: 'https://i.pinimg.com/736x/75/e4/bc/75e4bc58bc04ed1d0bbe609e2268babe.jpg',
-  date: '15 Tháng Mười Một 2025',
   },
   {
     id: 'cold-elegance',
@@ -261,84 +404,8 @@ Mùa thu trong mắt những thế hệ tiền nhân có vẻ buồn, yêu đư�
     image: 'https://i.pinimg.com/736x/51/fc/7d/51fc7d17cca36162f2df548f077aa113.jpg',
     date: '01 Tháng Mười Một 2025',
   },
-  {
-    id: 'dostoevsky-14',
-    title: "Mình nhận ra điều gì từ 4.5 năm đại học?",
-    excerpt: 'Vài lời sau khi ra trường.',
-    content: `
-      Sau học kì 1 của năm thứ nhất, lớp mình đã có 3 người nghỉ học.
-      Họ nghỉ theo nhiều cách khác nhau: bảo lưu, bỏ học luôn(rút hồ sơ), hoặc chán quá nên nghỉ, đợi khi nào nhà trường buộc thôi học thì đến lấy giấy tờ. 
-      Những lý do được đưa ra hầu hết là nhận ra mình chọn sai ngành, học không hiểu, chán học, không còn thấy hứng thú với ngành nữa. Số ít thì tìm được việc freelancer nào đó nhiều tiền nên bỏ học luôn. 
-
-      Nhưng sau hơn 5 năm, những gì mình nhận thấy ở họ là một cuộc sống bấp bênh không có định hướng.
-      Nhiều người quay lại trường để học, lấy nốt cái bằng, vì công ty cần một người có bằng cấp.
-      Số lượng người làm KOL, freelancer ngày càng nhiều, cạnh tranh càng khắc nghiệt, dẫn đến họ mất nguồn thu nhập mà họ từng vô cùng tự hào trong quá khứ - khi các bạn cùng trang lứa vẫn còn phải dựa vào tiền chu cấp từ gia đình.
-      Tóm lại thì, những người bỏ học mà mình biết, đến giờ đều đã hối hận.
-      Vậy nên, khi còn được học, hãy cố gắng học. Bạn không cần phải quá nổi bật, quá xuất sắc, bạn chỉ cần học chăm chỉ như cách bạn từng cố gắng để thi đỗ vào ngôi trường này là được. Qua môn ở đại học không hề khó.
-
-
-      Nhưng sẽ có người nghĩ, lấy được cái bằng rồi vẫn không tìm được việc thì sao?
-      <b>Thứ nhất</b>, là do bạn chỉ học để thi, không phải để làm. Doanh nghiệp bây giờ sẽ không có thời gian rảnh để đào tạo bạn lại từ đầu. 
-      
-      <b>Thứ hai</b>, những mối quan hệ của bạn chưa đủ rộng lớn. Ở đại học, có rất nhiều sinh viên sau khi ra trường tự mở công ty tư nhân. Bạn dựa vào một chút quen biết thôi là cũng có thể có cho mình một công việc rồi, dù lương có vẻ không cao lắm. Nhưng chẳng sao cả, mình là sinh viên mới ra trường mà.
-      
-      <b>Thứ ba</b>, bạn kì vọng quá nhiều vào thị trường lao động, hoặc bạn đánh giá bản thân quá cao. Bạn nghĩ rằng chỉ vài project nhỏ của mình, vài dự án mình làm ở trường đại học đã đủ đánh bại những người khác. 
-
-      <b>Thứ tư</b>, bạn biết điểm mạnh của mình. Chấp nhận trái ngành để theo đuổi nó.
-
-      Thị trường vẫn luôn trong tình trạng: doanh nghiệp thì luôn treo thông báo cần người lao động, nhưng người lao động thì thất nghiệp tràn lan.
-      Nhiều sinh viên không biết dùng excel cơ bản, không biết thuyết trình, làm slide thì dày đặc chữ. Những thứ cơ bản đó không nắm được, thì nói thô một chút, bạn chưa xứng đáng được vào bất cứ một công ty nào cả. 
-
-      Nhưng lỗi không hoàn toàn nằm ở bạn.
-      Chương trình giảng dạy cũ kĩ, cách dạy học không hiệu quả, dễ khiến sinh viên cảm thấy <em>"chỉ cần qua môn là được, cần gì phải hiểu"</em>. Các giáo trình đại đa số toàn đã cách đây cả 20 năm, công nghệ đã lỗi thời, không theo kịp được bước tiến của thị trường lao động, cũng khiến sinh viên sau khi ra trường vô cùng chật vật. Hằng năm, các nhà trường vẫn gửi email bắt các sinh viên đã ra trường làm khảo sát để xem thống kê được bao nhiêu sinh viên có được việc làm. Chuyện này ngoài việc làm đẹp hồ sơ tuyển sinh cho trường, chứ còn sinh viên chả được tiếng thơm gì, vì hầu hết các sinh viên đều đã làm trái ngành mà mình đã học.
-
-      Sau khi đi làm, mọi thứ còn kinh khủng hơn. Môi trường không phù hợp, đồng nghiệp không phù hợp, leader không phù hợp,... Nhưng nhiều lúc, vì đồng lương, và nỗi sợ không thể tìm được công việc khác, khiến cho con người ta ngại thay đổi. 
-      Không những vậy, đối mặt với sự bất cân bằng khi phải làm việc chung với hội con ông cháu cha. 
-      Lâu dần, mình cũng học được cách phản đối, học cách nói "Không", học cách từ chối những thứ mà bản thân không thực sự cưỡng cầu.
-
-      
-      
-      
-      
-      
-
-
-
-    `,
-    image: 'https://i.pinimg.com/736x/09/26/58/092658b4e2a8125020efd510040b3d58.jpg',
-    date: '22 Tháng Mười 2025',
-  },
-  {
-    id: 'learned-uni',
-    title: 'A Taste Acquired',
-    excerpt: 'Nhiều màu.',
-    content: `
-      Tôi rất thích một chai rượu Ý tên là Campari. Nó uống đắng và gắt. Chẳng ai mới thử mà khen Campari ngon cả. Hồi làm bartender, vì thấy anh chủ quán hay uống Campari soda nên tôi mới tò mò uống thử, uống nhiều tự nhiên lại thích. Sau này dịch thơ Pablo Neruda tôi mới biết đây cũng là món khoái khẩu của nhà thơ và cô nhân tình. Trong thế giới rượu, những chai đắng hoặc gắt được xếp vào hạng “a taste acquired”, nghĩa là chẳng ai tự nhiên thích vị của chúng cả; người ta phải tiếp xúc nhiều và học cách thích những chai rượu khó ưa ấy. Khi đã thông cảm và hiểu được cái hay, ta đâm nghiện nó hơn mọi món ngon khác.
-
-Có nhiều môn thưởng thức thuộc dạng này. Nhạc cổ điển là a taste acquired. Trong bài “Dẫn Vào Thế Giới Nhạc Jazz” trên chiep.co, tôi nói rằng nhạc cổ điển khó nghe với tai người hiện đại vì nó cần ta tập trung và nghe lại nhiều lần mới thích; classical không catchy như pop.
-
-Cà phê arabica pha máy Italia là a taste acquired. Đầu 2010 khi môn chơi này mới được phổ biến ở HN, ai cũng chê nó nhạt nhẽo không bằng cốc cà phê 10k ở Quất hay Duy Trí. Nhưng 10 năm sau nó được thấu hiểu và được chấp nhận, ta biết rằng đấy cũng là một kiểu ngon, và giờ đây hầu như quán nào cũng có máy pha của Ý.
-
-Rượu vang là a taste acquired. Ai mới uống chẳng chê rượu vang không ngon bằng rượu nút lá chuối ở quê? Nhưng càng uống nhiều và càng tìm hiểu về các tầng hương vị, vùng đất trồng hay cách làm ra chai rượu, ta càng yêu và lúc uống cảm nhận được những điều người khác không hiểu.
-
-Đồng hồ đeo tay là a taste acquired. Mới đầu không ai hiểu đồng hồ cơ khác gì đồng hồ pin, hay dô-lếch, cà-ti-ê khác gì đồng hồ tàu mà đắt bằng mấy cái xe máy. Nhưng tìm hiểu sâu thì ta không những thích cà-ti-ê mà còn thích nó phải là máy automatic, sản xuất năm này năm kia ta mới chịu.
-
-Bạn gái nói chuyện hay là a taste acquired. Con trai mới lớn chỉ thích những bạn gái mặt xinh hoặc chân dài như người mẫu. Nhưng trải qua hết những thứ đó, ta thấy những cô gái hiểu biết và nói chuyện hay gây nghiện hơn; ngồi với họ cả ngày không chán được.
-
-Những cái Taste Acquired giúp cuộc sống đỡ bị một màu và là dấu ấn cá nhân khiến người thưởng thức tâm đắc. 
-
-
-
-
-
-
-
-
-
-    `,
-    image: 'https://i.pinimg.com/1200x/fb/f1/ca/fbf1ca688a91a8cdbdede0ab02f616fa.jpg',
-    date: '1 Tháng Mười 2025',
-  },
+  
+  
 ];
 
 export const popularPosts = [
