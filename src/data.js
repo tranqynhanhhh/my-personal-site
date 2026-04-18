@@ -1,5 +1,103 @@
 export const featuredPost = {
-  id: 'nguoi-dep-la-quai-vat',
+  id: '18-thang4',
+  title: 'Nếu bạn cần một lý do để biến mất khỏi thế giới. (If you need a reason to disappear from the world.)',
+  excerpt: '',
+  content: `
+Hãy tưởng tượng về một cuộc đời thế này: Bạn tự nhốt mình trong một căn phòng nhỏ cho đến cuối đời để chiêm niệm về Chúa. Bạn không bao giờ được phép rời đi, không được thấy ánh nắng mặt trời, mọi nhu cầu vệ sinh gói gọn trong một chiếc xô, nhưng bù lại, bạn được phép nuôi một con mèo — con vật duy nhất được chấp nhận.
+Nghe có vẻ kỳ quặc, thậm chí là cực hình. Theo quy chiếu của thời đại ngày nay, việc một người chỉ nằm lì trong nhà, không giao tiếp, không lao động sẽ bị coi là kẻ thất bại bên lề xã hội. Thế nhưng ở châu Âu thế kỷ 13, nhiều phụ nữ đã khao khát lựa chọn cuộc sống ẩn dật đó. Họ chấp nhận một nghi lễ tuyên bố mình "đã chết" với thế gian để được sống một cuộc đời hoàn toàn khác.
+<figure>
+ <img src="https://substackcdn.com/image/fetch/$s_!tN0M!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb19fda4d-a51b-4a86-8b5c-9307fb78e724_1280x720.heic" alt="Ảnh minh họa" style="width:100%; border-radius:12px; margin:1rem 0;" />
+<figcaption style="text-align:center; font-style:italic; margin-top:0.5rem;">
+   Anchoress (1993).
+  </figcaption>
+
+
+<b> 1.	Nữ ẩn sĩ là gì? </b> 
+Ở thời Trung Cổ, phụ nữ gần như chỉ có hai lựa chọn cho cuộc sống của mình: lấy chồng hoặc vào tu viện. Lấy chồng đồng nghĩa với việc phải mang thai liên tục, phụ thuộc kinh tế hoàn toàn vào chồng, và tỷ lệ tử vong khi sinh nở rất cao. Ngược lại, nếu trở thành một nữ ẩn sĩ, bà có người tài trợ, có người hầu hạ, không một ai có quyền kiểm soát bà ngoài giám mục của nhà thờ. Bà được đọc sách, được viết lách, được ngồi thẩn thơ suy nghĩ cả ngày, và chỉ tiếp những ai cần thiết. Nếu đem hai thứ này so sánh với nhau, việc trở thành nữ ẩn sĩ gần như là sự tự do tối thượng. 
+Một nữ ẩn sĩ được xem như vị thánh sống. Vua chúa, quý tộc, thậm chí cả Giáo hòag đều tìm đến bà để xin lời khuyên. Bà có tiếng nói – điều mà phụ nữ thời đó gần như không thể. Khá hay ho rằng khi bà càng tách biệt khỏi thế gian, tầm ảnh hưởng của bà lại càng sâu rộng.
+Khi một người phụ nữ quyết định trở thành một nữ ẩn sĩ, bà cần đảm bảo hai điều: sự chấp thuận của giám mục địa phương; và một nguồn tài trợ đủ sống suốt đời từ một mạnh thường quân – người sẽ lo chi phí sinh hoạt cho bà cho đến lúc chết. Các nhà tài trợ có thể là giới quý tộc, giáo xứ, tu viện, thậm chí là Hoàng gia. Người dân thường khá hoan hỉ khi đón nhận một nữ ẩn sĩ mới, vì bà sẽ thu hút khách hành hương phương xa, nhờ đó thúc đẩy kinh tế và du lịch địa phương. 
+
+<figure>
+ <img src="https://substackcdn.com/image/fetch/$s_!-LCs!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F65dc32fb-e159-4524-a463-2045bc824dd2_600x588.heic" alt="Ảnh minh họa" style="width:100%; border-radius:12px; margin:1rem 0;" />
+<figcaption style="text-align:center; font-style:italic; margin-top:0.5rem;">
+   Giám mục ban phước cho một nữ ẩn sĩ.
+  </figcaption> 
+
+<b> 2.	Quy tắc để trở thành một nữ ẩn sĩ </b>
+•	Về nhân thân: Trở thành một nữ ẩn sĩ cũng có rất nhiều quy tắc nghiêm ngặt như khi phỏng vấn xin việc. Trước hết, ứng viên phải là một phụ nữ đã trưởng thành. Không ai nhận một cô gái còn quá trẻ, vì giám mục sẽ nghĩ rằng cô bé ấy chưa thể đưa ra được quyết định chín chắn. Ứng viên lý tưởng nhất là một người đã có kinh nghiệm sống trong môi trường tôn giáo: từng là nữ tu, hoặc đã sống như một con chiên nghiêm túc trong nhiều năm. Góa phụ cũng là ứng viên phổ biến, vì họ được coi như đã “hoàn thành nghĩa vụ” với thế gian.
+
+•	Về sức khỏe tâm thần và động cơ: Giám mục sẽ phỏng vấn trực tiếp để đánh giá xem người phụ nữ này có thực sự hiểu mình đang làm gì không. Ông cần một người làm việc này vì đức tin, vì Chúa, chứ không phải vì bỏ chạy khỏi một cuộc hôn nhân tồi tệ hay đi trốn nợ. Sự ổn định về mặt tâm lý cũng là yếu tố then chốt, bởi một người dễ hoảng loạn sẽ không thể trụ vững trong không gian chật hẹp xuốt hàng chục năm. Giám mục cũng sẽ kiểm tra thần học cơ bản, vì một nữ ẩn sĩ sẽ cần phải có kiến thức để tư vấn tâm linh cho người khác.
+
+•	Về tài chính: Không có tiền tài trợ thì không có gì cả. Giám mục cần đảm bảo có người cam kết chu cấp cho bà đến cuối đời thì mới quyết định ký duyệt. Trong nhiều trường hợp, đây dường như lại là rào cản lớn nhất, khiến giám mục đành phải bỏ lỡ rất nhiều ứng viên chân thành nhưng lại không có quan hệ xã hội.
+
+•	Trên thực tế, một số giám mục còn yêu cầu ứng viên thử sống trong điều kiện gần giống như một nữ ẩn sĩ trong một thời gian trước khi chính thức phê duyệt. Dù điều này không phổ biến, nhưng họ cũng muốn xem sức chịu đựng của những người phụ nữ này có được như cách họ trả lời về mong nguyện của mình không.
+
+<b> 3.	Nếu thành công: </b>
+Một nghi lễ được gọi là The Enclosure (Đóng Cửa) sẽ chính thức tuyên bố với thiên hạ rằng nữ ẩn sĩ mới đã chết. Sau đó bà bị khóa lại trong phòng. Một số căn phòng thậm chí đã có sẵn một ngôi mộ được đào ngay giữa nền nhà. Còn nếu chưa có, giám mục sẽ chỉ thị các nữ ẩn sĩ phải tự dùng tay cào đất hằng ngày, cho đến khi đào được một cái hố sẽ vừa vặn với thi thể của họ vào một ngày nào đó. 
+
+Giờ thì nữ ẩn sĩ đã được an trú trong phòng. Rồi sao? Bà sẽ dành những ngày tháng còn lại để cầu nguyện và chiêm niệm. Thực ra, những căn phòng nhỏ mà bà được ở cũng không hẳn là biệt lập so với thế giới bên ngoài. Căn phòng sẽ có ba cửa sổ: một cửa sổ nhỏ cho phép bà nhìn vào điện thờ; cửa sổ thứ hai đủ rộng để chuyển cái xô vệ sinh, cho phép bà giao tiếp với những người hầu. Mỗi nữ ẩn sĩ sẽ có hai người hầu gái: một người trẻ hơn để chăm sóc các nhu cầu thể chất, và một người lớn tuổi hơn để cùng cầu nguyện và canh chừng những vị khách không mời. Cuối cùng, còn có một ô cửa để nhìn ra bên ngoài – nhưng luôn được che bởi một tấm rèm tối màu (hầu hết là màu đen, rất dày) để che khuất khuôn mặt bà và những người bên ngoài.
+
+Bà không còn thuộc về thế gian, sự tồn tại của bà đóng vai trò trung gian giữa người thường và Chúa. Bà sẽ cho lời khuyên cả về tôn giáo lẫn thế tục. Dù tách biệt khỏi thế giới bên ngoài, thiên hạ vẫn không thể không tìm đến bà. Đây là một nghịch lý kỳ lạ, khi nữ ẩn sĩ tồn tại hoàn toàn cô đơn, nhưng thực chất lại gắn bó sâu sắc với cộng đồng xung quanh. 
+
+Một tác phẩm mang tên Ancrene Wisse (Hướng Dẫn Cho Nữ Ẩn Sĩ) được viết vào đầu thế kỷ 13 đã ghi chép lại một số quy tắc buộc các nữ ẩn sĩ phải tuân theo:
+•	Không ăn thịt và mỡ.
+•	Không nhịn ăn nếu chưa được giám mục cho phép.
+•	Không nói chuy ện vào các ngày thứ Sáu.
+•	Không nên quá yêu quý cái cửa sổ của mình (ý là đừng tán gẫu quá nhiều với những người tới xin lời khuyên).
+
+Và một số điều nên làm:
+•	Cạo đầu hoặc cắt tóc thật ngắn.
+•	Đi giày to, ấm vào mùa đông (nhưng không được đi khi đi ngủ).
+•	Lấy máu bốn lần một năm.
+•	Tắm rửa tùy thích.
+•	Chỉ được nuôi một con mèo – và không con vật nào khác. (“My dear sisters, unless need drives you and yours director advises it, you must not have any animal except a cat”).
+
+<b> 4.	Nhưng nếu một nữ ẩn sĩ suy nghĩ lại? </b>
+
+Không có gì ngạc nhiên nếu có nữ ẩn sĩ dần chán ghét cuộc sống ngột ngạt và tù túng này. Trong lịch sử cũng đã ghi lại nhiều trường hợp các nữ ẩn sĩ đã bỏ trốn khỏi phòng của mình. Năm 1329, Giám mục Winchester cho phép Christine Carpenter được trở thành một nữ ẩn sĩ tại nhà thờ St James của Shere. Đến năm 1331, tức là chỉ 2 năm sau, Christine đã bỏ trốn và cố gắng tái hòa nhập cộng đồng. Tin tức loan ra nhanh chóng, và đứng trước nguy cơ bị vạ tuyệt thông, Christine thỉnh cầu Giáo hoàng tha thứ. Bà được phép vào phòng lần nữa. Nhưng lần này, thay vì 3 cánh cửa sổ, người ta xây gạch bịt kín căn phòng lại. Sau này, không ai rõ bà qua đời lúc nào.
+
+<figure>
+ <img src="https://substackcdn.com/image/fetch/$s_!Vm58!,w_720,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9723f220-3c96-47df-9408-83c3165a2cbb_1420x1050.png" alt="Ảnh minh họa" style="width:100%; border-radius:12px; margin:1rem 0;" />
+ <img src="https://substackcdn.com/image/fetch/$s_!iiOh!,w_720,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5798e6a2-2f63-45a8-9e97-0a5b31e2a17d_1418x1046.png" alt="Ảnh minh họa" style="width:100%; border-radius:12px; margin:1rem 0;" />
+<figcaption style="text-align:center; font-style:italic; margin-top:0.5rem;">
+    Nhà thờ St.James ở Shere, Anh. Địa điểm phòng riêng của Christine Carpenter.
+  </figcaption>
+
+
+<b>  5.	Tại sao lại là nữ ẩn sĩ? </b>
+Đương nhiên là có nam ẩn sĩ, thậm chí nam ẩn sĩ còn xuất hiện từ trước đó rất lâu.
+
+Các nam ẩn sĩ đầu tiên không phải ở châu Âu mà ở sa mạc Ai Cập và Syria từ những thế kỳ thứ 3-4. Họ được gọi là các Giáo phụ Sa mạc(Desert Fathers). Nổi tiếng nhất trong số này là Thánh Anthony Đại đế, người đã bỏ đi đến sa mạc sống một mình từ năm 20 tuổi, và sống ở đó trong vòng 80 năm, ông cũng được xem như cha đẻ của phong trào ẩn tu của Kitô giáo. Một trường hợp cực đoan đáng kinh ngạc khác là Simeon Stylites — ông này không chui vào phòng mà leo lên đỉnh một cái cột cao khoảng 18 mét và sống ở đó 37 năm. Người bên dưới hằng ngày phải chuyển thức ăn lên cho ông bằng dây thừng, còn Simeon Stylites vẫn giảng đạo và tư vấn từ trên cao. 
+
+Quay lại với thời Trung Cổ ở châu Âu, vào thế kỷ 13, số lượng nữ ẩn sĩ đông hơn nam gấp 4 lần. Lý do chủ yếu là vì đàn ông thời đó có nhiều lựa chọn tôn giáo hơn — họ có thể trở thành tu sĩ Dòng Biển Đức, Dòng Phanxicô, Dòng Đa Minh, linh mục... Trong khi đó phụ nữ bị giới hạn hơn nhiều, nên ẩn mình tu tập trong một căn phòng tối trở thành một trong số ít con đường tâm linh "cao cấp" mà họ có thể tiếp cận. Nói cách khác, nam giới có nhiều "cửa ra" hơn, nên ít người chọn con đường cực đoan nhất.
+
+<figure>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Saint_Anthony_%28Damaskinos%29.png/250px-Saint_Anthony_%28Damaskinos%29.png" alt="Ảnh minh họa" style="width:100%; border-radius:12px; margin:1rem 0;" />
+<figcaption style="text-align:center; font-style:italic; margin-top:0.5rem;">
+    Thánh Anthony Đại đế(Anthony the Great)(251 - 356). Tranh của Michael Damaskinos vào thế kỷ 16.
+  </figcaption>
+
+
+
+
+
+    <b> Aelin. </b> 
+
+
+
+
+
+
+
+
+
+  `,
+  image: 'https://i.pinimg.com/736x/e3/f2/8e/e3f28e935ac59cede644ead3bdb3390c.jpg',
+  date: '18 Tháng Tư 2026',
+};
+
+export const sidebarPosts = [
+  {id: 'nguoi-dep-la-quai-vat',
   title: 'Người Đẹp là Quái Vật.',
   excerpt: '',
   content: `
@@ -54,10 +152,8 @@ Các bác sĩ thời kỳ Phục Hưng chuyên điều trị cho giới thượn
 
   `,
   image: 'https://i.pinimg.com/736x/e3/f2/8e/e3f28e935ac59cede644ead3bdb3390c.jpg',
-  date: '11 Tháng Hai 2026',
-};
+  date: '11 Tháng Hai 2026',},
 
-export const sidebarPosts = [
   {
   id: 'fomo',
   title: 'Tôi cho phép mình FOMO.',
